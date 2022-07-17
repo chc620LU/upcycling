@@ -4,15 +4,9 @@ Created on Tue Jan 01 2022
 
 """
 
-
-import numpy as np
 import pandas as pd
-import scipy.stats
 
 from rdkit import Chem
-from pyomo.environ import *
-from ase.units import kJ, Hartree, mol, kcal
-
 from Enthalpy_Generator import *
 
 def justSMILES_species(filename):
@@ -42,6 +36,5 @@ def run(UnknownMoleculesTxt, h5py_filename, number_Conformer):
 
 number_Conformer = 200
 h5py_filename = './molecule_properties_conformer200'
-# UnknownMoleculesTxt = './InputTxt/AA_Feb09/all_species_C10toAA.txt' #Species_in_pathway_BenTolC6toC15.txt
 UnknownMoleculesTxt = './species.txt'
 run(UnknownMoleculesTxt, h5py_filename, number_Conformer)
