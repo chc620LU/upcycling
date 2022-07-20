@@ -1,0 +1,212 @@
+Unable to open reactants.txt, so skipping reactant input from file
+Molecule: C(CCCCCCCC)C checked OK!
+Molecule: [{B}H][{B}H] checked OK!
+reactions generated: 5
+number of molecules to be processed yet: 7
+reactions generated: 1003
+number of molecules to be processed yet: 120
+reactions generated: 2003
+number of molecules to be processed yet: 111
+reactions generated: 3001
+number of molecules to be processed yet: 27
+the number of species is 587
+Number of reactions with rule Dehydrogenation is 1330
+Number of reactions with rule BetaScission is 247
+Number of reactions with rule EndMethaneBetaScissionWithHB2 is 253
+Number of reactions with rule Hydrogenation is 1231
+Number of reactions with rule FirstCyclization is 76
+Number of reactions with rule SecondCyclizationtypeA is 8
+Number of reactions with rule SecondCyclizationtypeB is 4
+the number of reactions: 3149, with multiplicity included: 8488
+the number of lumps is 0
+the additional lump map size is 0
+total number of intermediates is 0
+the total number of lumps is 0
+the number of molecules lumped is 0
+the number of reactions in the LumpedReactions is 0
+Network generation completed
+writing reactions to file
+Completed writing reactions and species lists into file
+pathways to be stored in Pathways_AA_0.txt
+molecule C(=C)Cc1c(cccc1)C satisfies constraints
+shortest path to the molecule is 6
+finding pathways
+valid pathways 112, distinct pathways 112
+1 molecules satisfied the molecular constraints specified
+
+pathways to be stored in Pathways_AA_1.txt
+molecule C(=C)c1c(C=C)cccc1 satisfies constraints
+shortest path to the molecule is 7
+finding pathways
+valid pathways 245, distinct pathways 245
+1 molecules satisfied the molecular constraints specified
+
+pathways to be stored in Pathways_AA_2.txt
+molecule C(=C)c1c(cccc1)C satisfies constraints
+shortest path to the molecule is 7
+finding pathways
+valid pathways 300, distinct pathways 300
+1 molecules satisfied the molecular constraints specified
+
+pathways to be stored in Pathways_AA_3.txt
+molecule C(=Cc1c(cccc1)C)C satisfies constraints
+shortest path to the molecule is 6
+finding pathways
+valid pathways 84, distinct pathways 84
+1 molecules satisfied the molecular constraints specified
+
+pathways to be stored in Pathways_AA_4.txt
+molecule c1(C=C)ccccc1 satisfies constraints
+shortest path to the molecule is 7
+finding pathways
+valid pathways 3471, distinct pathways 3471
+1 molecules satisfied the molecular constraints specified
+
+pathways to be stored in Pathways_AA_5.txt
+molecule c1(CC)ccccc1 satisfies constraints
+shortest path to the molecule is 6
+finding pathways
+valid pathways 165, distinct pathways 165
+1 molecules satisfied the molecular constraints specified
+
+pathways to be stored in Pathways_AA_6.txt
+molecule c1(c(C=C)cccc1)CC satisfies constraints
+shortest path to the molecule is 6
+finding pathways
+valid pathways 78, distinct pathways 78
+1 molecules satisfied the molecular constraints specified
+
+pathways to be stored in Pathways_AA_7.txt
+molecule c1(c(CC)cccc1)C satisfies constraints
+shortest path to the molecule is 8
+finding pathways
+valid pathways 908, distinct pathways 908
+1 molecules satisfied the molecular constraints specified
+
+pathways to be stored in Pathways_AA_8.txt
+molecule c1(c(CC)cccc1)CC satisfies constraints
+shortest path to the molecule is 5
+finding pathways
+valid pathways 5, distinct pathways 5
+1 molecules satisfied the molecular constraints specified
+
+pathways to be stored in Pathways_AA_9.txt
+molecule c1(c(CCC)cccc1)C satisfies constraints
+shortest path to the molecule is 5
+finding pathways
+valid pathways 18, distinct pathways 18
+1 molecules satisfied the molecular constraints specified
+
+pathways to be stored in Pathways_AA_10.txt
+molecule c1(c(cccc1)C)C satisfies constraints
+shortest path to the molecule is 8
+finding pathways
+valid pathways 255, distinct pathways 255
+1 molecules satisfied the molecular constraints specified
+
+pathways to be stored in Pathways_AA_11.txt
+molecule c1(ccccc1)C satisfies constraints
+shortest path to the molecule is 6
+finding pathways
+valid pathways 197, distinct pathways 197
+1 molecules satisfied the molecular constraints specified
+
+pathways to be stored in Pathways_AA_12.txt
+molecule c1(ccccc1)C=CC satisfies constraints
+shortest path to the molecule is 7
+finding pathways
+valid pathways 202, distinct pathways 202
+1 molecules satisfied the molecular constraints specified
+
+pathways to be stored in Pathways_AA_13.txt
+molecule c1(ccccc1)C=CC=C satisfies constraints
+shortest path to the molecule is 7
+finding pathways
+valid pathways 616, distinct pathways 616
+1 molecules satisfied the molecular constraints specified
+
+pathways to be stored in Pathways_AA_14.txt
+molecule c1(ccccc1)C=CCC satisfies constraints
+shortest path to the molecule is 6
+finding pathways
+valid pathways 112, distinct pathways 112
+1 molecules satisfied the molecular constraints specified
+
+pathways to be stored in Pathways_AA_15.txt
+molecule c1(ccccc1)CC=C satisfies constraints
+shortest path to the molecule is 7
+finding pathways
+valid pathways 638, distinct pathways 638
+1 molecules satisfied the molecular constraints specified
+
+pathways to be stored in Pathways_AA_16.txt
+molecule c1(ccccc1)CC=CC satisfies constraints
+shortest path to the molecule is 6
+finding pathways
+valid pathways 120, distinct pathways 120
+1 molecules satisfied the molecular constraints specified
+
+pathways to be stored in Pathways_AA_17.txt
+molecule c1(ccccc1)CCC satisfies constraints
+shortest path to the molecule is 6
+finding pathways
+valid pathways 34, distinct pathways 34
+1 molecules satisfied the molecular constraints specified
+
+pathways to be stored in Pathways_AA_18.txt
+molecule c1(ccccc1)CCC=C satisfies constraints
+shortest path to the molecule is 6
+finding pathways
+valid pathways 100, distinct pathways 100
+1 molecules satisfied the molecular constraints specified
+
+pathways to be stored in Pathways_AA_19.txt
+molecule c1(ccccc1)CCCC satisfies constraints
+shortest path to the molecule is 5
+finding pathways
+valid pathways 20, distinct pathways 20
+1 molecules satisfied the molecular constraints specified
+
+pathways to be stored in Pathways_AA_20.txt
+molecule c12c(cccc1)C=CC=C2 satisfies constraints
+shortest path to the molecule is 9
+finding pathways
+valid pathways 507, distinct pathways 507
+1 molecules satisfied the molecular constraints specified
+
+pathways to be stored in Pathways_AA_21.txt
+molecule c12c(cccc1)C=CCC2 satisfies constraints
+shortest path to the molecule is 8
+finding pathways
+valid pathways 507, distinct pathways 507
+1 molecules satisfied the molecular constraints specified
+
+pathways to be stored in Pathways_AA_22.txt
+molecule c12c(cccc1)CC=CC2 satisfies constraints
+shortest path to the molecule is 8
+finding pathways
+valid pathways 232, distinct pathways 232
+1 molecules satisfied the molecular constraints specified
+
+pathways to be stored in Pathways_AA_23.txt
+molecule c12c(cccc1)CCCC2 satisfies constraints
+shortest path to the molecule is 7
+finding pathways
+valid pathways 85, distinct pathways 85
+1 molecules satisfied the molecular constraints specified
+
+pathways to be stored in Pathways_AA_24.txt
+molecule c12c(cccc1)cccc2 satisfies constraints
+shortest path to the molecule is 11
+finding pathways
+valid pathways 2533, distinct pathways 2533
+1 molecules satisfied the molecular constraints specified
+
+pathways to be stored in Pathways_AA_25.txt
+molecule c1ccccc1 satisfies constraints
+shortest path to the molecule is 6
+finding pathways
+valid pathways 416, distinct pathways 416
+1 molecules satisfied the molecular constraints specified
+
+molecule queries to be stored in Aromatic_mol_C10_NoPCP.txt

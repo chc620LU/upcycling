@@ -1,0 +1,2956 @@
+molecule c12c(cccc1)CCCC2 satisfies constraints
+shortest path to the molecule is 7
+Pathways for c12c(cccc1)CCCC2 
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CCCCC1)C=CC=C
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CCCCC1)C=CC=C
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CCCCC1)C=CC=C
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CCCCC1)C=CC=C
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CCCCC1)C=CC=C
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CCCCC1)C=CC=C
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)CCCCC=CC=C.[HH]
+C(=C)CCCCC=CC=C>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CCCCC1)C=CC=C
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)CCCCC=CC=C.[HH]
+C(=C)CCCCC=CC=C>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CCCCC1)C=CC=C
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCC=CCC.[HH]
+C(=C)CCCCC=CCC>>C(=C)CCCCC=CC=C.[HH]
+C(=C)CCCCC=CC=C>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CCCCC1)C=CC=C
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)CCCCC=CCC.[HH]
+C(=C)CCCCC=CCC>>C(=C)CCCCC=CC=C.[HH]
+C(=C)CCCCC=CC=C>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CCCCC1)C=CC=C
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCCC=C.[HH]
+C(=C)CCCCCCC=C>>C(=C)CCCCC=CC=C.[HH]
+C(=C)CCCCC=CC=C>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CCCCC1)C=CC=C
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CC=CCC.[HH]
+C(=C)CCC=CC=CCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CCCCC1)C=CC=C
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CC=CCC.[HH]
+C(=C)CCC=CC=CCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CCCCC1)C=CC=C
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCC=CCC.[HH]
+C(=C)CCCCC=CCC>>C(=C)CCC=CC=CCC.[HH]
+C(=C)CCC=CC=CCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CCCCC1)C=CC=C
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)CCCCC=CCC.[HH]
+C(=C)CCCCC=CCC>>C(=C)CCC=CC=CCC.[HH]
+C(=C)CCC=CC=CCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CCCCC1)C=CC=C
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=C)CCC=CC=CCC.[HH]
+C(=C)CCC=CC=CCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CCCCC1)C=CC=C
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=C)CCC=CC=CCC.[HH]
+C(=C)CCC=CC=CCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CCCCC1)C=CC=C
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CCCCC1)C=CC=C
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CCCCC1)C=CC=C
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCCC=C.[HH]
+C(=C)CCCCCCC=C>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CCCCC1)C=CC=C
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CC=CCC.[HH]
+C(=C)CCC=CC=CCC>>C1(=CCCCC1)C=CCC
+C1(=CCCCC1)C=CCC>>C1(=CCCCC1)C=CC=C.[HH]
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CC=CCC.[HH]
+C(=C)CCC=CC=CCC>>C1(=CCCCC1)C=CCC
+C1(=CCCCC1)C=CCC>>C1(=CCCCC1)C=CC=C.[HH]
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCC=CCC.[HH]
+C(=C)CCCCC=CCC>>C(=C)CCC=CC=CCC.[HH]
+C(=C)CCC=CC=CCC>>C1(=CCCCC1)C=CCC
+C1(=CCCCC1)C=CCC>>C1(=CCCCC1)C=CC=C.[HH]
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)CCCCC=CCC.[HH]
+C(=C)CCCCC=CCC>>C(=C)CCC=CC=CCC.[HH]
+C(=C)CCC=CC=CCC>>C1(=CCCCC1)C=CCC
+C1(=CCCCC1)C=CCC>>C1(=CCCCC1)C=CC=C.[HH]
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=C)CCC=CC=CCC.[HH]
+C(=C)CCC=CC=CCC>>C1(=CCCCC1)C=CCC
+C1(=CCCCC1)C=CCC>>C1(=CCCCC1)C=CC=C.[HH]
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=C)CCC=CC=CCC.[HH]
+C(=C)CCC=CC=CCC>>C1(=CCCCC1)C=CCC
+C1(=CCCCC1)C=CCC>>C1(=CCCCC1)C=CC=C.[HH]
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C1(=CCCCC1)CCCC
+C1(=CCCCC1)CCCC>>C1(=CCCCC1)C=CCC.[HH]
+C1(=CCCCC1)C=CCC>>C1(=CCCCC1)C=CC=C.[HH]
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C1(=CCCCC1)CCCC
+C1(=CCCCC1)CCCC>>C1(=CCCCC1)C=CCC.[HH]
+C1(=CCCCC1)C=CCC>>C1(=CCCCC1)C=CC=C.[HH]
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C1(=CCCCC1)CCC=C
+C1(=CCCCC1)CCC=C>>C1(=CCCCC1)C=CC=C.[HH]
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C1(=CCCCC1)CCC=C
+C1(=CCCCC1)CCC=C>>C1(=CCCCC1)C=CC=C.[HH]
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCCC=C.[HH]
+C(=C)CCCCCCC=C>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C1(=CCCCC1)CCC=C
+C1(=CCCCC1)CCC=C>>C1(=CCCCC1)C=CC=C.[HH]
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C1(=CCCCC1)CCCC
+C1(=CCCCC1)CCCC>>C1(=CCCCC1)CCC=C.[HH]
+C1(=CCCCC1)CCC=C>>C1(=CCCCC1)C=CC=C.[HH]
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C1(=CCCCC1)CCCC
+C1(=CCCCC1)CCCC>>C1(=CCCCC1)CCC=C.[HH]
+C1(=CCCCC1)CCC=C>>C1(=CCCCC1)C=CC=C.[HH]
+C1(=CCCCC1)C=CC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CC=CCC1)CCC=C
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CC=CCC1)CCC=C
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CC=CCC1)CCC=C
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CC=CCC1)CCC=C
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CC=CCC1)CCC=C
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CC=CCC1)CCC=C
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)CCCCC=CC=C.[HH]
+C(=C)CCCCC=CC=C>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CC=CCC1)CCC=C
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)CCCCC=CC=C.[HH]
+C(=C)CCCCC=CC=C>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CC=CCC1)CCC=C
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCC=CCC.[HH]
+C(=C)CCCCC=CCC>>C(=C)CCCCC=CC=C.[HH]
+C(=C)CCCCC=CC=C>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CC=CCC1)CCC=C
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)CCCCC=CCC.[HH]
+C(=C)CCCCC=CCC>>C(=C)CCCCC=CC=C.[HH]
+C(=C)CCCCC=CC=C>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CC=CCC1)CCC=C
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCCC=C.[HH]
+C(=C)CCCCCCC=C>>C(=C)CCCCC=CC=C.[HH]
+C(=C)CCCCC=CC=C>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CC=CCC1)CCC=C
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CC=CCC.[HH]
+C(=C)CCC=CC=CCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CC=CCC1)CCC=C
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CC=CCC.[HH]
+C(=C)CCC=CC=CCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CC=CCC1)CCC=C
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCC=CCC.[HH]
+C(=C)CCCCC=CCC>>C(=C)CCC=CC=CCC.[HH]
+C(=C)CCC=CC=CCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CC=CCC1)CCC=C
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)CCCCC=CCC.[HH]
+C(=C)CCCCC=CCC>>C(=C)CCC=CC=CCC.[HH]
+C(=C)CCC=CC=CCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CC=CCC1)CCC=C
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=C)CCC=CC=CCC.[HH]
+C(=C)CCC=CC=CCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CC=CCC1)CCC=C
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=C)CCC=CC=CCC.[HH]
+C(=C)CCC=CC=CCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CC=CCC1)CCC=C
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CC=CCC1)CCC=C
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CC=CCC1)CCC=C
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCCC=C.[HH]
+C(=C)CCCCCCC=C>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C1(=CC=CCC1)CCC=C
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C1(=CC=CCC1)CCCC
+C1(=CC=CCC1)CCCC>>C1(=CC=CCC1)CCC=C.[HH]
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C1(=CC=CCC1)CCCC
+C1(=CC=CCC1)CCCC>>C1(=CC=CCC1)CCC=C.[HH]
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C1(=CC=CCC1)CCCC
+C1(=CC=CCC1)CCCC>>C1(=CC=CCC1)CCC=C.[HH]
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C1(=CC=CCC1)CCCC
+C1(=CC=CCC1)CCCC>>C1(=CC=CCC1)CCC=C.[HH]
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C1(=CC=CCC1)CCCC
+C1(=CC=CCC1)CCCC>>C1(=CC=CCC1)CCC=C.[HH]
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C1(=CC=CCC1)CCCC
+C1(=CC=CCC1)CCCC>>C1(=CC=CCC1)CCC=C.[HH]
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C1(=CCCCC1)CCCC
+C1(=CCCCC1)CCCC>>C1(=CC=CCC1)CCCC.[HH]
+C1(=CC=CCC1)CCCC>>C1(=CC=CCC1)CCC=C.[HH]
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C1(=CCCCC1)CCCC
+C1(=CCCCC1)CCCC>>C1(=CC=CCC1)CCCC.[HH]
+C1(=CC=CCC1)CCCC>>C1(=CC=CCC1)CCC=C.[HH]
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C1(=CCCCC1)CCC=C
+C1(=CCCCC1)CCC=C>>C1(=CC=CCC1)CCC=C.[HH]
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C1(=CCCCC1)CCC=C
+C1(=CCCCC1)CCC=C>>C1(=CC=CCC1)CCC=C.[HH]
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCCC=C.[HH]
+C(=C)CCCCCCC=C>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C1(=CCCCC1)CCC=C
+C1(=CCCCC1)CCC=C>>C1(=CC=CCC1)CCC=C.[HH]
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C1(=CCCCC1)CCCC
+C1(=CCCCC1)CCCC>>C1(=CCCCC1)CCC=C.[HH]
+C1(=CCCCC1)CCC=C>>C1(=CC=CCC1)CCC=C.[HH]
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C1(=CCCCC1)CCCC
+C1(=CCCCC1)CCCC>>C1(=CCCCC1)CCC=C.[HH]
+C1(=CCCCC1)CCC=C>>C1(=CC=CCC1)CCC=C.[HH]
+C1(=CC=CCC1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C1(=CCCCC1)CCC=C
+C1(=CCCCC1)CCC=C>>C1(=CCCC=C1)CCC=C.[HH]
+C1(=CCCC=C1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C1(=CCCCC1)CCC=C
+C1(=CCCCC1)CCC=C>>C1(=CCCC=C1)CCC=C.[HH]
+C1(=CCCC=C1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCCC=C.[HH]
+C(=C)CCCCCCC=C>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C1(=CCCCC1)CCC=C
+C1(=CCCCC1)CCC=C>>C1(=CCCC=C1)CCC=C.[HH]
+C1(=CCCC=C1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C1(=CCCCC1)CCCC
+C1(=CCCCC1)CCCC>>C1(=CCCCC1)CCC=C.[HH]
+C1(=CCCCC1)CCC=C>>C1(=CCCC=C1)CCC=C.[HH]
+C1(=CCCC=C1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C1(=CCCCC1)CCCC
+C1(=CCCCC1)CCCC>>C1(=CCCCC1)CCC=C.[HH]
+C1(=CCCCC1)CCC=C>>C1(=CCCC=C1)CCC=C.[HH]
+C1(=CCCC=C1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C(=C)CCC1C=CCCC1
+C(=C)CCC1C=CCCC1>>C1(=CCCC=C1)CCC=C.[HH]
+C1(=CCCC=C1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C(=C)CCC1C=CCCC1
+C(=C)CCC1C=CCCC1>>C1(=CCCC=C1)CCC=C.[HH]
+C1(=CCCC=C1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCCC=C.[HH]
+C(=C)CCCCCCC=C>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C(=C)CCC1C=CCCC1
+C(=C)CCC1C=CCCC1>>C1(=CCCC=C1)CCC=C.[HH]
+C1(=CCCC=C1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C1(CCCC)C=CCCC1
+C1(CCCC)C=CCCC1>>C(=C)CCC1C=CCCC1.[HH]
+C(=C)CCC1C=CCCC1>>C1(=CCCC=C1)CCC=C.[HH]
+C1(=CCCC=C1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C1(CCCC)C=CCCC1
+C1(CCCC)C=CCCC1>>C(=C)CCC1C=CCCC1.[HH]
+C(=C)CCC1C=CCCC1>>C1(=CCCC=C1)CCC=C.[HH]
+C1(=CCCC=C1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C1(=CCCCC1)CCCC
+C1(=CCCCC1)CCCC>>C1(=CCCC=C1)CCCC.[HH]
+C1(=CCCC=C1)CCCC>>C1(=CCCC=C1)CCC=C.[HH]
+C1(=CCCC=C1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C1(=CCCCC1)CCCC
+C1(=CCCCC1)CCCC>>C1(=CCCC=C1)CCCC.[HH]
+C1(=CCCC=C1)CCCC>>C1(=CCCC=C1)CCC=C.[HH]
+C1(=CCCC=C1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C1(CCCC)C=CCCC1
+C1(CCCC)C=CCCC1>>C1(=CCCC=C1)CCCC.[HH]
+C1(=CCCC=C1)CCCC>>C1(=CCCC=C1)CCC=C.[HH]
+C1(=CCCC=C1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C1(CCCC)C=CCCC1
+C1(CCCC)C=CCCC1>>C1(=CCCC=C1)CCCC.[HH]
+C1(=CCCC=C1)CCCC>>C1(=CCCC=C1)CCC=C.[HH]
+C1(=CCCC=C1)CCC=C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C1(=CCCCC1)CCC=C
+C1(=CCCCC1)CCC=C>>C12=C(CCCC1)CCCC2
+C12=C(CCCC1)CCCC2>>C12=C(CCCC1)C=CCC2.[HH]
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C1(=CCCCC1)CCC=C
+C1(=CCCCC1)CCC=C>>C12=C(CCCC1)CCCC2
+C12=C(CCCC1)CCCC2>>C12=C(CCCC1)C=CCC2.[HH]
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCCC=C.[HH]
+C(=C)CCCCCCC=C>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C1(=CCCCC1)CCC=C
+C1(=CCCCC1)CCC=C>>C12=C(CCCC1)CCCC2
+C12=C(CCCC1)CCCC2>>C12=C(CCCC1)C=CCC2.[HH]
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C1(=CCCCC1)CCCC
+C1(=CCCCC1)CCCC>>C1(=CCCCC1)CCC=C.[HH]
+C1(=CCCCC1)CCC=C>>C12=C(CCCC1)CCCC2
+C12=C(CCCC1)CCCC2>>C12=C(CCCC1)C=CCC2.[HH]
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C1(=CCCCC1)CCCC
+C1(=CCCCC1)CCCC>>C1(=CCCCC1)CCC=C.[HH]
+C1(=CCCCC1)CCC=C>>C12=C(CCCC1)CCCC2
+C12=C(CCCC1)CCCC2>>C12=C(CCCC1)C=CCC2.[HH]
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 7 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C(=CCC=C)(CCC=C)C
+C(=CCC=C)(CCC=C)C>>C1(=C(CCCC1)CC=C)C
+C1(=C(CCCC1)CC=C)C>>C12=C(CCCC1)CCCC2
+C12=C(CCCC1)CCCC2>>C12=C(CCCC1)C=CCC2.[HH]
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C(=CCC=C)(CCC=C)C
+C(=CCC=C)(CCC=C)C>>C1(=C(CCCC1)CC=C)C
+C1(=C(CCCC1)CC=C)C>>C12=C(CCCC1)CCCC2
+C12=C(CCCC1)CCCC2>>C12=C(CCCC1)C=CCC2.[HH]
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCCC=C.[HH]
+C(=C)CCCCCCC=C>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C(=CCC=C)(CCC=C)C
+C(=CCC=C)(CCC=C)C>>C1(=C(CCCC1)CC=C)C
+C1(=C(CCCC1)CC=C)C>>C12=C(CCCC1)CCCC2
+C12=C(CCCC1)CCCC2>>C12=C(CCCC1)C=CCC2.[HH]
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCC=C)(CCCC)C
+C(=CCC=C)(CCCC)C>>C(=CCC=C)(CCC=C)C.[HH]
+C(=CCC=C)(CCC=C)C>>C1(=C(CCCC1)CC=C)C
+C1(=C(CCCC1)CC=C)C>>C12=C(CCCC1)CCCC2
+C12=C(CCCC1)CCCC2>>C12=C(CCCC1)C=CCC2.[HH]
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCC=C)(CCCC)C
+C(=CCC=C)(CCCC)C>>C(=CCC=C)(CCC=C)C.[HH]
+C(=CCC=C)(CCC=C)C>>C1(=C(CCCC1)CC=C)C
+C1(=C(CCCC1)CC=C)C>>C12=C(CCCC1)CCCC2
+C12=C(CCCC1)CCCC2>>C12=C(CCCC1)C=CCC2.[HH]
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCCC)(CCCC)C
+C(=CCCC)(CCCC)C>>C(=CCC=C)(CCCC)C.[HH]
+C(=CCC=C)(CCCC)C>>C(=CCC=C)(CCC=C)C.[HH]
+C(=CCC=C)(CCC=C)C>>C1(=C(CCCC1)CC=C)C
+C1(=C(CCCC1)CC=C)C>>C12=C(CCCC1)CCCC2
+C12=C(CCCC1)CCCC2>>C12=C(CCCC1)C=CCC2.[HH]
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCCC)(CCC=C)C
+C(=CCCC)(CCC=C)C>>C(=CCC=C)(CCC=C)C.[HH]
+C(=CCC=C)(CCC=C)C>>C1(=C(CCCC1)CC=C)C
+C1(=C(CCCC1)CC=C)C>>C12=C(CCCC1)CCCC2
+C12=C(CCCC1)CCCC2>>C12=C(CCCC1)C=CCC2.[HH]
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCCC)(CCC=C)C
+C(=CCCC)(CCC=C)C>>C(=CCC=C)(CCC=C)C.[HH]
+C(=CCC=C)(CCC=C)C>>C1(=C(CCCC1)CC=C)C
+C1(=C(CCCC1)CC=C)C>>C12=C(CCCC1)CCCC2
+C12=C(CCCC1)CCCC2>>C12=C(CCCC1)C=CCC2.[HH]
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCCC)(CCCC)C
+C(=CCCC)(CCCC)C>>C(=CCCC)(CCC=C)C.[HH]
+C(=CCCC)(CCC=C)C>>C(=CCC=C)(CCC=C)C.[HH]
+C(=CCC=C)(CCC=C)C>>C1(=C(CCCC1)CC=C)C
+C1(=C(CCCC1)CC=C)C>>C12=C(CCCC1)CCCC2
+C12=C(CCCC1)CCCC2>>C12=C(CCCC1)C=CCC2.[HH]
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCCC)(CCC=C)C
+C(=CCCC)(CCC=C)C>>C1(=C(CCCC1)CCC)C
+C1(=C(CCCC1)CCC)C>>C1(=C(CCCC1)CC=C)C.[HH]
+C1(=C(CCCC1)CC=C)C>>C12=C(CCCC1)CCCC2
+C12=C(CCCC1)CCCC2>>C12=C(CCCC1)C=CCC2.[HH]
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCCC)(CCC=C)C
+C(=CCCC)(CCC=C)C>>C1(=C(CCCC1)CCC)C
+C1(=C(CCCC1)CCC)C>>C1(=C(CCCC1)CC=C)C.[HH]
+C1(=C(CCCC1)CC=C)C>>C12=C(CCCC1)CCCC2
+C12=C(CCCC1)CCCC2>>C12=C(CCCC1)C=CCC2.[HH]
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCCC)(CCCC)C
+C(=CCCC)(CCCC)C>>C(=CCCC)(CCC=C)C.[HH]
+C(=CCCC)(CCC=C)C>>C1(=C(CCCC1)CCC)C
+C1(=C(CCCC1)CCC)C>>C1(=C(CCCC1)CC=C)C.[HH]
+C1(=C(CCCC1)CC=C)C>>C12=C(CCCC1)CCCC2
+C12=C(CCCC1)CCCC2>>C12=C(CCCC1)C=CCC2.[HH]
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C(=CCC=C)(C=CC=C)C
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C(=CCC=C)(C=CC=C)C
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C(=CCC=C)(C=CC=C)C
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C(=CCC=C)(C=CC=C)C
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C(=CCC=C)(C=CC=C)C
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C(=CCC=C)(C=CC=C)C
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)CCCCC=CC=C.[HH]
+C(=C)CCCCC=CC=C>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C(=CCC=C)(C=CC=C)C
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)CCCCC=CC=C.[HH]
+C(=C)CCCCC=CC=C>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C(=CCC=C)(C=CC=C)C
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCC=CCC.[HH]
+C(=C)CCCCC=CCC>>C(=C)CCCCC=CC=C.[HH]
+C(=C)CCCCC=CC=C>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C(=CCC=C)(C=CC=C)C
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)CCCCC=CCC.[HH]
+C(=C)CCCCC=CCC>>C(=C)CCCCC=CC=C.[HH]
+C(=C)CCCCC=CC=C>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C(=CCC=C)(C=CC=C)C
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCCC=C.[HH]
+C(=C)CCCCCCC=C>>C(=C)CCCCC=CC=C.[HH]
+C(=C)CCCCC=CC=C>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C(=CCC=C)(C=CC=C)C
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CC=CCC.[HH]
+C(=C)CCC=CC=CCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C(=CCC=C)(C=CC=C)C
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CC=CCC.[HH]
+C(=C)CCC=CC=CCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C(=CCC=C)(C=CC=C)C
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCC=CCC.[HH]
+C(=C)CCCCC=CCC>>C(=C)CCC=CC=CCC.[HH]
+C(=C)CCC=CC=CCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C(=CCC=C)(C=CC=C)C
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)CCCCC=CCC.[HH]
+C(=C)CCCCC=CCC>>C(=C)CCC=CC=CCC.[HH]
+C(=C)CCC=CC=CCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C(=CCC=C)(C=CC=C)C
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=C)CCC=CC=CCC.[HH]
+C(=C)CCC=CC=CCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C(=CCC=C)(C=CC=C)C
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=C)CCC=CC=CCC.[HH]
+C(=C)CCC=CC=CCC>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C(=CCC=C)(C=CC=C)C
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C(=CCC=C)(C=CC=C)C
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C(=CCC=C)(C=CC=C)C
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCCC=C.[HH]
+C(=C)CCCCCCC=C>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C(=C)CCC=CC=CC=C.[HH]
+C(=C)CCC=CC=CC=C>>C(=CCC=C)(C=CC=C)C
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C(=C)C=CC(=CCCC)C
+C(=C)C=CC(=CCCC)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C(=C)C=CC(=CCCC)C
+C(=C)C=CC(=CCCC)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C(=C)C=CC(=CCCC)C
+C(=C)C=CC(=CCCC)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C(=C)C=CC(=CCCC)C
+C(=C)C=CC(=CCCC)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C(=C)C=CC(=CCCC)C
+C(=C)C=CC(=CCCC)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C(=C)C=CC(=CCCC)C
+C(=C)C=CC(=CCCC)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCCC)(CCC=C)C
+C(=CCCC)(CCC=C)C>>C(=C)C=CC(=CCCC)C.[HH]
+C(=C)C=CC(=CCCC)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCCC)(CCC=C)C
+C(=CCCC)(CCC=C)C>>C(=C)C=CC(=CCCC)C.[HH]
+C(=C)C=CC(=CCCC)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCCC)(CCCC)C
+C(=CCCC)(CCCC)C>>C(=CCCC)(CCC=C)C.[HH]
+C(=CCCC)(CCC=C)C>>C(=C)C=CC(=CCCC)C.[HH]
+C(=C)C=CC(=CCCC)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=CCCC)(C=CCC)C
+C(=CCCC)(C=CCC)C>>C(=C)C=CC(=CCCC)C.[HH]
+C(=C)C=CC(=CCCC)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=CCCC)(C=CCC)C
+C(=CCCC)(C=CCC)C>>C(=C)C=CC(=CCCC)C.[HH]
+C(=C)C=CC(=CCCC)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCCC)(CCCC)C
+C(=CCCC)(CCCC)C>>C(=CCCC)(C=CCC)C.[HH]
+C(=CCCC)(C=CCC)C>>C(=C)C=CC(=CCCC)C.[HH]
+C(=C)C=CC(=CCCC)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CC=CCC.[HH]
+C(=C)CCC=CC=CCC>>C(=C)CC=C(C=CCC)C
+C(=C)CC=C(C=CCC)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CC=CCC.[HH]
+C(=C)CCC=CC=CCC>>C(=C)CC=C(C=CCC)C
+C(=C)CC=C(C=CCC)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCC=CCC.[HH]
+C(=C)CCCCC=CCC>>C(=C)CCC=CC=CCC.[HH]
+C(=C)CCC=CC=CCC>>C(=C)CC=C(C=CCC)C
+C(=C)CC=C(C=CCC)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)CCCCC=CCC.[HH]
+C(=C)CCCCC=CCC>>C(=C)CCC=CC=CCC.[HH]
+C(=C)CCC=CC=CCC>>C(=C)CC=C(C=CCC)C
+C(=C)CC=C(C=CCC)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=C)CCC=CC=CCC.[HH]
+C(=C)CCC=CC=CCC>>C(=C)CC=C(C=CCC)C
+C(=C)CC=C(C=CCC)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=C)CCC=CC=CCC.[HH]
+C(=C)CCC=CC=CCC>>C(=C)CC=C(C=CCC)C
+C(=C)CC=C(C=CCC)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCC=C)(CCCC)C
+C(=CCC=C)(CCCC)C>>C(=C)CC=C(C=CCC)C.[HH]
+C(=C)CC=C(C=CCC)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCC=C)(CCCC)C
+C(=CCC=C)(CCCC)C>>C(=C)CC=C(C=CCC)C.[HH]
+C(=C)CC=C(C=CCC)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCCC)(CCCC)C
+C(=CCCC)(CCCC)C>>C(=CCC=C)(CCCC)C.[HH]
+C(=CCC=C)(CCCC)C>>C(=C)CC=C(C=CCC)C.[HH]
+C(=C)CC=C(C=CCC)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=CCCC)(C=CCC)C
+C(=CCCC)(C=CCC)C>>C(=C)CC=C(C=CCC)C.[HH]
+C(=C)CC=C(C=CCC)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=CCCC)(C=CCC)C
+C(=CCCC)(C=CCC)C>>C(=C)CC=C(C=CCC)C.[HH]
+C(=C)CC=C(C=CCC)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCCC)(CCCC)C
+C(=CCCC)(CCCC)C>>C(=CCCC)(C=CCC)C.[HH]
+C(=CCCC)(C=CCC)C>>C(=C)CC=C(C=CCC)C.[HH]
+C(=C)CC=C(C=CCC)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C(=CCC=C)(CCC=C)C
+C(=CCC=C)(CCC=C)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C(=CCC=C)(CCC=C)C
+C(=CCC=C)(CCC=C)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCCC=C.[HH]
+C(=C)CCCCCCC=C>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C(=CCC=C)(CCC=C)C
+C(=CCC=C)(CCC=C)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCC=C)(CCCC)C
+C(=CCC=C)(CCCC)C>>C(=CCC=C)(CCC=C)C.[HH]
+C(=CCC=C)(CCC=C)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCC=C)(CCCC)C
+C(=CCC=C)(CCCC)C>>C(=CCC=C)(CCC=C)C.[HH]
+C(=CCC=C)(CCC=C)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCCC)(CCCC)C
+C(=CCCC)(CCCC)C>>C(=CCC=C)(CCCC)C.[HH]
+C(=CCC=C)(CCCC)C>>C(=CCC=C)(CCC=C)C.[HH]
+C(=CCC=C)(CCC=C)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCCC)(CCC=C)C
+C(=CCCC)(CCC=C)C>>C(=CCC=C)(CCC=C)C.[HH]
+C(=CCC=C)(CCC=C)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCCC)(CCC=C)C
+C(=CCCC)(CCC=C)C>>C(=CCC=C)(CCC=C)C.[HH]
+C(=CCC=C)(CCC=C)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCCC)(CCCC)C
+C(=CCCC)(CCCC)C>>C(=CCCC)(CCC=C)C.[HH]
+C(=CCCC)(CCC=C)C>>C(=CCC=C)(CCC=C)C.[HH]
+C(=CCC=C)(CCC=C)C>>C(=CCC=C)(C=CC=C)C.[HH]
+C(=CCC=C)(C=CC=C)C>>C1(=C(CCC=C1)CC=C)C
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C(=C)C=CC(=CCCC)C
+C(=C)C=CC(=CCCC)C>>C1(=C(CCC=C1)CCC)C
+C1(=C(CCC=C1)CCC)C>>C1(=C(CCC=C1)CC=C)C.[HH]
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C(=C)C=CC(=CCCC)C
+C(=C)C=CC(=CCCC)C>>C1(=C(CCC=C1)CCC)C
+C1(=C(CCC=C1)CCC)C>>C1(=C(CCC=C1)CC=C)C.[HH]
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C(=C)C=CC(=CCCC)C
+C(=C)C=CC(=CCCC)C>>C1(=C(CCC=C1)CCC)C
+C1(=C(CCC=C1)CCC)C>>C1(=C(CCC=C1)CC=C)C.[HH]
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C(=C)C=CC(=CCCC)C
+C(=C)C=CC(=CCCC)C>>C1(=C(CCC=C1)CCC)C
+C1(=C(CCC=C1)CCC)C>>C1(=C(CCC=C1)CC=C)C.[HH]
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C(=C)C=CC(=CCCC)C
+C(=C)C=CC(=CCCC)C>>C1(=C(CCC=C1)CCC)C
+C1(=C(CCC=C1)CCC)C>>C1(=C(CCC=C1)CC=C)C.[HH]
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=C)C=CC=CCCCC.[HH]
+C(=C)C=CC=CCCCC>>C(=C)C=CC(=CCCC)C
+C(=C)C=CC(=CCCC)C>>C1(=C(CCC=C1)CCC)C
+C1(=C(CCC=C1)CCC)C>>C1(=C(CCC=C1)CC=C)C.[HH]
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCCC)(CCC=C)C
+C(=CCCC)(CCC=C)C>>C(=C)C=CC(=CCCC)C.[HH]
+C(=C)C=CC(=CCCC)C>>C1(=C(CCC=C1)CCC)C
+C1(=C(CCC=C1)CCC)C>>C1(=C(CCC=C1)CC=C)C.[HH]
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCCC)(CCC=C)C
+C(=CCCC)(CCC=C)C>>C(=C)C=CC(=CCCC)C.[HH]
+C(=C)C=CC(=CCCC)C>>C1(=C(CCC=C1)CCC)C
+C1(=C(CCC=C1)CCC)C>>C1(=C(CCC=C1)CC=C)C.[HH]
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCCC)(CCCC)C
+C(=CCCC)(CCCC)C>>C(=CCCC)(CCC=C)C.[HH]
+C(=CCCC)(CCC=C)C>>C(=C)C=CC(=CCCC)C.[HH]
+C(=C)C=CC(=CCCC)C>>C1(=C(CCC=C1)CCC)C
+C1(=C(CCC=C1)CCC)C>>C1(=C(CCC=C1)CC=C)C.[HH]
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=CCCC)(C=CCC)C
+C(=CCCC)(C=CCC)C>>C(=C)C=CC(=CCCC)C.[HH]
+C(=C)C=CC(=CCCC)C>>C1(=C(CCC=C1)CCC)C
+C1(=C(CCC=C1)CCC)C>>C1(=C(CCC=C1)CC=C)C.[HH]
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=CCCC)(C=CCC)C
+C(=CCCC)(C=CCC)C>>C(=C)C=CC(=CCCC)C.[HH]
+C(=C)C=CC(=CCCC)C>>C1(=C(CCC=C1)CCC)C
+C1(=C(CCC=C1)CCC)C>>C1(=C(CCC=C1)CC=C)C.[HH]
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCCC)(CCCC)C
+C(=CCCC)(CCCC)C>>C(=CCCC)(C=CCC)C.[HH]
+C(=CCCC)(C=CCC)C>>C(=C)C=CC(=CCCC)C.[HH]
+C(=C)C=CC(=CCCC)C>>C1(=C(CCC=C1)CCC)C
+C1(=C(CCC=C1)CCC)C>>C1(=C(CCC=C1)CC=C)C.[HH]
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCCC)(CCC=C)C
+C(=CCCC)(CCC=C)C>>C1(=C(CCCC1)CCC)C
+C1(=C(CCCC1)CCC)C>>C1(=C(CCC=C1)CCC)C.[HH]
+C1(=C(CCC=C1)CCC)C>>C1(=C(CCC=C1)CC=C)C.[HH]
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCCC)(CCC=C)C
+C(=CCCC)(CCC=C)C>>C1(=C(CCCC1)CCC)C
+C1(=C(CCCC1)CCC)C>>C1(=C(CCC=C1)CCC)C.[HH]
+C1(=C(CCC=C1)CCC)C>>C1(=C(CCC=C1)CC=C)C.[HH]
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCCC)(CCCC)C
+C(=CCCC)(CCCC)C>>C(=CCCC)(CCC=C)C.[HH]
+C(=CCCC)(CCC=C)C>>C1(=C(CCCC1)CCC)C
+C1(=C(CCCC1)CCC)C>>C1(=C(CCC=C1)CCC)C.[HH]
+C1(=C(CCC=C1)CCC)C>>C1(=C(CCC=C1)CC=C)C.[HH]
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C(=CCC=C)(CCC=C)C
+C(=CCC=C)(CCC=C)C>>C1(=C(CCCC1)CC=C)C
+C1(=C(CCCC1)CC=C)C>>C1(=C(CCC=C1)CC=C)C.[HH]
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C(=CCC=C)(CCC=C)C
+C(=CCC=C)(CCC=C)C>>C1(=C(CCCC1)CC=C)C
+C1(=C(CCCC1)CC=C)C>>C1(=C(CCC=C1)CC=C)C.[HH]
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCCC=C.[HH]
+C(=C)CCCCCCC=C>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C(=CCC=C)(CCC=C)C
+C(=CCC=C)(CCC=C)C>>C1(=C(CCCC1)CC=C)C
+C1(=C(CCCC1)CC=C)C>>C1(=C(CCC=C1)CC=C)C.[HH]
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCC=C)(CCCC)C
+C(=CCC=C)(CCCC)C>>C(=CCC=C)(CCC=C)C.[HH]
+C(=CCC=C)(CCC=C)C>>C1(=C(CCCC1)CC=C)C
+C1(=C(CCCC1)CC=C)C>>C1(=C(CCC=C1)CC=C)C.[HH]
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCC=C)(CCCC)C
+C(=CCC=C)(CCCC)C>>C(=CCC=C)(CCC=C)C.[HH]
+C(=CCC=C)(CCC=C)C>>C1(=C(CCCC1)CC=C)C
+C1(=C(CCCC1)CC=C)C>>C1(=C(CCC=C1)CC=C)C.[HH]
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCCC)(CCCC)C
+C(=CCCC)(CCCC)C>>C(=CCC=C)(CCCC)C.[HH]
+C(=CCC=C)(CCCC)C>>C(=CCC=C)(CCC=C)C.[HH]
+C(=CCC=C)(CCC=C)C>>C1(=C(CCCC1)CC=C)C
+C1(=C(CCCC1)CC=C)C>>C1(=C(CCC=C1)CC=C)C.[HH]
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCCC)(CCC=C)C
+C(=CCCC)(CCC=C)C>>C(=CCC=C)(CCC=C)C.[HH]
+C(=CCC=C)(CCC=C)C>>C1(=C(CCCC1)CC=C)C
+C1(=C(CCCC1)CC=C)C>>C1(=C(CCC=C1)CC=C)C.[HH]
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCCC)(CCC=C)C
+C(=CCCC)(CCC=C)C>>C(=CCC=C)(CCC=C)C.[HH]
+C(=CCC=C)(CCC=C)C>>C1(=C(CCCC1)CC=C)C
+C1(=C(CCCC1)CC=C)C>>C1(=C(CCC=C1)CC=C)C.[HH]
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCCC)(CCCC)C
+C(=CCCC)(CCCC)C>>C(=CCCC)(CCC=C)C.[HH]
+C(=CCCC)(CCC=C)C>>C(=CCC=C)(CCC=C)C.[HH]
+C(=CCC=C)(CCC=C)C>>C1(=C(CCCC1)CC=C)C
+C1(=C(CCCC1)CC=C)C>>C1(=C(CCC=C1)CC=C)C.[HH]
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCCC)(CCC=C)C
+C(=CCCC)(CCC=C)C>>C1(=C(CCCC1)CCC)C
+C1(=C(CCCC1)CCC)C>>C1(=C(CCCC1)CC=C)C.[HH]
+C1(=C(CCCC1)CC=C)C>>C1(=C(CCC=C1)CC=C)C.[HH]
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCCC)(CCC=C)C
+C(=CCCC)(CCC=C)C>>C1(=C(CCCC1)CCC)C
+C1(=C(CCCC1)CCC)C>>C1(=C(CCCC1)CC=C)C.[HH]
+C1(=C(CCCC1)CC=C)C>>C1(=C(CCC=C1)CC=C)C.[HH]
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCCC)(CCCC)C
+C(=CCCC)(CCCC)C>>C(=CCCC)(CCC=C)C.[HH]
+C(=CCCC)(CCC=C)C>>C1(=C(CCCC1)CCC)C
+C1(=C(CCCC1)CCC)C>>C1(=C(CCCC1)CC=C)C.[HH]
+C1(=C(CCCC1)CC=C)C>>C1(=C(CCC=C1)CC=C)C.[HH]
+C1(=C(CCC=C1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C(=CCC=C)(CCC=C)C
+C(=CCC=C)(CCC=C)C>>C(=C)CC1C(CCC=C1)C
+C(=C)CC1C(CCC=C1)C>>C1(=C(C=CCC1)CC=C)C.[HH]
+C1(=C(C=CCC1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C(=CCC=C)(CCC=C)C
+C(=CCC=C)(CCC=C)C>>C(=C)CC1C(CCC=C1)C
+C(=C)CC1C(CCC=C1)C>>C1(=C(C=CCC1)CC=C)C.[HH]
+C1(=C(C=CCC1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCCC=C.[HH]
+C(=C)CCCCCCC=C>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C(=CCC=C)(CCC=C)C
+C(=CCC=C)(CCC=C)C>>C(=C)CC1C(CCC=C1)C
+C(=C)CC1C(CCC=C1)C>>C1(=C(C=CCC1)CC=C)C.[HH]
+C1(=C(C=CCC1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCC=C)(CCCC)C
+C(=CCC=C)(CCCC)C>>C(=CCC=C)(CCC=C)C.[HH]
+C(=CCC=C)(CCC=C)C>>C(=C)CC1C(CCC=C1)C
+C(=C)CC1C(CCC=C1)C>>C1(=C(C=CCC1)CC=C)C.[HH]
+C1(=C(C=CCC1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCC=C)(CCCC)C
+C(=CCC=C)(CCCC)C>>C(=CCC=C)(CCC=C)C.[HH]
+C(=CCC=C)(CCC=C)C>>C(=C)CC1C(CCC=C1)C
+C(=C)CC1C(CCC=C1)C>>C1(=C(C=CCC1)CC=C)C.[HH]
+C1(=C(C=CCC1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCCC)(CCCC)C
+C(=CCCC)(CCCC)C>>C(=CCC=C)(CCCC)C.[HH]
+C(=CCC=C)(CCCC)C>>C(=CCC=C)(CCC=C)C.[HH]
+C(=CCC=C)(CCC=C)C>>C(=C)CC1C(CCC=C1)C
+C(=C)CC1C(CCC=C1)C>>C1(=C(C=CCC1)CC=C)C.[HH]
+C1(=C(C=CCC1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCCC)(CCC=C)C
+C(=CCCC)(CCC=C)C>>C(=CCC=C)(CCC=C)C.[HH]
+C(=CCC=C)(CCC=C)C>>C(=C)CC1C(CCC=C1)C
+C(=C)CC1C(CCC=C1)C>>C1(=C(C=CCC1)CC=C)C.[HH]
+C1(=C(C=CCC1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCCC)(CCC=C)C
+C(=CCCC)(CCC=C)C>>C(=CCC=C)(CCC=C)C.[HH]
+C(=CCC=C)(CCC=C)C>>C(=C)CC1C(CCC=C1)C
+C(=C)CC1C(CCC=C1)C>>C1(=C(C=CCC1)CC=C)C.[HH]
+C1(=C(C=CCC1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCCC)(CCCC)C
+C(=CCCC)(CCCC)C>>C(=CCCC)(CCC=C)C.[HH]
+C(=CCCC)(CCC=C)C>>C(=CCC=C)(CCC=C)C.[HH]
+C(=CCC=C)(CCC=C)C>>C(=C)CC1C(CCC=C1)C
+C(=C)CC1C(CCC=C1)C>>C1(=C(C=CCC1)CC=C)C.[HH]
+C1(=C(C=CCC1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCCC)(CCC=C)C
+C(=CCCC)(CCC=C)C>>C1(C(C=CCC1)CCC)C
+C1(C(C=CCC1)CCC)C>>C(=C)CC1C(CCC=C1)C.[HH]
+C(=C)CC1C(CCC=C1)C>>C1(=C(C=CCC1)CC=C)C.[HH]
+C1(=C(C=CCC1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCCC)(CCC=C)C
+C(=CCCC)(CCC=C)C>>C1(C(C=CCC1)CCC)C
+C1(C(C=CCC1)CCC)C>>C(=C)CC1C(CCC=C1)C.[HH]
+C(=C)CC1C(CCC=C1)C>>C1(=C(C=CCC1)CC=C)C.[HH]
+C1(=C(C=CCC1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCCC)(CCCC)C
+C(=CCCC)(CCCC)C>>C(=CCCC)(CCC=C)C.[HH]
+C(=CCCC)(CCC=C)C>>C1(C(C=CCC1)CCC)C
+C1(C(C=CCC1)CCC)C>>C(=C)CC1C(CCC=C1)C.[HH]
+C(=C)CC1C(CCC=C1)C>>C1(=C(C=CCC1)CC=C)C.[HH]
+C1(=C(C=CCC1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C(=CCC=C)(CCC=C)C
+C(=CCC=C)(CCC=C)C>>C1(=C(CCCC1)CC=C)C
+C1(=C(CCCC1)CC=C)C>>C1(=C(C=CCC1)CC=C)C.[HH]
+C1(=C(C=CCC1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C(=CCC=C)(CCC=C)C
+C(=CCC=C)(CCC=C)C>>C1(=C(CCCC1)CC=C)C
+C1(=C(CCCC1)CC=C)C>>C1(=C(C=CCC1)CC=C)C.[HH]
+C1(=C(C=CCC1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCCC=C.[HH]
+C(=C)CCCCCCC=C>>C(=C)CCC=CCCC=C.[HH]
+C(=C)CCC=CCCC=C>>C(=CCC=C)(CCC=C)C
+C(=CCC=C)(CCC=C)C>>C1(=C(CCCC1)CC=C)C
+C1(=C(CCCC1)CC=C)C>>C1(=C(C=CCC1)CC=C)C.[HH]
+C1(=C(C=CCC1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCC=C)(CCCC)C
+C(=CCC=C)(CCCC)C>>C(=CCC=C)(CCC=C)C.[HH]
+C(=CCC=C)(CCC=C)C>>C1(=C(CCCC1)CC=C)C
+C1(=C(CCCC1)CC=C)C>>C1(=C(C=CCC1)CC=C)C.[HH]
+C1(=C(C=CCC1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCC=C)(CCCC)C
+C(=CCC=C)(CCCC)C>>C(=CCC=C)(CCC=C)C.[HH]
+C(=CCC=C)(CCC=C)C>>C1(=C(CCCC1)CC=C)C
+C1(=C(CCCC1)CC=C)C>>C1(=C(C=CCC1)CC=C)C.[HH]
+C1(=C(C=CCC1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCCC)(CCCC)C
+C(=CCCC)(CCCC)C>>C(=CCC=C)(CCCC)C.[HH]
+C(=CCC=C)(CCCC)C>>C(=CCC=C)(CCC=C)C.[HH]
+C(=CCC=C)(CCC=C)C>>C1(=C(CCCC1)CC=C)C
+C1(=C(CCCC1)CC=C)C>>C1(=C(C=CCC1)CC=C)C.[HH]
+C1(=C(C=CCC1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCCC)(CCC=C)C
+C(=CCCC)(CCC=C)C>>C(=CCC=C)(CCC=C)C.[HH]
+C(=CCC=C)(CCC=C)C>>C1(=C(CCCC1)CC=C)C
+C1(=C(CCCC1)CC=C)C>>C1(=C(C=CCC1)CC=C)C.[HH]
+C1(=C(C=CCC1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCCC)(CCC=C)C
+C(=CCCC)(CCC=C)C>>C(=CCC=C)(CCC=C)C.[HH]
+C(=CCC=C)(CCC=C)C>>C1(=C(CCCC1)CC=C)C
+C1(=C(CCCC1)CC=C)C>>C1(=C(C=CCC1)CC=C)C.[HH]
+C1(=C(C=CCC1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCCC)(CCCC)C
+C(=CCCC)(CCCC)C>>C(=CCCC)(CCC=C)C.[HH]
+C(=CCCC)(CCC=C)C>>C(=CCC=C)(CCC=C)C.[HH]
+C(=CCC=C)(CCC=C)C>>C1(=C(CCCC1)CC=C)C
+C1(=C(CCCC1)CC=C)C>>C1(=C(C=CCC1)CC=C)C.[HH]
+C1(=C(C=CCC1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCCC)(CCC=C)C
+C(=CCCC)(CCC=C)C>>C1(=C(CCCC1)CCC)C
+C1(=C(CCCC1)CCC)C>>C1(=C(CCCC1)CC=C)C.[HH]
+C1(=C(CCCC1)CC=C)C>>C1(=C(C=CCC1)CC=C)C.[HH]
+C1(=C(C=CCC1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCCC)(CCC=C)C
+C(=CCCC)(CCC=C)C>>C1(=C(CCCC1)CCC)C
+C1(=C(CCCC1)CCC)C>>C1(=C(CCCC1)CC=C)C.[HH]
+C1(=C(CCCC1)CC=C)C>>C1(=C(C=CCC1)CC=C)C.[HH]
+C1(=C(C=CCC1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCCC)(CCCC)C
+C(=CCCC)(CCCC)C>>C(=CCCC)(CCC=C)C.[HH]
+C(=CCCC)(CCC=C)C>>C1(=C(CCCC1)CCC)C
+C1(=C(CCCC1)CCC)C>>C1(=C(CCCC1)CC=C)C.[HH]
+C1(=C(CCCC1)CC=C)C>>C1(=C(C=CCC1)CC=C)C.[HH]
+C1(=C(C=CCC1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCCC)(CCC=C)C
+C(=CCCC)(CCC=C)C>>C1(C(C=CCC1)CCC)C
+C1(C(C=CCC1)CCC)C>>C1(=C(C=CCC1)CCC)C.[HH]
+C1(=C(C=CCC1)CCC)C>>C1(=C(C=CCC1)CC=C)C.[HH]
+C1(=C(C=CCC1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCCC)(CCC=C)C
+C(=CCCC)(CCC=C)C>>C1(C(C=CCC1)CCC)C
+C1(C(C=CCC1)CCC)C>>C1(=C(C=CCC1)CCC)C.[HH]
+C1(=C(C=CCC1)CCC)C>>C1(=C(C=CCC1)CC=C)C.[HH]
+C1(=C(C=CCC1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCCC)(CCCC)C
+C(=CCCC)(CCCC)C>>C(=CCCC)(CCC=C)C.[HH]
+C(=CCCC)(CCC=C)C>>C1(C(C=CCC1)CCC)C
+C1(C(C=CCC1)CCC)C>>C1(=C(C=CCC1)CCC)C.[HH]
+C1(=C(C=CCC1)CCC)C>>C1(=C(C=CCC1)CC=C)C.[HH]
+C1(=C(C=CCC1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCCC)(CCC=C)C
+C(=CCCC)(CCC=C)C>>C1(=C(CCCC1)CCC)C
+C1(=C(CCCC1)CCC)C>>C1(=C(C=CCC1)CCC)C.[HH]
+C1(=C(C=CCC1)CCC)C>>C1(=C(C=CCC1)CC=C)C.[HH]
+C1(=C(C=CCC1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=C)CCC=CCCCC.[HH]
+C(=C)CCC=CCCCC>>C(=CCCC)(CCC=C)C
+C(=CCCC)(CCC=C)C>>C1(=C(CCCC1)CCC)C
+C1(=C(CCCC1)CCC)C>>C1(=C(C=CCC1)CCC)C.[HH]
+C1(=C(C=CCC1)CCC)C>>C1(=C(C=CCC1)CC=C)C.[HH]
+C1(=C(C=CCC1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCCC)(CCCC)C
+C(=CCCC)(CCCC)C>>C(=CCCC)(CCC=C)C.[HH]
+C(=CCCC)(CCC=C)C>>C1(=C(CCCC1)CCC)C
+C1(=C(CCCC1)CCC)C>>C1(=C(C=CCC1)CCC)C.[HH]
+C1(=C(C=CCC1)CCC)C>>C1(=C(C=CCC1)CC=C)C.[HH]
+C1(=C(C=CCC1)CC=C)C>>C12=C(CCCC1)C=CCC2
+C12=C(CCCC1)C=CCC2>>c12c(cccc1)CCCC2.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule FirstCyclization occurs 1 times
+rule SecondCyclizationtypeB occurs 1 times
+rule PCP occurs 1 times
+
+total valid pathways is 207
+total distinct pathways is 207
+85 pathways from C(CCCCCCCC)C containing 
+5of rule Dehydrogenation
+1of rule FirstCyclization
+1of rule SecondCyclizationtypeA
+
+122 pathways from C(CCCCCCCC)C containing 
+5of rule Dehydrogenation
+1of rule FirstCyclization
+1of rule SecondCyclizationtypeB
+1of rule PCP
+
+
+Number of pathways of length 7 is: 85
+Number of pathways of length 8 is: 122
+1 molecules satisfied the molecular constraints specified

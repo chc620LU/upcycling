@@ -1,0 +1,4023 @@
+molecule c1(c(cccc1)C)C satisfies constraints
+shortest path to the molecule is 8
+Pathways for c1(c(cccc1)C)C 
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C>>C1(=CC=CCC1CCC)C
+C1(=CC=CCC1CCC)C>>C1(=CC=CCC1=CCC)C.[HH]
+C1(=CC=CCC1=CCC)C>>C1(=C)C(=CC=CC1)C.C=C
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C>>C1(=CC=CCC1CCC)C
+C1(=CC=CCC1CCC)C>>C1(=CC=CCC1=CCC)C.[HH]
+C1(=CC=CCC1=CCC)C>>C1(=C)C(=CC=CC1)C.C=C
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C>>C1(=CC=CCC1CCC)C
+C1(=CC=CCC1CCC)C>>C1(=CC=CCC1=CCC)C.[HH]
+C1(=CC=CCC1=CCC)C>>C1(=C)C(=CC=CC1)C.C=C
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C>>C1(=CC=CCC1CCC)C
+C1(=CC=CCC1CCC)C>>C1(=CC=CCC1=CCC)C.[HH]
+C1(=CC=CCC1=CCC)C>>C1(=C)C(=CC=CC1)C.C=C
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCC)CCC.[HH]
+C(=CC=CCCC)CCC>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C>>C1(=CC=CCC1CCC)C
+C1(=CC=CCC1CCC)C>>C1(=CC=CCC1=CCC)C.[HH]
+C1(=CC=CCC1=CCC)C>>C1(=C)C(=CC=CC1)C.C=C
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CC=CCC1CCC)C.[HH]
+C1(=CC=CCC1CCC)C>>C1(=CC=CCC1=CCC)C.[HH]
+C1(=CC=CCC1=CCC)C>>C1(=C)C(=CC=CC1)C.C=C
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CC=CCC1CCC)C.[HH]
+C1(=CC=CCC1CCC)C>>C1(=CC=CCC1=CCC)C.[HH]
+C1(=CC=CCC1=CCC)C>>C1(=C)C(=CC=CC1)C.C=C
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CCCCC1=CCC)C.[HH]
+C1(=CCCCC1=CCC)C>>C1(=CC=CCC1=CCC)C.[HH]
+C1(=CC=CCC1=CCC)C>>C1(=C)C(=CC=CC1)C.C=C
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CCCCC1=CCC)C.[HH]
+C1(=CCCCC1=CCC)C>>C1(=CC=CCC1=CCC)C.[HH]
+C1(=CC=CCC1=CCC)C>>C1(=C)C(=CC=CC1)C.C=C
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CCCCC1=CCC)C.[HH]
+C1(=CCCCC1=CCC)C>>C1(=C)C(=CCCC1)C.C=C
+C1(=C)C(=CCCC1)C>>C1(=C)C(=CC=CC1)C.[HH]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CCCCC1=CCC)C.[HH]
+C1(=CCCCC1=CCC)C>>C1(=C)C(=CCCC1)C.C=C
+C1(=C)C(=CCCC1)C>>C1(=C)C(=CC=CC1)C.[HH]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C1(=CCCCC1CC=C)C
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CCCC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CCCC1)C>>C1(=C)C(=CC=CC1)C.[HH]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C1(=CCCCC1CC=C)C
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CCCC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CCCC1)C>>C1(=C)C(=CC=CC1)C.[HH]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C1(=CCCCC1CC=C)C
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CCCC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CCCC1)C>>C1(=C)C(=CC=CC1)C.[HH]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C1(=CCCCC1CC=C)C
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CCCC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CCCC1)C>>C1(=C)C(=CC=CC1)C.[HH]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CC=CCCCCC.[HH]
+C(=C)CC=CCCCCC>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C1(=CCCCC1CC=C)C
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CCCC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CCCC1)C>>C1(=C)C(=CC=CC1)C.[HH]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=C)CC=CCCCCC.[HH]
+C(=C)CC=CCCCCC>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C1(=CCCCC1CC=C)C
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CCCC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CCCC1)C>>C1(=C)C(=CC=CC1)C.[HH]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CCCCC1CC=C)C.[HH]
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CCCC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CCCC1)C>>C1(=C)C(=CC=CC1)C.[HH]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CCCCC1CC=C)C.[HH]
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CCCC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CCCC1)C>>C1(=C)C(=CC=CC1)C.[HH]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CCCCC1=CCC)C.[HH]
+C1(=CCCCC1=CCC)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CCCC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CCCC1)C>>C1(=C)C(=CC=CC1)C.[HH]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CCCCC1=CCC)C.[HH]
+C1(=CCCCC1=CCC)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CCCC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CCCC1)C>>C1(=C)C(=CC=CC1)C.[HH]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C>>C(=C)CC=CC=CC=CC.[HH]
+C(=C)CC=CC=CC=CC>>C1(=CC=CCC1CC=C)C
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C>>C(=C)CC=CC=CC=CC.[HH]
+C(=C)CC=CC=CC=CC>>C1(=CC=CCC1CC=C)C
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C>>C(=C)CC=CC=CC=CC.[HH]
+C(=C)CC=CC=CC=CC>>C1(=CC=CCC1CC=C)C
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C>>C(=C)CC=CC=CC=CC.[HH]
+C(=C)CC=CC=CC=CC>>C1(=CC=CCC1CC=C)C
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCC)CCC.[HH]
+C(=CC=CCCC)CCC>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C>>C(=C)CC=CC=CC=CC.[HH]
+C(=C)CC=CC=CC=CC>>C1(=CC=CCC1CC=C)C
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C>>C(=C)CCCC=CC=CC.[HH]
+C(=C)CCCC=CC=CC>>C(=C)CC=CC=CC=CC.[HH]
+C(=C)CC=CC=CC=CC>>C1(=CC=CCC1CC=C)C
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C>>C(=C)CCCC=CC=CC.[HH]
+C(=C)CCCC=CC=CC>>C(=C)CC=CC=CC=CC.[HH]
+C(=C)CC=CC=CC=CC>>C1(=CC=CCC1CC=C)C
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C(=C)CCCC=CC=CC.[HH]
+C(=C)CCCC=CC=CC>>C(=C)CC=CC=CC=CC.[HH]
+C(=C)CC=CC=CC=CC>>C1(=CC=CCC1CC=C)C
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C(=C)CCCC=CC=CC.[HH]
+C(=C)CCCC=CC=CC>>C(=C)CC=CC=CC=CC.[HH]
+C(=C)CC=CC=CC=CC>>C1(=CC=CCC1CC=C)C
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCC=CCCC.[HH]
+C(=C)CCCC=CCCC>>C(=C)CCCC=CC=CC.[HH]
+C(=C)CCCC=CC=CC>>C(=C)CC=CC=CC=CC.[HH]
+C(=C)CC=CC=CC=CC>>C1(=CC=CCC1CC=C)C
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=C)CCCC=CCCC.[HH]
+C(=C)CCCC=CCCC>>C(=C)CCCC=CC=CC.[HH]
+C(=C)CCCC=CC=CC>>C(=C)CC=CC=CC=CC.[HH]
+C(=C)CC=CC=CC=CC>>C1(=CC=CCC1CC=C)C
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C(=C)CC=CC=CC=CC.[HH]
+C(=C)CC=CC=CC=CC>>C1(=CC=CCC1CC=C)C
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C(=C)CC=CC=CC=CC.[HH]
+C(=C)CC=CC=CC=CC>>C1(=CC=CCC1CC=C)C
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C(=C)CC=CC=CC=CC.[HH]
+C(=C)CC=CC=CC=CC>>C1(=CC=CCC1CC=C)C
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C(=C)CC=CC=CC=CC.[HH]
+C(=C)CC=CC=CC=CC>>C1(=CC=CCC1CC=C)C
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CC=CCCCCC.[HH]
+C(=C)CC=CCCCCC>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C(=C)CC=CC=CC=CC.[HH]
+C(=C)CC=CC=CC=CC>>C1(=CC=CCC1CC=C)C
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=C)CC=CCCCCC.[HH]
+C(=C)CC=CCCCCC>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C(=C)CC=CC=CC=CC.[HH]
+C(=C)CC=CC=CC=CC>>C1(=CC=CCC1CC=C)C
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CC=CCCCCC.[HH]
+C(=C)CC=CCCCCC>>C(=C)CC=CC=CCCC.[HH]
+C(=C)CC=CC=CCCC>>C(=C)CC=CC=CC=CC.[HH]
+C(=C)CC=CC=CC=CC>>C1(=CC=CCC1CC=C)C
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=C)CC=CCCCCC.[HH]
+C(=C)CC=CCCCCC>>C(=C)CC=CC=CCCC.[HH]
+C(=C)CC=CC=CCCC>>C(=C)CC=CC=CC=CC.[HH]
+C(=C)CC=CC=CC=CC>>C1(=CC=CCC1CC=C)C
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCC=CCCC.[HH]
+C(=C)CCCC=CCCC>>C(=C)CC=CC=CCCC.[HH]
+C(=C)CC=CC=CCCC>>C(=C)CC=CC=CC=CC.[HH]
+C(=C)CC=CC=CC=CC>>C1(=CC=CCC1CC=C)C
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=C)CCCC=CCCC.[HH]
+C(=C)CCCC=CCCC>>C(=C)CC=CC=CCCC.[HH]
+C(=C)CC=CC=CCCC>>C(=C)CC=CC=CC=CC.[HH]
+C(=C)CC=CC=CC=CC>>C1(=CC=CCC1CC=C)C
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCC)CCC.[HH]
+C(=CC=CCCC)CCC>>C(=C)CC=CC=CCCC.[HH]
+C(=C)CC=CC=CCCC>>C(=C)CC=CC=CC=CC.[HH]
+C(=C)CC=CC=CC=CC>>C1(=CC=CCC1CC=C)C
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C>>C1(=CC=CCC1CCC)C
+C1(=CC=CCC1CCC)C>>C1(=CC=CCC1CC=C)C.[HH]
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C>>C1(=CC=CCC1CCC)C
+C1(=CC=CCC1CCC)C>>C1(=CC=CCC1CC=C)C.[HH]
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C>>C1(=CC=CCC1CCC)C
+C1(=CC=CCC1CCC)C>>C1(=CC=CCC1CC=C)C.[HH]
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C>>C1(=CC=CCC1CCC)C
+C1(=CC=CCC1CCC)C>>C1(=CC=CCC1CC=C)C.[HH]
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCC)CCC.[HH]
+C(=CC=CCCC)CCC>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C>>C1(=CC=CCC1CCC)C
+C1(=CC=CCC1CCC)C>>C1(=CC=CCC1CC=C)C.[HH]
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CC=CCC1CCC)C.[HH]
+C1(=CC=CCC1CCC)C>>C1(=CC=CCC1CC=C)C.[HH]
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CC=CCC1CCC)C.[HH]
+C1(=CC=CCC1CCC)C>>C1(=CC=CCC1CC=C)C.[HH]
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C1(=CCCCC1CC=C)C
+C1(=CCCCC1CC=C)C>>C1(=CC=CCC1CC=C)C.[HH]
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C1(=CCCCC1CC=C)C
+C1(=CCCCC1CC=C)C>>C1(=CC=CCC1CC=C)C.[HH]
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C1(=CCCCC1CC=C)C
+C1(=CCCCC1CC=C)C>>C1(=CC=CCC1CC=C)C.[HH]
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C1(=CCCCC1CC=C)C
+C1(=CCCCC1CC=C)C>>C1(=CC=CCC1CC=C)C.[HH]
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CC=CCCCCC.[HH]
+C(=C)CC=CCCCCC>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C1(=CCCCC1CC=C)C
+C1(=CCCCC1CC=C)C>>C1(=CC=CCC1CC=C)C.[HH]
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=C)CC=CCCCCC.[HH]
+C(=C)CC=CCCCCC>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C1(=CCCCC1CC=C)C
+C1(=CCCCC1CC=C)C>>C1(=CC=CCC1CC=C)C.[HH]
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CCCCC1CC=C)C.[HH]
+C1(=CCCCC1CC=C)C>>C1(=CC=CCC1CC=C)C.[HH]
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CCCCC1CC=C)C.[HH]
+C1(=CCCCC1CC=C)C>>C1(=CC=CCC1CC=C)C.[HH]
+C1(=CC=CCC1CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C>>C1(=CC=CCC1CCC)C
+C1(=CC=CCC1CCC)C>>C1(=CC=CCC1=CCC)C.[HH]
+C1(=CC=CCC1=CCC)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C>>C1(=CC=CCC1CCC)C
+C1(=CC=CCC1CCC)C>>C1(=CC=CCC1=CCC)C.[HH]
+C1(=CC=CCC1=CCC)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C>>C1(=CC=CCC1CCC)C
+C1(=CC=CCC1CCC)C>>C1(=CC=CCC1=CCC)C.[HH]
+C1(=CC=CCC1=CCC)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C>>C1(=CC=CCC1CCC)C
+C1(=CC=CCC1CCC)C>>C1(=CC=CCC1=CCC)C.[HH]
+C1(=CC=CCC1=CCC)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCC)CCC.[HH]
+C(=CC=CCCC)CCC>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C>>C1(=CC=CCC1CCC)C
+C1(=CC=CCC1CCC)C>>C1(=CC=CCC1=CCC)C.[HH]
+C1(=CC=CCC1=CCC)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CC=CCC1CCC)C.[HH]
+C1(=CC=CCC1CCC)C>>C1(=CC=CCC1=CCC)C.[HH]
+C1(=CC=CCC1=CCC)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CC=CCC1CCC)C.[HH]
+C1(=CC=CCC1CCC)C>>C1(=CC=CCC1=CCC)C.[HH]
+C1(=CC=CCC1=CCC)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CCCCC1=CCC)C.[HH]
+C1(=CCCCC1=CCC)C>>C1(=CC=CCC1=CCC)C.[HH]
+C1(=CC=CCC1=CCC)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CCCCC1=CCC)C.[HH]
+C1(=CCCCC1=CCC)C>>C1(=CC=CCC1=CCC)C.[HH]
+C1(=CC=CCC1=CCC)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C1(=CCCCC1CC=C)C
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C1(=CCCCC1CC=C)C
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C1(=CCCCC1CC=C)C
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C1(=CCCCC1CC=C)C
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CC=CCCCCC.[HH]
+C(=C)CC=CCCCCC>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C1(=CCCCC1CC=C)C
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=C)CC=CCCCCC.[HH]
+C(=C)CC=CCCCCC>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C1(=CCCCC1CC=C)C
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CCCCC1CC=C)C.[HH]
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CCCCC1CC=C)C.[HH]
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CCCCC1=CCC)C.[HH]
+C1(=CCCCC1=CCC)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CCCCC1=CCC)C.[HH]
+C1(=CCCCC1=CCC)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C>>C1(=CC=CCC1=CC=C)C.[HH]
+C1(=CC=CCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CC=CC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CC=CC1)C.[HH]>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C>>C(=CC=CCC=CCC)C.[HH]
+C(=CC=CCC=CCC)C>>C(=C)CC=CC=CC.C=C
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C>>C(=CC=CCC=CCC)C.[HH]
+C(=CC=CCC=CCC)C>>C(=C)CC=CC=CC.C=C
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCCC=CCC)C.[HH]
+C(=CCCCC=CCC)C>>C(=CC=CCC=CCC)C.[HH]
+C(=CC=CCC=CCC)C>>C(=C)CC=CC=CC.C=C
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCCCC=CCC)C.[HH]
+C(=CCCCC=CCC)C>>C(=CC=CCC=CCC)C.[HH]
+C(=CC=CCC=CCC)C>>C(=C)CC=CC=CC.C=C
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)CC=CCCC.[HH]
+C(=CCC)CC=CCCC>>C(=CC=CCC=CCC)C.[HH]
+C(=CC=CCC=CCC)C>>C(=C)CC=CC=CC.C=C
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCC)CC=CCCC.[HH]
+C(=CCC)CC=CCCC>>C(=CC=CCC=CCC)C.[HH]
+C(=CC=CCC=CCC)C>>C(=C)CC=CC=CC.C=C
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C>>C(=C)CCCC=CC=CC.[HH]
+C(=C)CCCC=CC=CC>>C=C.C(=C)CC=CC=CC
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C>>C(=C)CCCC=CC=CC.[HH]
+C(=C)CCCC=CC=CC>>C=C.C(=C)CC=CC=CC
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C(=C)CCCC=CC=CC.[HH]
+C(=C)CCCC=CC=CC>>C=C.C(=C)CC=CC=CC
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C(=C)CCCC=CC=CC.[HH]
+C(=C)CCCC=CC=CC>>C=C.C(=C)CC=CC=CC
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCC=CCCC.[HH]
+C(=C)CCCC=CCCC>>C(=C)CCCC=CC=CC.[HH]
+C(=C)CCCC=CC=CC>>C=C.C(=C)CC=CC=CC
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=C)CCCC=CCCC.[HH]
+C(=C)CCCC=CCCC>>C(=C)CCCC=CC=CC.[HH]
+C(=C)CCCC=CC=CC>>C=C.C(=C)CC=CC=CC
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCCC=CCC)C.[HH]
+C(=CCCCC=CCC)C>>C(=C)CCCC=CC.C=C
+C(=C)CCCC=CC>>C(=C)CC=CC=CC.[HH]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCCCC=CCC)C.[HH]
+C(=CCCCC=CCC)C>>C(=C)CCCC=CC.C=C
+C(=C)CCCC=CC>>C(=C)CC=CC=CC.[HH]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C=C.C(=C)CCCC=CC
+C(=C)CCCC=CC>>C(=C)CC=CC=CC.[HH]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C=C.C(=C)CCCC=CC
+C(=C)CCCC=CC>>C(=C)CC=CC=CC.[HH]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C=C.C(=C)CCCCCC
+C(=C)CCCCCC>>C(=C)CCCC=CC.[HH]
+C(=C)CCCC=CC>>C(=C)CC=CC=CC.[HH]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)CCCCCC.C=C
+C(=C)CCCCCC>>C(=C)CCCC=CC.[HH]
+C(=C)CCCC=CC>>C(=C)CC=CC=CC.[HH]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC.[{B}H][{B}H]>>C=C.C(=C)CCCCCC.[{B}][{B}]
+C(=C)CCCCCC>>C(=C)CCCC=CC.[HH]
+C(=C)CCCC=CC>>C(=C)CC=CC=CC.[HH]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC.[{B}H][{B}H]>>C=C.C(=C)CCCCCC.[{B}][{B}]
+C(=C)CCCCCC>>C(=C)CCCC=CC.[HH]
+C(=C)CCCC=CC>>C(=C)CC=CC=CC.[HH]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCCC=CCC)C.[HH]
+C(=CCCCC=CCC)C>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC.[{B}H][{B}H]>>C=C.C(=C)CCCC=CC.[{B}][{B}]
+C(=C)CCCC=CC>>C(=C)CC=CC=CC.[HH]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCCCC=CCC)C.[HH]
+C(=CCCCC=CCC)C>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC.[{B}H][{B}H]>>C=C.C(=C)CCCC=CC.[{B}][{B}]
+C(=C)CCCC=CC>>C(=C)CC=CC=CC.[HH]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC.[{B}H][{B}H]>>C=C.C(=C)CCCC=CC.[{B}][{B}]
+C(=C)CCCC=CC>>C(=C)CC=CC=CC.[HH]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC.[{B}H][{B}H]>>C=C.C(=C)CCCC=CC.[{B}][{B}]
+C(=C)CCCC=CC>>C(=C)CC=CC=CC.[HH]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC.[{B}H][{B}H]>>C=C.C(=C)CCCC=CC.[{B}][{B}]
+C(=C)CCCC=CC>>C(=C)CC=CC=CC.[HH]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC.[{B}H][{B}H]>>C=C.C(=C)CCCC=CC.[{B}][{B}]
+C(=C)CCCC=CC>>C(=C)CC=CC=CC.[HH]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCC=CCCC.[HH]
+C(=C)CCCC=CCCC>>C=C.C(=C)CC=CCCC
+C(=C)CC=CCCC>>C(=C)CC=CC=CC.[HH]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=C)CCCC=CCCC.[HH]
+C(=C)CCCC=CCCC>>C=C.C(=C)CC=CCCC
+C(=C)CC=CCCC>>C(=C)CC=CC=CC.[HH]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C=C.C(=C)CCCCCC
+C(=C)CCCCCC>>C(=C)CC=CCCC.[HH]
+C(=C)CC=CCCC>>C(=C)CC=CC=CC.[HH]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)CCCCCC.C=C
+C(=C)CCCCCC>>C(=C)CC=CCCC.[HH]
+C(=C)CC=CCCC>>C(=C)CC=CC=CC.[HH]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC.[{B}H][{B}H]>>C=C.C(=C)CCCCCC.[{B}][{B}]
+C(=C)CCCCCC>>C(=C)CC=CCCC.[HH]
+C(=C)CC=CCCC>>C(=C)CC=CC=CC.[HH]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC.[{B}H][{B}H]>>C=C.C(=C)CCCCCC.[{B}][{B}]
+C(=C)CCCCCC>>C(=C)CC=CCCC.[HH]
+C(=C)CC=CCCC>>C(=C)CC=CC=CC.[HH]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)CC=CCCC.[HH]
+C(=CCC)CC=CCCC>>C(=C)CC=CCCC.C=C
+C(=C)CC=CCCC>>C(=C)CC=CC=CC.[HH]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCC)CC=CCCC.[HH]
+C(=CCC)CC=CCCC>>C(=C)CC=CCCC.C=C
+C(=C)CC=CCCC>>C(=C)CC=CC=CC.[HH]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)C=CCC=CCCC.[HH]
+C(=C)C=CCC=CCCC.[{B}H][{B}H]>>C=C.C(=C)CC=CCCC.[{B}][{B}]
+C(=C)CC=CCCC>>C(=C)CC=CC=CC.[HH]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)C=CCC=CCCC.[HH]
+C(=C)C=CCC=CCCC.[{B}H][{B}H]>>C=C.C(=C)CC=CCCC.[{B}][{B}]
+C(=C)CC=CCCC>>C(=C)CC=CC=CC.[HH]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCC=CCCC.[HH]
+C(=C)CCCC=CCCC>>C(=C)C=CCC=CCCC.[HH]
+C(=C)C=CCC=CCCC.[{B}H][{B}H]>>C=C.C(=C)CC=CCCC.[{B}][{B}]
+C(=C)CC=CCCC>>C(=C)CC=CC=CC.[HH]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=C)CCCC=CCCC.[HH]
+C(=C)CCCC=CCCC>>C(=C)C=CCC=CCCC.[HH]
+C(=C)C=CCC=CCCC.[{B}H][{B}H]>>C=C.C(=C)CC=CCCC.[{B}][{B}]
+C(=C)CC=CCCC>>C(=C)CC=CC=CC.[HH]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)CC=CCCC.[HH]
+C(=CCC)CC=CCCC>>C(=C)C=CCC=CCCC.[HH]
+C(=C)C=CCC=CCCC.[{B}H][{B}H]>>C=C.C(=C)CC=CCCC.[{B}][{B}]
+C(=C)CC=CCCC>>C(=C)CC=CC=CC.[HH]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCC)CC=CCCC.[HH]
+C(=CCC)CC=CCCC>>C(=C)C=CCC=CCCC.[HH]
+C(=C)C=CCC=CCCC.[{B}H][{B}H]>>C=C.C(=C)CC=CCCC.[{B}][{B}]
+C(=C)CC=CCCC>>C(=C)CC=CC=CC.[HH]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C>>C(=CC=CCC=CCC)C.[HH]
+C(=CC=CCC=CCC)C>>C(=CC=CCC=CC=C)C.[HH]
+C(=CC=CCC=CC=C)C.[{B}H][{B}H]>>C(=C)CC=CC=CC.C=C.[{B}][{B}]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C>>C(=CC=CCC=CCC)C.[HH]
+C(=CC=CCC=CCC)C>>C(=CC=CCC=CC=C)C.[HH]
+C(=CC=CCC=CC=C)C.[{B}H][{B}H]>>C(=C)CC=CC=CC.C=C.[{B}][{B}]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCCC=CCC)C.[HH]
+C(=CCCCC=CCC)C>>C(=CC=CCC=CCC)C.[HH]
+C(=CC=CCC=CCC)C>>C(=CC=CCC=CC=C)C.[HH]
+C(=CC=CCC=CC=C)C.[{B}H][{B}H]>>C(=C)CC=CC=CC.C=C.[{B}][{B}]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCCCC=CCC)C.[HH]
+C(=CCCCC=CCC)C>>C(=CC=CCC=CCC)C.[HH]
+C(=CC=CCC=CCC)C>>C(=CC=CCC=CC=C)C.[HH]
+C(=CC=CCC=CC=C)C.[{B}H][{B}H]>>C(=C)CC=CC=CC.C=C.[{B}][{B}]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)CC=CCCC.[HH]
+C(=CCC)CC=CCCC>>C(=CC=CCC=CCC)C.[HH]
+C(=CC=CCC=CCC)C>>C(=CC=CCC=CC=C)C.[HH]
+C(=CC=CCC=CC=C)C.[{B}H][{B}H]>>C(=C)CC=CC=CC.C=C.[{B}][{B}]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCC)CC=CCCC.[HH]
+C(=CCC)CC=CCCC>>C(=CC=CCC=CCC)C.[HH]
+C(=CC=CCC=CCC)C>>C(=CC=CCC=CC=C)C.[HH]
+C(=CC=CCC=CC=C)C.[{B}H][{B}H]>>C(=C)CC=CC=CC.C=C.[{B}][{B}]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C>>C(=C)CCCC=CC=CC.[HH]
+C(=C)CCCC=CC=CC>>C(=CC=CCC=CC=C)C.[HH]
+C(=CC=CCC=CC=C)C.[{B}H][{B}H]>>C(=C)CC=CC=CC.C=C.[{B}][{B}]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C>>C(=C)CCCC=CC=CC.[HH]
+C(=C)CCCC=CC=CC>>C(=CC=CCC=CC=C)C.[HH]
+C(=CC=CCC=CC=C)C.[{B}H][{B}H]>>C(=C)CC=CC=CC.C=C.[{B}][{B}]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C(=C)CCCC=CC=CC.[HH]
+C(=C)CCCC=CC=CC>>C(=CC=CCC=CC=C)C.[HH]
+C(=CC=CCC=CC=C)C.[{B}H][{B}H]>>C(=C)CC=CC=CC.C=C.[{B}][{B}]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C(=C)CCCC=CC=CC.[HH]
+C(=C)CCCC=CC=CC>>C(=CC=CCC=CC=C)C.[HH]
+C(=CC=CCC=CC=C)C.[{B}H][{B}H]>>C(=C)CC=CC=CC.C=C.[{B}][{B}]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCC=CCCC.[HH]
+C(=C)CCCC=CCCC>>C(=C)CCCC=CC=CC.[HH]
+C(=C)CCCC=CC=CC>>C(=CC=CCC=CC=C)C.[HH]
+C(=CC=CCC=CC=C)C.[{B}H][{B}H]>>C(=C)CC=CC=CC.C=C.[{B}][{B}]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=C)CCCC=CCCC.[HH]
+C(=C)CCCC=CCCC>>C(=C)CCCC=CC=CC.[HH]
+C(=C)CCCC=CC=CC>>C(=CC=CCC=CC=C)C.[HH]
+C(=CC=CCC=CC=C)C.[{B}H][{B}H]>>C(=C)CC=CC=CC.C=C.[{B}][{B}]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCCC=CCC)C.[HH]
+C(=CCCCC=CCC)C>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC>>C(=CC=CCC=CC=C)C.[HH]
+C(=CC=CCC=CC=C)C.[{B}H][{B}H]>>C(=C)CC=CC=CC.C=C.[{B}][{B}]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCCCC=CCC)C.[HH]
+C(=CCCCC=CCC)C>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC>>C(=CC=CCC=CC=C)C.[HH]
+C(=CC=CCC=CC=C)C.[{B}H][{B}H]>>C(=C)CC=CC=CC.C=C.[{B}][{B}]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC>>C(=CC=CCC=CC=C)C.[HH]
+C(=CC=CCC=CC=C)C.[{B}H][{B}H]>>C(=C)CC=CC=CC.C=C.[{B}][{B}]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC>>C(=CC=CCC=CC=C)C.[HH]
+C(=CC=CCC=CC=C)C.[{B}H][{B}H]>>C(=C)CC=CC=CC.C=C.[{B}][{B}]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC>>C(=CC=CCC=CC=C)C.[HH]
+C(=CC=CCC=CC=C)C.[{B}H][{B}H]>>C(=C)CC=CC=CC.C=C.[{B}][{B}]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC>>C(=CC=CCC=CC=C)C.[HH]
+C(=CC=CCC=CC=C)C.[{B}H][{B}H]>>C(=C)CC=CC=CC.C=C.[{B}][{B}]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)C=CCC=CCCC.[HH]
+C(=C)C=CCC=CCCC>>C(=CC=CCC=CC=C)C.[HH]
+C(=CC=CCC=CC=C)C.[{B}H][{B}H]>>C(=C)CC=CC=CC.C=C.[{B}][{B}]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)C=CCC=CCCC.[HH]
+C(=C)C=CCC=CCCC>>C(=CC=CCC=CC=C)C.[HH]
+C(=CC=CCC=CC=C)C.[{B}H][{B}H]>>C(=C)CC=CC=CC.C=C.[{B}][{B}]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCC=CCCC.[HH]
+C(=C)CCCC=CCCC>>C(=C)C=CCC=CCCC.[HH]
+C(=C)C=CCC=CCCC>>C(=CC=CCC=CC=C)C.[HH]
+C(=CC=CCC=CC=C)C.[{B}H][{B}H]>>C(=C)CC=CC=CC.C=C.[{B}][{B}]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=C)CCCC=CCCC.[HH]
+C(=C)CCCC=CCCC>>C(=C)C=CCC=CCCC.[HH]
+C(=C)C=CCC=CCCC>>C(=CC=CCC=CC=C)C.[HH]
+C(=CC=CCC=CC=C)C.[{B}H][{B}H]>>C(=C)CC=CC=CC.C=C.[{B}][{B}]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)CC=CCCC.[HH]
+C(=CCC)CC=CCCC>>C(=C)C=CCC=CCCC.[HH]
+C(=C)C=CCC=CCCC>>C(=CC=CCC=CC=C)C.[HH]
+C(=CC=CCC=CC=C)C.[{B}H][{B}H]>>C(=C)CC=CC=CC.C=C.[{B}][{B}]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCC)CC=CCCC.[HH]
+C(=CCC)CC=CCCC>>C(=C)C=CCC=CCCC.[HH]
+C(=C)C=CCC=CCCC>>C(=CC=CCC=CC=C)C.[HH]
+C(=CC=CCC=CC=C)C.[{B}H][{B}H]>>C(=C)CC=CC=CC.C=C.[{B}][{B}]
+C(=C)CC=CC=CC.[HH]>>C(=CC=CCCC)C
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCCC=CCC)C.[HH]
+C(=CCCCC=CCC)C>>C(=C)CCCC=CC.C=C
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCCCC=CCC)C.[HH]
+C(=CCCCC=CCC)C>>C(=C)CCCC=CC.C=C
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C=C.C(=C)CCCC=CC
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C=C.C(=C)CCCC=CC
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C=C.C(=C)CCCCCC
+C(=C)CCCCCC>>C(=C)CCCC=CC.[HH]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)CCCCCC.C=C
+C(=C)CCCCCC>>C(=C)CCCC=CC.[HH]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC.[{B}H][{B}H]>>C=C.C(=C)CCCCCC.[{B}][{B}]
+C(=C)CCCCCC>>C(=C)CCCC=CC.[HH]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC.[{B}H][{B}H]>>C=C.C(=C)CCCCCC.[{B}][{B}]
+C(=C)CCCCCC>>C(=C)CCCC=CC.[HH]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCCC=CCC)C.[HH]
+C(=CCCCC=CCC)C>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC.[{B}H][{B}H]>>C=C.C(=C)CCCC=CC.[{B}][{B}]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCCCC=CCC)C.[HH]
+C(=CCCCC=CCC)C>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC.[{B}H][{B}H]>>C=C.C(=C)CCCC=CC.[{B}][{B}]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC.[{B}H][{B}H]>>C=C.C(=C)CCCC=CC.[{B}][{B}]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC.[{B}H][{B}H]>>C=C.C(=C)CCCC=CC.[{B}][{B}]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC.[{B}H][{B}H]>>C=C.C(=C)CCCC=CC.[{B}][{B}]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC.[{B}H][{B}H]>>C=C.C(=C)CCCC=CC.[{B}][{B}]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C=C.C(=C)CCCCCC
+C(=C)CCCCCC.[HH]>>C(CCCCCC)C
+C(CCCCCC)C>>C(=CCCCCC)C.[HH]
+C(=CCCCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)CCCCCC.C=C
+C(=C)CCCCCC.[HH]>>C(CCCCCC)C
+C(CCCCCC)C>>C(=CCCCCC)C.[HH]
+C(=CCCCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC.[{B}H][{B}H]>>C=C.C(=C)CCCCCC.[{B}][{B}]
+C(=C)CCCCCC.[HH]>>C(CCCCCC)C
+C(CCCCCC)C>>C(=CCCCCC)C.[HH]
+C(=CCCCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC.[{B}H][{B}H]>>C=C.C(=C)CCCCCC.[{B}][{B}]
+C(=C)CCCCCC.[HH]>>C(CCCCCC)C
+C(CCCCCC)C>>C(=CCCCCC)C.[HH]
+C(=CCCCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCC=CCCC.[HH]
+C(=C)CCCC=CCCC>>C=C.C(=C)CC=CCCC
+C(=C)CC=CCCC.[HH]>>C(CC=CCCC)C
+C(CC=CCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=C)CCCC=CCCC.[HH]
+C(=C)CCCC=CCCC>>C=C.C(=C)CC=CCCC
+C(=C)CC=CCCC.[HH]>>C(CC=CCCC)C
+C(CC=CCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C=C.C(=C)CCCCCC
+C(=C)CCCCCC>>C(=C)CC=CCCC.[HH]
+C(=C)CC=CCCC.[HH]>>C(CC=CCCC)C
+C(CC=CCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)CCCCCC.C=C
+C(=C)CCCCCC>>C(=C)CC=CCCC.[HH]
+C(=C)CC=CCCC.[HH]>>C(CC=CCCC)C
+C(CC=CCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC.[{B}H][{B}H]>>C=C.C(=C)CCCCCC.[{B}][{B}]
+C(=C)CCCCCC>>C(=C)CC=CCCC.[HH]
+C(=C)CC=CCCC.[HH]>>C(CC=CCCC)C
+C(CC=CCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC.[{B}H][{B}H]>>C=C.C(=C)CCCCCC.[{B}][{B}]
+C(=C)CCCCCC>>C(=C)CC=CCCC.[HH]
+C(=C)CC=CCCC.[HH]>>C(CC=CCCC)C
+C(CC=CCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)CC=CCCC.[HH]
+C(=CCC)CC=CCCC>>C(=C)CC=CCCC.C=C
+C(=C)CC=CCCC.[HH]>>C(CC=CCCC)C
+C(CC=CCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCC)CC=CCCC.[HH]
+C(=CCC)CC=CCCC>>C(=C)CC=CCCC.C=C
+C(=C)CC=CCCC.[HH]>>C(CC=CCCC)C
+C(CC=CCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)C=CCC=CCCC.[HH]
+C(=C)C=CCC=CCCC.[{B}H][{B}H]>>C=C.C(=C)CC=CCCC.[{B}][{B}]
+C(=C)CC=CCCC.[HH]>>C(CC=CCCC)C
+C(CC=CCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)C=CCC=CCCC.[HH]
+C(=C)C=CCC=CCCC.[{B}H][{B}H]>>C=C.C(=C)CC=CCCC.[{B}][{B}]
+C(=C)CC=CCCC.[HH]>>C(CC=CCCC)C
+C(CC=CCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCC=CCCC.[HH]
+C(=C)CCCC=CCCC>>C(=C)C=CCC=CCCC.[HH]
+C(=C)C=CCC=CCCC.[{B}H][{B}H]>>C=C.C(=C)CC=CCCC.[{B}][{B}]
+C(=C)CC=CCCC.[HH]>>C(CC=CCCC)C
+C(CC=CCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=C)CCCC=CCCC.[HH]
+C(=C)CCCC=CCCC>>C(=C)C=CCC=CCCC.[HH]
+C(=C)C=CCC=CCCC.[{B}H][{B}H]>>C=C.C(=C)CC=CCCC.[{B}][{B}]
+C(=C)CC=CCCC.[HH]>>C(CC=CCCC)C
+C(CC=CCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)CC=CCCC.[HH]
+C(=CCC)CC=CCCC>>C(=C)C=CCC=CCCC.[HH]
+C(=C)C=CCC=CCCC.[{B}H][{B}H]>>C=C.C(=C)CC=CCCC.[{B}][{B}]
+C(=C)CC=CCCC.[HH]>>C(CC=CCCC)C
+C(CC=CCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCC)CC=CCCC.[HH]
+C(=CCC)CC=CCCC>>C(=C)C=CCC=CCCC.[HH]
+C(=C)C=CCC=CCCC.[{B}H][{B}H]>>C=C.C(=C)CC=CCCC.[{B}][{B}]
+C(=C)CC=CCCC.[HH]>>C(CC=CCCC)C
+C(CC=CCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C=C.C(=C)CCCCCC
+C(=C)CCCCCC.[HH]>>C(CCCCCC)C
+C(CCCCCC)C>>C(CC=CCCC)C.[HH]
+C(CC=CCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)CCCCCC.C=C
+C(=C)CCCCCC.[HH]>>C(CCCCCC)C
+C(CCCCCC)C>>C(CC=CCCC)C.[HH]
+C(CC=CCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC.[{B}H][{B}H]>>C=C.C(=C)CCCCCC.[{B}][{B}]
+C(=C)CCCCCC.[HH]>>C(CCCCCC)C
+C(CCCCCC)C>>C(CC=CCCC)C.[HH]
+C(CC=CCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC.[{B}H][{B}H]>>C=C.C(=C)CCCCCC.[{B}][{B}]
+C(=C)CCCCCC.[HH]>>C(CCCCCC)C
+C(CCCCCC)C>>C(CC=CCCC)C.[HH]
+C(CC=CCCC)C>>C(=CC=CCCC)C.[HH]
+C(=CC=CCCC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCCC=CCC)C.[HH]
+C(=CCCCC=CCC)C>>C(=C)CCCC=CC.C=C
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCCCC=CCC)C.[HH]
+C(=CCCCC=CCC)C>>C(=C)CCCC=CC.C=C
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C=C.C(=C)CCCC=CC
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C=C.C(=C)CCCC=CC
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C=C.C(=C)CCCCCC
+C(=C)CCCCCC>>C(=C)CCCC=CC.[HH]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)CCCCCC.C=C
+C(=C)CCCCCC>>C(=C)CCCC=CC.[HH]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC.[{B}H][{B}H]>>C=C.C(=C)CCCCCC.[{B}][{B}]
+C(=C)CCCCCC>>C(=C)CCCC=CC.[HH]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC.[{B}H][{B}H]>>C=C.C(=C)CCCCCC.[{B}][{B}]
+C(=C)CCCCCC>>C(=C)CCCC=CC.[HH]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCCC=CCC)C.[HH]
+C(=CCCCC=CCC)C>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC.[{B}H][{B}H]>>C=C.C(=C)CCCC=CC.[{B}][{B}]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCCCC=CCC)C.[HH]
+C(=CCCCC=CCC)C>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC.[{B}H][{B}H]>>C=C.C(=C)CCCC=CC.[{B}][{B}]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC.[{B}H][{B}H]>>C=C.C(=C)CCCC=CC.[{B}][{B}]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC.[{B}H][{B}H]>>C=C.C(=C)CCCC=CC.[{B}][{B}]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC.[{B}H][{B}H]>>C=C.C(=C)CCCC=CC.[{B}][{B}]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC.[{B}H][{B}H]>>C=C.C(=C)CCCC=CC.[{B}][{B}]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C=C.C(=C)CCCCCC
+C(=C)CCCCCC.[HH]>>C(CCCCCC)C
+C(CCCCCC)C>>C(=CCCCCC)C.[HH]
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)CCCCCC.C=C
+C(=C)CCCCCC.[HH]>>C(CCCCCC)C
+C(CCCCCC)C>>C(=CCCCCC)C.[HH]
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC.[{B}H][{B}H]>>C=C.C(=C)CCCCCC.[{B}][{B}]
+C(=C)CCCCCC.[HH]>>C(CCCCCC)C
+C(CCCCCC)C>>C(=CCCCCC)C.[HH]
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC.[{B}H][{B}H]>>C=C.C(=C)CCCCCC.[{B}][{B}]
+C(=C)CCCCCC.[HH]>>C(CCCCCC)C
+C(CCCCCC)C>>C(=CCCCCC)C.[HH]
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C(=CC=CC=CC)C.[HH]
+C(=CC=CC=CC)C>>C1(=CC=CCC1C)C
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CCCCC1=CCC)C.[HH]
+C1(=CCCCC1=CCC)C>>C1(=C)C(=CCCC1)C.C=C
+C1(=C)C(=CCCC1)C.[HH]>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CC=CCC1C)C.[HH]
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CCCCC1=CCC)C.[HH]
+C1(=CCCCC1=CCC)C>>C1(=C)C(=CCCC1)C.C=C
+C1(=C)C(=CCCC1)C.[HH]>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CC=CCC1C)C.[HH]
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C1(=CCCCC1CC=C)C
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CCCC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CCCC1)C.[HH]>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CC=CCC1C)C.[HH]
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C1(=CCCCC1CC=C)C
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CCCC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CCCC1)C.[HH]>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CC=CCC1C)C.[HH]
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C1(=CCCCC1CC=C)C
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CCCC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CCCC1)C.[HH]>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CC=CCC1C)C.[HH]
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C1(=CCCCC1CC=C)C
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CCCC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CCCC1)C.[HH]>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CC=CCC1C)C.[HH]
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CC=CCCCCC.[HH]
+C(=C)CC=CCCCCC>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C1(=CCCCC1CC=C)C
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CCCC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CCCC1)C.[HH]>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CC=CCC1C)C.[HH]
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=C)CC=CCCCCC.[HH]
+C(=C)CC=CCCCCC>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C1(=CCCCC1CC=C)C
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CCCC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CCCC1)C.[HH]>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CC=CCC1C)C.[HH]
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CCCCC1CC=C)C.[HH]
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CCCC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CCCC1)C.[HH]>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CC=CCC1C)C.[HH]
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CCCCC1CC=C)C.[HH]
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CCCC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CCCC1)C.[HH]>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CC=CCC1C)C.[HH]
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CCCCC1=CCC)C.[HH]
+C1(=CCCCC1=CCC)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CCCC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CCCC1)C.[HH]>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CC=CCC1C)C.[HH]
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CCCCC1=CCC)C.[HH]
+C1(=CCCCC1=CCC)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CCCC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CCCC1)C.[HH]>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CC=CCC1C)C.[HH]
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCCC=CCC)C.[HH]
+C(=CCCCC=CCC)C>>C(=C)CCCC=CC.C=C
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CC=CCC1C)C.[HH]
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCCCC=CCC)C.[HH]
+C(=CCCCC=CCC)C>>C(=C)CCCC=CC.C=C
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CC=CCC1C)C.[HH]
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C=C.C(=C)CCCC=CC
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CC=CCC1C)C.[HH]
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C=C.C(=C)CCCC=CC
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CC=CCC1C)C.[HH]
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C=C.C(=C)CCCCCC
+C(=C)CCCCCC>>C(=C)CCCC=CC.[HH]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CC=CCC1C)C.[HH]
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)CCCCCC.C=C
+C(=C)CCCCCC>>C(=C)CCCC=CC.[HH]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CC=CCC1C)C.[HH]
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC.[{B}H][{B}H]>>C=C.C(=C)CCCCCC.[{B}][{B}]
+C(=C)CCCCCC>>C(=C)CCCC=CC.[HH]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CC=CCC1C)C.[HH]
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC.[{B}H][{B}H]>>C=C.C(=C)CCCCCC.[{B}][{B}]
+C(=C)CCCCCC>>C(=C)CCCC=CC.[HH]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CC=CCC1C)C.[HH]
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCCC=CCC)C.[HH]
+C(=CCCCC=CCC)C>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC.[{B}H][{B}H]>>C=C.C(=C)CCCC=CC.[{B}][{B}]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CC=CCC1C)C.[HH]
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCCCC=CCC)C.[HH]
+C(=CCCCC=CCC)C>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC.[{B}H][{B}H]>>C=C.C(=C)CCCC=CC.[{B}][{B}]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CC=CCC1C)C.[HH]
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC.[{B}H][{B}H]>>C=C.C(=C)CCCC=CC.[{B}][{B}]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CC=CCC1C)C.[HH]
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC.[{B}H][{B}H]>>C=C.C(=C)CCCC=CC.[{B}][{B}]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CC=CCC1C)C.[HH]
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC.[{B}H][{B}H]>>C=C.C(=C)CCCC=CC.[{B}][{B}]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CC=CCC1C)C.[HH]
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC.[{B}H][{B}H]>>C=C.C(=C)CCCC=CC.[{B}][{B}]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CC=CCC1C)C.[HH]
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C=C.C(=C)CCCCCC
+C(=C)CCCCCC.[HH]>>C(CCCCCC)C
+C(CCCCCC)C>>C(=CCCCCC)C.[HH]
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CC=CCC1C)C.[HH]
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)CCCCCC.C=C
+C(=C)CCCCCC.[HH]>>C(CCCCCC)C
+C(CCCCCC)C>>C(=CCCCCC)C.[HH]
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CC=CCC1C)C.[HH]
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC.[{B}H][{B}H]>>C=C.C(=C)CCCCCC.[{B}][{B}]
+C(=C)CCCCCC.[HH]>>C(CCCCCC)C
+C(CCCCCC)C>>C(=CCCCCC)C.[HH]
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CC=CCC1C)C.[HH]
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC.[{B}H][{B}H]>>C=C.C(=C)CCCCCC.[{B}][{B}]
+C(=C)CCCCCC.[HH]>>C(CCCCCC)C
+C(CCCCCC)C>>C(=CCCCCC)C.[HH]
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CC=CCC1C)C.[HH]
+C1(=CC=CCC1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CCCCC1=CCC)C.[HH]
+C1(=CCCCC1=CCC)C>>C1(=C)C(=CCCC1)C.C=C
+C1(=C)C(=CCCC1)C.[HH]>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CCCC=C1C)C.[HH]
+C1(=CCCC=C1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CCCCC1=CCC)C.[HH]
+C1(=CCCCC1=CCC)C>>C1(=C)C(=CCCC1)C.C=C
+C1(=C)C(=CCCC1)C.[HH]>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CCCC=C1C)C.[HH]
+C1(=CCCC=C1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C1(=CCCCC1CC=C)C
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CCCC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CCCC1)C.[HH]>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CCCC=C1C)C.[HH]
+C1(=CCCC=C1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C1(=CCCCC1CC=C)C
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CCCC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CCCC1)C.[HH]>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CCCC=C1C)C.[HH]
+C1(=CCCC=C1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C1(=CCCCC1CC=C)C
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CCCC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CCCC1)C.[HH]>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CCCC=C1C)C.[HH]
+C1(=CCCC=C1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C1(=CCCCC1CC=C)C
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CCCC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CCCC1)C.[HH]>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CCCC=C1C)C.[HH]
+C1(=CCCC=C1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CC=CCCCCC.[HH]
+C(=C)CC=CCCCCC>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C1(=CCCCC1CC=C)C
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CCCC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CCCC1)C.[HH]>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CCCC=C1C)C.[HH]
+C1(=CCCC=C1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=C)CC=CCCCCC.[HH]
+C(=C)CC=CCCCCC>>C(=C)CC=CCCC=CC.[HH]
+C(=C)CC=CCCC=CC>>C1(=CCCCC1CC=C)C
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CCCC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CCCC1)C.[HH]>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CCCC=C1C)C.[HH]
+C1(=CCCC=C1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CCCCC1CC=C)C.[HH]
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CCCC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CCCC1)C.[HH]>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CCCC=C1C)C.[HH]
+C1(=CCCC=C1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CCCCC1CC=C)C.[HH]
+C1(=CCCCC1CC=C)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CCCC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CCCC1)C.[HH]>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CCCC=C1C)C.[HH]
+C1(=CCCC=C1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CCCCC1=CCC)C.[HH]
+C1(=CCCCC1=CCC)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CCCC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CCCC1)C.[HH]>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CCCC=C1C)C.[HH]
+C1(=CCCC=C1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCCC1CCC)C
+C1(=CCCCC1CCC)C>>C1(=CCCCC1=CCC)C.[HH]
+C1(=CCCCC1=CCC)C>>C1(=CCCCC1=CC=C)C.[HH]
+C1(=CCCCC1=CC=C)C.[{B}H][{B}H]>>C1(=C)C(=CCCC1)C.C=C.[{B}][{B}]
+C1(=C)C(=CCCC1)C.[HH]>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CCCC=C1C)C.[HH]
+C1(=CCCC=C1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCCC=CCC)C.[HH]
+C(=CCCCC=CCC)C>>C(=C)CCCC=CC.C=C
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CCCC=C1C)C.[HH]
+C1(=CCCC=C1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCCCC=CCC)C.[HH]
+C(=CCCCC=CCC)C>>C(=C)CCCC=CC.C=C
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CCCC=C1C)C.[HH]
+C1(=CCCC=C1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C=C.C(=C)CCCC=CC
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CCCC=C1C)C.[HH]
+C1(=CCCC=C1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C=C.C(=C)CCCC=CC
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CCCC=C1C)C.[HH]
+C1(=CCCC=C1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C=C.C(=C)CCCCCC
+C(=C)CCCCCC>>C(=C)CCCC=CC.[HH]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CCCC=C1C)C.[HH]
+C1(=CCCC=C1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)CCCCCC.C=C
+C(=C)CCCCCC>>C(=C)CCCC=CC.[HH]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CCCC=C1C)C.[HH]
+C1(=CCCC=C1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC.[{B}H][{B}H]>>C=C.C(=C)CCCCCC.[{B}][{B}]
+C(=C)CCCCCC>>C(=C)CCCC=CC.[HH]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CCCC=C1C)C.[HH]
+C1(=CCCC=C1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC.[{B}H][{B}H]>>C=C.C(=C)CCCCCC.[{B}][{B}]
+C(=C)CCCCCC>>C(=C)CCCC=CC.[HH]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CCCC=C1C)C.[HH]
+C1(=CCCC=C1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCCC=CCC)C.[HH]
+C(=CCCCC=CCC)C>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC.[{B}H][{B}H]>>C=C.C(=C)CCCC=CC.[{B}][{B}]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CCCC=C1C)C.[HH]
+C1(=CCCC=C1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCCCC=CCC)C.[HH]
+C(=CCCCC=CCC)C>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC.[{B}H][{B}H]>>C=C.C(=C)CCCC=CC.[{B}][{B}]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CCCC=C1C)C.[HH]
+C1(=CCCC=C1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC.[{B}H][{B}H]>>C=C.C(=C)CCCC=CC.[{B}][{B}]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CCCC=C1C)C.[HH]
+C1(=CCCC=C1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)CCCCCC=CC.[HH]
+C(=C)CCCCCC=CC>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC.[{B}H][{B}H]>>C=C.C(=C)CCCC=CC.[{B}][{B}]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CCCC=C1C)C.[HH]
+C1(=CCCC=C1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC.[{B}H][{B}H]>>C=C.C(=C)CCCC=CC.[{B}][{B}]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CCCC=C1C)C.[HH]
+C1(=CCCC=C1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC>>C(=C)C=CCCCC=CC.[HH]
+C(=C)C=CCCCC=CC.[{B}H][{B}H]>>C=C.C(=C)CCCC=CC.[{B}][{B}]
+C(=C)CCCC=CC.[HH]>>C(=CCCCCC)C
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CCCC=C1C)C.[HH]
+C1(=CCCC=C1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C=C.C(=C)CCCCCC
+C(=C)CCCCCC.[HH]>>C(CCCCCC)C
+C(CCCCCC)C>>C(=CCCCCC)C.[HH]
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CCCC=C1C)C.[HH]
+C1(=CCCC=C1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)CCCCCC.C=C
+C(=C)CCCCCC.[HH]>>C(CCCCCC)C
+C(CCCCCC)C>>C(=CCCCCC)C.[HH]
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CCCC=C1C)C.[HH]
+C1(=CCCC=C1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 8 and contains
+rule Dehydrogenation occurs 5 times
+rule BetaScission occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(=C)CCCCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC.[{B}H][{B}H]>>C=C.C(=C)CCCCCC.[{B}][{B}]
+C(=C)CCCCCC.[HH]>>C(CCCCCC)C
+C(CCCCCC)C>>C(=CCCCCC)C.[HH]
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CCCC=C1C)C.[HH]
+C1(=CCCC=C1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=C)C=CCCCCCC.[HH]
+C(=C)C=CCCCCCC.[{B}H][{B}H]>>C=C.C(=C)CCCCCC.[{B}][{B}]
+C(=C)CCCCCC.[HH]>>C(CCCCCC)C
+C(CCCCCC)C>>C(=CCCCCC)C.[HH]
+C(=CCCCCC)C>>C(=CCCC=CC)C.[HH]
+C(=CCCC=CC)C>>C1(=CCCCC1C)C
+C1(=CCCCC1C)C>>C1(=CCCC=C1C)C.[HH]
+C1(=CCCC=C1C)C>>c1(c(cccc1)C)C.[HH]
+
+the above pathway is of length 9 and contains
+rule Dehydrogenation occurs 6 times
+rule EndMethaneBetaScissionWithHB2 occurs 1 times
+rule Hydrogenation occurs 1 times
+rule FirstCyclization occurs 1 times
+
+total valid pathways is 255
+total distinct pathways is 255
+79 pathways from C(CCCCCCCC)C containing 
+5of rule Dehydrogenation
+1of rule BetaScission
+1of rule Hydrogenation
+1of rule FirstCyclization
+
+176 pathways from C(CCCCCCCC)C containing 
+6of rule Dehydrogenation
+1of rule EndMethaneBetaScissionWithHB2
+1of rule Hydrogenation
+1of rule FirstCyclization
+
+
+Number of pathways of length 8 is: 79
+Number of pathways of length 9 is: 176
+1 molecules satisfied the molecular constraints specified

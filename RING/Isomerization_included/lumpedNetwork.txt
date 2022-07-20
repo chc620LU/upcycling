@@ -1,0 +1,8 @@
+number of occurences of rule Dehydrogenation is 0 (0)
+number of occurences of rule BetaScission is 0 (0)
+number of occurences of rule EndMethaneBetaScissionWithHB2 is 0 (0)
+number of occurences of rule Hydrogenation is 0 (0)
+number of occurences of rule FirstCyclization is 0 (0)
+number of occurences of rule SecondCyclizationtypeA is 0 (0)
+number of occurences of rule SecondCyclizationtypeB is 0 (0)
+number of occurences of rule PCP is 0 (0)

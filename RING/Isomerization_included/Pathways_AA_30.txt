@@ -1,0 +1,63 @@
+molecule c1(c(CC)cccc1)CC satisfies constraints
+shortest path to the molecule is 5
+Pathways for c1(c(CC)cccc1)CC 
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=CCC)C=CC=CCC.[HH]
+C(=CCC)C=CC=CCC>>C1(=CC=CCC1CC)CC
+C1(=CC=CCC1CC)CC>>c1(c(CC)cccc1)CC.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 4 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=CCC)C=CC=CCC.[HH]
+C(=CCC)C=CC=CCC>>C1(=CC=CCC1CC)CC
+C1(=CC=CCC1CC)CC>>c1(c(CC)cccc1)CC.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 4 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)CCC=CCC.[HH]
+C(=CCC)CCC=CCC>>C(=CCC)C=CC=CCC.[HH]
+C(=CCC)C=CC=CCC>>C1(=CC=CCC1CC)CC
+C1(=CC=CCC1CC)CC>>c1(c(CC)cccc1)CC.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 4 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)CCC=CCC.[HH]
+C(=CCC)CCC=CCC>>C1(=CCCCC1CC)CC
+C1(=CCCCC1CC)CC>>C1(=CC=CCC1CC)CC.[HH]
+C1(=CC=CCC1CC)CC>>c1(c(CC)cccc1)CC.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 4 times
+rule FirstCyclization occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)CCC=CCC.[HH]
+C(=CCC)CCC=CCC>>C1(=CCCCC1CC)CC
+C1(=CCCCC1CC)CC>>C1(=CCCC=C1CC)CC.[HH]
+C1(=CCCC=C1CC)CC>>c1(c(CC)cccc1)CC.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 4 times
+rule FirstCyclization occurs 1 times
+
+total valid pathways is 5
+total distinct pathways is 5
+5 pathways from C(CCCCCCCC)C containing 
+4of rule Dehydrogenation
+1of rule FirstCyclization
+
+
+Number of pathways of length 5 is: 5
+1 molecules satisfied the molecular constraints specified
