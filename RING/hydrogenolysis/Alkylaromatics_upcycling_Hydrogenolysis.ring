@@ -214,5 +214,5 @@ constraints{
 /*
 find all mol{
 mol is aromatic
-}store in "Aromatic_mol_C10_Nov23.txt"
+}store in "Aromatic_mol_C10_HS.txt"
 */
