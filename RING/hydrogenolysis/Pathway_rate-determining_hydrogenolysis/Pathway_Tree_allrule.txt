@@ -1,0 +1,545 @@
+rds_define: ['Dehydrogenation', 'CyclizationA', 'Hydrogenolysis']
+is/Pathways_AnaResult_HS_6
+Initial length: 174
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 174
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 81.77
+NEW dict
+ {'Pathway126': [[4.74, 80.47, 55.47, 81.77, -40.82], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']]}
+1
+completed: 'best' pathway found
+is/Pathways_AnaResult_HS_7
+Initial length: 450
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 450
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 76.51
+NEW dict
+ {'Pathway432': [[13.24, 76.51, 56.31, 73.37, 76.1, -31.05], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway444': [[13.24, 76.51, 56.31, 75.11, 74.36, -31.05], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']]}
+2
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway432': [[56.31, 73.37, 76.1, -31.05], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway444': [[56.31, 75.11, 74.36, -31.05], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']]}
+2
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 2
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 75.11
+NEW dict
+ {'Pathway444': [[56.31, 75.11, 74.36, -31.05], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']]}
+1
+completed: 'best' pathway found
+is/Pathways_AnaResult_HS_8
+Initial length: 3082
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 3082
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 76.04
+NEW dict
+ {'Pathway494': [[4.74, 76.04, 65.88, 60.37, -42.59, -43.16], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway506': [[4.74, 76.04, 65.88, 55.27, -37.49, -43.16], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway646': [[4.74, 76.04, -47.95, 74.9, 53.85, -40.3], ['CyclizationA', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway1562': [[4.74, 76.04, -47.95, 74.9, 74.14, -60.6], ['CyclizationA', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway1748': [[4.74, 76.04, -47.95, 74.5, 74.54, -60.6], ['CyclizationA', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway2122': [[4.74, 76.04, -47.95, 74.5, 68.35, -54.41], ['CyclizationA', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway2640': [[4.74, 76.04, 65.88, 60.37, -40.3, -45.45], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway2646': [[4.74, 76.04, 65.88, -42.55, 62.62, -45.45], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway2649': [[4.74, 76.04, -47.95, 71.27, 62.62, -45.45], ['CyclizationA', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway2832': [[4.74, 76.04, 65.88, 55.27, -42.25, -38.4], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway2838': [[4.74, 76.04, 65.88, -42.55, 55.57, -38.4], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway2841': [[4.74, 76.04, -47.95, 71.27, 55.57, -38.4], ['CyclizationA', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']]}
+12
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway494': [[65.88, 60.37, -42.59, -43.16], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway506': [[65.88, 55.27, -37.49, -43.16], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway646': [[-47.95, 74.9, 53.85, -40.3], ['Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway1562': [[-47.95, 74.9, 74.14, -60.6], ['Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway1748': [[-47.95, 74.5, 74.54, -60.6], ['Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway2122': [[-47.95, 74.5, 68.35, -54.41], ['Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway2640': [[65.88, 60.37, -40.3, -45.45], ['Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway2646': [[65.88, -42.55, 62.62, -45.45], ['Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway2649': [[-47.95, 71.27, 62.62, -45.45], ['Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway2832': [[65.88, 55.27, -42.25, -38.4], ['Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway2838': [[65.88, -42.55, 55.57, -38.4], ['Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway2841': [[-47.95, 71.27, 55.57, -38.4], ['Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']]}
+12
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 12
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 65.88
+NEW dict
+ {'Pathway494': [[65.88, 60.37, -42.59, -43.16], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway506': [[65.88, 55.27, -37.49, -43.16], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway2640': [[65.88, 60.37, -40.3, -45.45], ['Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway2646': [[65.88, -42.55, 62.62, -45.45], ['Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway2832': [[65.88, 55.27, -42.25, -38.4], ['Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway2838': [[65.88, -42.55, 55.57, -38.4], ['Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation']]}
+6
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway494': [[60.37, -42.59, -43.16], ['Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway506': [[55.27, -37.49, -43.16], ['Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway2640': [[60.37, -40.3, -45.45], ['Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway2646': [[-42.55, 62.62, -45.45], ['Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway2832': [[55.27, -42.25, -38.4], ['Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway2838': [[-42.55, 55.57, -38.4], ['Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation']]}
+6
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 6
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 55.27
+NEW dict
+ {'Pathway506': [[55.27, -37.49, -43.16], ['Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway2832': [[55.27, -42.25, -38.4], ['Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']]}
+2
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway506': [[-37.49, -43.16], ['Dehydrogenation', 'Hydrogenolysis']], 'Pathway2832': [[-42.25, -38.4], ['Hydrogenolysis', 'Dehydrogenation']]}
+2
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 2
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list -38.4
+NEW dict
+ {'Pathway2832': [[-42.25, -38.4], ['Hydrogenolysis', 'Dehydrogenation']]}
+1
+completed: 'best' pathway found
+s/Pathways_AnaResult_HS_12
+Initial length: 158
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 158
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 76.04
+NEW dict
+ {'Pathway142': [[4.74, 76.04, 65.88, 60.37, -42.59], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway154': [[4.74, 76.04, 65.88, 55.27, -37.49], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']]}
+2
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway142': [[65.88, 60.37, -42.59], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway154': [[65.88, 55.27, -37.49], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']]}
+2
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 2
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 65.88
+NEW dict
+ {'Pathway142': [[65.88, 60.37, -42.59], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway154': [[65.88, 55.27, -37.49], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']]}
+2
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway142': [[60.37, -42.59], ['Dehydrogenation', 'Dehydrogenation']], 'Pathway154': [[55.27, -37.49], ['Dehydrogenation', 'Dehydrogenation']]}
+2
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 2
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 55.27
+NEW dict
+ {'Pathway154': [[55.27, -37.49], ['Dehydrogenation', 'Dehydrogenation']]}
+1
+completed: 'best' pathway found
+s/Pathways_AnaResult_HS_21
+Initial length: 8620
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 8620
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 74.92
+NEW dict
+ {'Pathway4517': [[12.62, -57.08, 74.92, 66.6, -43.58, 60.49, -49.0], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway4595': [[12.62, -57.08, 74.92, 66.6, 58.22, -41.31, -49.0], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway4678': [[12.62, -57.08, 74.92, 66.37, 58.45, -41.31, -49.0], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway6043': [[12.62, -57.08, 74.92, 66.6, -43.58, 67.99, -56.49], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway6667': [[12.62, -57.08, 74.92, 66.6, 71.89, -47.49, -56.49], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway6732': [[12.62, -57.08, 74.92, 64.24, 74.25, -47.49, -56.49], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway7184': [[12.62, -57.08, 74.92, 64.24, -53.44, 71.22, -47.51], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway7211': [[12.62, -57.08, 74.92, 66.37, -55.57, 71.22, -47.51], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway7265': [[12.62, -57.08, 74.92, 66.6, 58.22, -42.8, -47.51], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway7348': [[12.62, -57.08, 74.92, 66.37, 58.45, -42.8, -47.51], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway7759': [[12.62, -57.08, 74.92, 66.6, 71.89, -56.47, -47.51], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway7824': [[12.62, -57.08, 74.92, 64.24, 74.25, -56.47, -47.51], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']]}
+12
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway4517': [[66.6, -43.58, 60.49, -49.0], ['Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway4595': [[66.6, 58.22, -41.31, -49.0], ['Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway4678': [[66.37, 58.45, -41.31, -49.0], ['Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway6043': [[66.6, -43.58, 67.99, -56.49], ['Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway6667': [[66.6, 71.89, -47.49, -56.49], ['Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway6732': [[64.24, 74.25, -47.49, -56.49], ['Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway7184': [[64.24, -53.44, 71.22, -47.51], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway7211': [[66.37, -55.57, 71.22, -47.51], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway7265': [[66.6, 58.22, -42.8, -47.51], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway7348': [[66.37, 58.45, -42.8, -47.51], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway7759': [[66.6, 71.89, -56.47, -47.51], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway7824': [[64.24, 74.25, -56.47, -47.51], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']]}
+12
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 12
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 66.37
+NEW dict
+ {'Pathway4678': [[66.37, 58.45, -41.31, -49.0], ['Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway7348': [[66.37, 58.45, -42.8, -47.51], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']]}
+2
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway4678': [[58.45, -41.31, -49.0], ['Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway7348': [[58.45, -42.8, -47.51], ['Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']]}
+2
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 2
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 58.45
+NEW dict
+ {'Pathway4678': [[58.45, -41.31, -49.0], ['Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway7348': [[58.45, -42.8, -47.51], ['Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']]}
+2
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway4678': [[-41.31, -49.0], ['Hydrogenolysis', 'Dehydrogenation']], 'Pathway7348': [[-42.8, -47.51], ['Dehydrogenation', 'Hydrogenolysis']]}
+2
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 2
+Types of MaxG: dict_keys(['Hydrogenolysis', 'Dehydrogenation'])
+minG in maxG_list -42.8
+NEW dict
+ {'Pathway7348': [[-42.8, -47.51], ['Dehydrogenation', 'Hydrogenolysis']]}
+1
+completed: 'best' pathway found
+s/Pathways_AnaResult_HS_27
+Initial length: 1407
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 1407
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 74.92
+NEW dict
+ {'Pathway542': [[12.62, -57.08, 74.92, -54.17, 58.48, -48.57], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway597': [[12.62, -57.08, 74.92, 66.37, -62.06, -48.57], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway1054': [[12.62, -57.08, 74.92, -54.17, 64.85, -54.94], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway1082': [[12.62, -57.08, 74.92, 64.24, -53.56, -54.94], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway1240': [[12.62, -57.08, 74.92, 64.24, -53.44, -55.06], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway1267': [[12.62, -57.08, 74.92, 66.37, -55.57, -55.06], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']]}
+6
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway542': [[-54.17, 58.48, -48.57], ['Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway597': [[66.37, -62.06, -48.57], ['Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway1054': [[-54.17, 64.85, -54.94], ['Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway1082': [[64.24, -53.56, -54.94], ['Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway1240': [[64.24, -53.44, -55.06], ['Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway1267': [[66.37, -55.57, -55.06], ['Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']]}
+6
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 6
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 58.48
+NEW dict
+ {'Pathway542': [[-54.17, 58.48, -48.57], ['Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation']]}
+1
+completed: 'best' pathway found
+s/Pathways_AnaResult_HS_28
+Initial length: 150
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 150
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 76.51
+NEW dict
+ {'Pathway96': [[13.24, 76.51, 56.31, 73.37, -41.04], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway132': [[13.24, 76.51, 56.31, 75.11, -42.78], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway150': [[13.24, 76.51, 56.31, -43.1, 75.42], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']]}
+3
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway96': [[56.31, 73.37, -41.04], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway132': [[56.31, 75.11, -42.78], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway150': [[56.31, -43.1, 75.42], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']]}
+3
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 3
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 73.37
+NEW dict
+ {'Pathway96': [[56.31, 73.37, -41.04], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']]}
+1
+completed: 'best' pathway found
+s/Pathways_AnaResult_HS_29
+Initial length: 540
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 540
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 76.51
+NEW dict
+ {'Pathway311': [[13.24, 76.51, 56.31, -43.1, -63.41], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway504': [[13.24, 76.51, 56.31, -62.58, -43.93], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway516': [[13.24, 76.51, -57.46, 51.19, -43.93], ['CyclizationA', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway543': [[13.24, 76.51, 56.31, -62.79, -43.72], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway558': [[13.24, 76.51, -57.46, 50.98, -43.72], ['CyclizationA', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation']]}
+5
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway311': [[56.31, -43.1, -63.41], ['Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway504': [[56.31, -62.58, -43.93], ['Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway516': [[-57.46, 51.19, -43.93], ['Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway543': [[56.31, -62.79, -43.72], ['Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway558': [[-57.46, 50.98, -43.72], ['Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation']]}
+5
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 5
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 50.98
+NEW dict
+ {'Pathway558': [[-57.46, 50.98, -43.72], ['Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation']]}
+1
+completed: 'best' pathway found
+s/Pathways_AnaResult_HS_30
+Initial length: 18
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 18
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 76.51
+NEW dict
+ {'Pathway18': [[13.24, 76.51, 56.31, -43.1], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']]}
+1
+completed: 'best' pathway found
+s/Pathways_AnaResult_HS_31
+Initial length: 34
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 34
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 80.47
+NEW dict
+ {'Pathway11': [[4.74, 80.47, 59.39, -47.17], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway31': [[4.74, 80.47, 55.47, -43.26], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']]}
+2
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway11': [[59.39, -47.17], ['Dehydrogenation', 'Dehydrogenation']], 'Pathway31': [[55.47, -43.26], ['Dehydrogenation', 'Dehydrogenation']]}
+2
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 2
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 55.47
+NEW dict
+ {'Pathway31': [[55.47, -43.26], ['Dehydrogenation', 'Dehydrogenation']]}
+1
+completed: 'best' pathway found
+s/Pathways_AnaResult_HS_38
+Initial length: 1386
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 1386
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 76.51
+NEW dict
+ {'Pathway900': [[13.24, 76.51, -57.46, -60.12, 52.53, -46.04], ['CyclizationA', 'Dehydrogenation', 'Hydrogenolysis', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway938': [[13.24, 76.51, 56.31, -62.58, -58.78, -46.04], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway942': [[13.24, 76.51, -57.46, 51.19, -58.78, -46.04], ['CyclizationA', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway953': [[13.24, 76.51, 56.31, -62.79, -58.58, -46.04], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway960': [[13.24, 76.51, -57.46, 50.98, -58.58, -46.04], ['CyclizationA', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway1284': [[13.24, 76.51, 56.31, -43.1, -63.41, -60.89], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Hydrogenolysis']], 'Pathway1364': [[13.24, 76.51, 56.31, -62.58, -43.93, -60.89], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway1368': [[13.24, 76.51, -57.46, 51.19, -43.93, -60.89], ['CyclizationA', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway1379': [[13.24, 76.51, 56.31, -62.79, -43.72, -60.89], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway1386': [[13.24, 76.51, -57.46, 50.98, -43.72, -60.89], ['CyclizationA', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']]}
+10
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway900': [[-57.46, -60.12, 52.53, -46.04], ['Hydrogenolysis', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway938': [[56.31, -62.58, -58.78, -46.04], ['Dehydrogenation', 'Hydrogenolysis', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway942': [[-57.46, 51.19, -58.78, -46.04], ['Hydrogenolysis', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway953': [[56.31, -62.79, -58.58, -46.04], ['Dehydrogenation', 'Hydrogenolysis', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway960': [[-57.46, 50.98, -58.58, -46.04], ['Hydrogenolysis', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway1284': [[56.31, -43.1, -63.41, -60.89], ['Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Hydrogenolysis']], 'Pathway1364': [[56.31, -62.58, -43.93, -60.89], ['Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway1368': [[-57.46, 51.19, -43.93, -60.89], ['Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway1379': [[56.31, -62.79, -43.72, -60.89], ['Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway1386': [[-57.46, 50.98, -43.72, -60.89], ['Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']]}
+10
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 10
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 50.98
+NEW dict
+ {'Pathway960': [[-57.46, 50.98, -58.58, -46.04], ['Hydrogenolysis', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway1386': [[-57.46, 50.98, -43.72, -60.89], ['Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']]}
+2
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway960': [[-58.58, -46.04], ['Hydrogenolysis', 'Dehydrogenation']], 'Pathway1386': [[-43.72, -60.89], ['Dehydrogenation', 'Hydrogenolysis']]}
+2
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 2
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list -46.04
+NEW dict
+ {'Pathway960': [[-58.58, -46.04], ['Hydrogenolysis', 'Dehydrogenation']]}
+1
+completed: 'best' pathway found
+s/Pathways_AnaResult_HS_63
+Initial length: 2514
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 2514
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 74.92
+NEW dict
+ {'Pathway799': [[12.62, -57.08, 74.92, -45.63, 59.45, -50.77], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway905': [[12.62, -57.08, 74.92, 66.37, -52.55, -50.77], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway1730': [[12.62, -57.08, 74.92, -45.63, 65.12, -56.45], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway1899': [[12.62, -57.08, 74.92, 64.24, -44.75, -56.45], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway2246': [[12.62, -57.08, 74.92, 64.24, -53.44, -47.75], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway2300': [[12.62, -57.08, 74.92, 66.37, -55.57, -47.75], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']]}
+6
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway799': [[-45.63, 59.45, -50.77], ['Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway905': [[66.37, -52.55, -50.77], ['Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway1730': [[-45.63, 65.12, -56.45], ['Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway1899': [[64.24, -44.75, -56.45], ['Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway2246': [[64.24, -53.44, -47.75], ['Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway2300': [[66.37, -55.57, -47.75], ['Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']]}
+6
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 6
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 59.45
+NEW dict
+ {'Pathway799': [[-45.63, 59.45, -50.77], ['Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation']]}
+1
+completed: 'best' pathway found
+s/Pathways_AnaResult_HS_64
+Initial length: 2138
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 2138
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 74.92
+NEW dict
+ {'Pathway662': [[12.62, -57.08, 74.92, 64.24, -53.44, 71.22], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway668': [[4.74, -52.81, 8.36, 74.92, 64.24, -53.44, 71.22], ['CyclizationA', 'Hydrogenolysis', 'CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway669': [[13.24, -52.81, 8.36, 74.92, 64.24, -53.44, 71.22], ['CyclizationA', 'Hydrogenolysis', 'CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway670': [[12.62, -52.81, 8.36, 74.92, 64.24, -53.44, 71.22], ['CyclizationA', 'Hydrogenolysis', 'CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway745': [[12.62, -57.08, 74.92, 66.37, -55.57, 71.22], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway751': [[4.74, -52.81, 8.36, 74.92, 66.37, -55.57, 71.22], ['CyclizationA', 'Hydrogenolysis', 'CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway752': [[13.24, -52.81, 8.36, 74.92, 66.37, -55.57, 71.22], ['CyclizationA', 'Hydrogenolysis', 'CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway753': [[12.62, -52.81, 8.36, 74.92, 66.37, -55.57, 71.22], ['CyclizationA', 'Hydrogenolysis', 'CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway895': [[12.62, -57.08, 74.92, 66.6, 58.22, -42.8], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway901': [[4.74, -52.81, 8.36, 74.92, 66.6, 58.22, -42.8], ['CyclizationA', 'Hydrogenolysis', 'CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway902': [[13.24, -52.81, 8.36, 74.92, 66.6, 58.22, -42.8], ['CyclizationA', 'Hydrogenolysis', 'CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway903': [[12.62, -52.81, 8.36, 74.92, 66.6, 58.22, -42.8], ['CyclizationA', 'Hydrogenolysis', 'CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway1098': [[12.62, -57.08, 74.92, 66.37, 58.45, -42.8], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway1104': [[4.74, -52.81, 8.36, 74.92, 66.37, 58.45, -42.8], ['CyclizationA', 'Hydrogenolysis', 'CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway1105': [[13.24, -52.81, 8.36, 74.92, 66.37, 58.45, -42.8], ['CyclizationA', 'Hydrogenolysis', 'CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway1106': [[12.62, -52.81, 8.36, 74.92, 66.37, 58.45, -42.8], ['CyclizationA', 'Hydrogenolysis', 'CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway2049': [[12.62, -57.08, 74.92, 66.6, 71.89, -56.47], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway2055': [[4.74, -52.81, 8.36, 74.92, 66.6, 71.89, -56.47], ['CyclizationA', 'Hydrogenolysis', 'CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway2056': [[13.24, -52.81, 8.36, 74.92, 66.6, 71.89, -56.47], ['CyclizationA', 'Hydrogenolysis', 'CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway2057': [[12.62, -52.81, 8.36, 74.92, 66.6, 71.89, -56.47], ['CyclizationA', 'Hydrogenolysis', 'CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway2242': [[12.62, -57.08, 74.92, 64.24, 74.25, -56.47], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway2248': [[4.74, -52.81, 8.36, 74.92, 64.24, 74.25, -56.47], ['CyclizationA', 'Hydrogenolysis', 'CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway2249': [[13.24, -52.81, 8.36, 74.92, 64.24, 74.25, -56.47], ['CyclizationA', 'Hydrogenolysis', 'CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway2250': [[12.62, -52.81, 8.36, 74.92, 64.24, 74.25, -56.47], ['CyclizationA', 'Hydrogenolysis', 'CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']]}
+24
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway662': [[64.24, -53.44, 71.22], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway668': [[64.24, -53.44, 71.22], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway669': [[64.24, -53.44, 71.22], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway670': [[64.24, -53.44, 71.22], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway745': [[66.37, -55.57, 71.22], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway751': [[66.37, -55.57, 71.22], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway752': [[66.37, -55.57, 71.22], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway753': [[66.37, -55.57, 71.22], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway895': [[66.6, 58.22, -42.8], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway901': [[66.6, 58.22, -42.8], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway902': [[66.6, 58.22, -42.8], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway903': [[66.6, 58.22, -42.8], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway1098': [[66.37, 58.45, -42.8], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway1104': [[66.37, 58.45, -42.8], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway1105': [[66.37, 58.45, -42.8], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway1106': [[66.37, 58.45, -42.8], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway2049': [[66.6, 71.89, -56.47], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway2055': [[66.6, 71.89, -56.47], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway2056': [[66.6, 71.89, -56.47], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway2057': [[66.6, 71.89, -56.47], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway2242': [[64.24, 74.25, -56.47], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway2248': [[64.24, 74.25, -56.47], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway2249': [[64.24, 74.25, -56.47], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway2250': [[64.24, 74.25, -56.47], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']]}
+24
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 24
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 66.37
+NEW dict
+ {'Pathway1098': [[66.37, 58.45, -42.8], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway1104': [[66.37, 58.45, -42.8], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway1105': [[66.37, 58.45, -42.8], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway1106': [[66.37, 58.45, -42.8], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']]}
+4
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway1098': [[58.45, -42.8], ['Dehydrogenation', 'Dehydrogenation']], 'Pathway1104': [[58.45, -42.8], ['Dehydrogenation', 'Dehydrogenation']], 'Pathway1105': [[58.45, -42.8], ['Dehydrogenation', 'Dehydrogenation']], 'Pathway1106': [[58.45, -42.8], ['Dehydrogenation', 'Dehydrogenation']]}
+4
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 4
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 58.45
+NEW dict
+ {'Pathway1098': [[58.45, -42.8], ['Dehydrogenation', 'Dehydrogenation']], 'Pathway1104': [[58.45, -42.8], ['Dehydrogenation', 'Dehydrogenation']], 'Pathway1105': [[58.45, -42.8], ['Dehydrogenation', 'Dehydrogenation']], 'Pathway1106': [[58.45, -42.8], ['Dehydrogenation', 'Dehydrogenation']]}
+4
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway1098': [[-42.8], ['Dehydrogenation']], 'Pathway1104': [[-42.8], ['Dehydrogenation']], 'Pathway1105': [[-42.8], ['Dehydrogenation']], 'Pathway1106': [[-42.8], ['Dehydrogenation']]}
+4
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 4
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list -42.8
+NEW dict
+ {'Pathway1098': [[-42.8], ['Dehydrogenation']], 'Pathway1104': [[-42.8], ['Dehydrogenation']], 'Pathway1105': [[-42.8], ['Dehydrogenation']], 'Pathway1106': [[-42.8], ['Dehydrogenation']]}
+4
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway1098': [[], []], 'Pathway1104': [[], []], 'Pathway1105': [[], []], 'Pathway1106': [[], []]}
+4
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+completed: More than one 'best' pathway; Empty delta G list.
+s/Pathways_AnaResult_HS_65
+Initial length: 768
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 768
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 77.39
+NEW dict
+ {'Pathway221': [[12.62, 77.39, 74.3, -62.46, 72.55, 65.59], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway229': [[12.62, 77.39, 64.76, -52.92, 72.55, 65.59], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway257': [[12.62, 77.39, 64.76, 64.2, -44.58, 65.59], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway503': [[12.62, 77.39, 64.76, 64.2, 67.77, -46.76], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']]}
+4
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway221': [[74.3, -62.46, 72.55, 65.59], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway229': [[64.76, -52.92, 72.55, 65.59], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway257': [[64.76, 64.2, -44.58, 65.59], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway503': [[64.76, 64.2, 67.77, -46.76], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']]}
+4
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 4
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 65.59
+NEW dict
+ {'Pathway257': [[64.76, 64.2, -44.58, 65.59], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']]}
+1
+completed: 'best' pathway found
+s/Pathways_AnaResult_HS_66
+Initial length: 140
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 140
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 77.39
+NEW dict
+ {'Pathway43': [[12.62, 77.39, 74.3, -62.46, 72.55], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway51': [[12.62, 77.39, 64.76, -52.92, 72.55], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway79': [[12.62, 77.39, 64.76, 64.2, -44.58], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']]}
+3
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway43': [[74.3, -62.46, 72.55], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway51': [[64.76, -52.92, 72.55], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway79': [[64.76, 64.2, -44.58], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']]}
+3
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 3
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 64.76
+NEW dict
+ {'Pathway79': [[64.76, 64.2, -44.58], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']]}
+1
+completed: 'best' pathway found
+s/Pathways_AnaResult_HS_67
+Initial length: 2148
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 2148
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 77.39
+NEW dict
+ {'Pathway847': [[12.62, 77.39, 74.3, 67.98, -48.25, -53.57], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway1294': [[12.62, 77.39, 74.3, 67.98, -57.2, -44.61], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway1360': [[12.62, 77.39, 74.3, -62.46, 73.24, -44.61], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway1376': [[12.62, 77.39, 64.76, -52.92, 73.24, -44.61], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway1504': [[12.62, 77.39, 64.76, 71.43, -51.11, -44.61], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway1674': [[12.62, 77.39, 64.76, 71.43, -48.5, -47.22], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']]}
+6
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway847': [[74.3, 67.98, -48.25, -53.57], ['Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']], 'Pathway1294': [[74.3, 67.98, -57.2, -44.61], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway1360': [[74.3, -62.46, 73.24, -44.61], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway1376': [[64.76, -52.92, 73.24, -44.61], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway1504': [[64.76, 71.43, -51.11, -44.61], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway1674': [[64.76, 71.43, -48.5, -47.22], ['Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']]}
+6
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 6
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 71.43
+NEW dict
+ {'Pathway1504': [[64.76, 71.43, -51.11, -44.61], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis']], 'Pathway1674': [[64.76, 71.43, -48.5, -47.22], ['Dehydrogenation', 'Dehydrogenation', 'Hydrogenolysis', 'Dehydrogenation']]}
+2
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway1504': [[-51.11, -44.61], ['Dehydrogenation', 'Hydrogenolysis']], 'Pathway1674': [[-48.5, -47.22], ['Hydrogenolysis', 'Dehydrogenation']]}
+2
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 2
+Types of MaxG: dict_keys(['Hydrogenolysis', 'Dehydrogenation'])
+minG in maxG_list -47.22
+NEW dict
+ {'Pathway1674': [[-48.5, -47.22], ['Hydrogenolysis', 'Dehydrogenation']]}
+1
+completed: 'best' pathway found
+s/Pathways_AnaResult_HS_68
+Initial length: 147
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 147
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 77.39
+NEW dict
+ {'Pathway10': [[12.62, 77.39, 74.3, 67.98, -57.2], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway43': [[12.62, 77.39, 74.3, -62.46, 73.24], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway51': [[12.62, 77.39, 64.76, -52.92, 73.24], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway115': [[12.62, 77.39, 64.76, 71.43, -51.11], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']]}
+4
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway10': [[74.3, 67.98, -57.2], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway43': [[74.3, -62.46, 73.24], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway51': [[64.76, -52.92, 73.24], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway115': [[64.76, 71.43, -51.11], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']]}
+4
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 4
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 71.43
+NEW dict
+ {'Pathway115': [[64.76, 71.43, -51.11], ['Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']]}
+1
+completed: 'best' pathway found
+s/Pathways_AnaResult_HS_69
+Initial length: 401
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 401
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 74.92
+NEW dict
+ {'Pathway340': [[12.62, -57.08, 74.92, 64.24, -53.44], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway346': [[4.74, -52.81, 8.36, 74.92, 64.24, -53.44], ['CyclizationA', 'Hydrogenolysis', 'CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway347': [[13.24, -52.81, 8.36, 74.92, 64.24, -53.44], ['CyclizationA', 'Hydrogenolysis', 'CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway348': [[12.62, -52.81, 8.36, 74.92, 64.24, -53.44], ['CyclizationA', 'Hydrogenolysis', 'CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway423': [[12.62, -57.08, 74.92, 66.37, -55.57], ['CyclizationA', 'Hydrogenolysis', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway429': [[4.74, -52.81, 8.36, 74.92, 66.37, -55.57], ['CyclizationA', 'Hydrogenolysis', 'CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway430': [[13.24, -52.81, 8.36, 74.92, 66.37, -55.57], ['CyclizationA', 'Hydrogenolysis', 'CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway431': [[12.62, -52.81, 8.36, 74.92, 66.37, -55.57], ['CyclizationA', 'Hydrogenolysis', 'CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']]}
+8
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway340': [[64.24, -53.44], ['Dehydrogenation', 'Dehydrogenation']], 'Pathway346': [[64.24, -53.44], ['Dehydrogenation', 'Dehydrogenation']], 'Pathway347': [[64.24, -53.44], ['Dehydrogenation', 'Dehydrogenation']], 'Pathway348': [[64.24, -53.44], ['Dehydrogenation', 'Dehydrogenation']], 'Pathway423': [[66.37, -55.57], ['Dehydrogenation', 'Dehydrogenation']], 'Pathway429': [[66.37, -55.57], ['Dehydrogenation', 'Dehydrogenation']], 'Pathway430': [[66.37, -55.57], ['Dehydrogenation', 'Dehydrogenation']], 'Pathway431': [[66.37, -55.57], ['Dehydrogenation', 'Dehydrogenation']]}
+8
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 8
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 64.24
+NEW dict
+ {'Pathway340': [[64.24, -53.44], ['Dehydrogenation', 'Dehydrogenation']], 'Pathway346': [[64.24, -53.44], ['Dehydrogenation', 'Dehydrogenation']], 'Pathway347': [[64.24, -53.44], ['Dehydrogenation', 'Dehydrogenation']], 'Pathway348': [[64.24, -53.44], ['Dehydrogenation', 'Dehydrogenation']]}
+4
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway340': [[-53.44], ['Dehydrogenation']], 'Pathway346': [[-53.44], ['Dehydrogenation']], 'Pathway347': [[-53.44], ['Dehydrogenation']], 'Pathway348': [[-53.44], ['Dehydrogenation']]}
+4
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 4
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list -53.44
+NEW dict
+ {'Pathway340': [[-53.44], ['Dehydrogenation']], 'Pathway346': [[-53.44], ['Dehydrogenation']], 'Pathway347': [[-53.44], ['Dehydrogenation']], 'Pathway348': [[-53.44], ['Dehydrogenation']]}
+4
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway340': [[], []], 'Pathway346': [[], []], 'Pathway347': [[], []], 'Pathway348': [[], []]}
+4
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+completed: More than one 'best' pathway; Empty delta G list.
+s/Pathways_AnaResult_HS_70
+Initial length: 140
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 140
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 81.14
+NEW dict
+ {'Pathway126': [[12.62, 81.14, 67.41, 80.62, -50.61], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']]}
+1
+completed: 'best' pathway found
+s/Pathways_AnaResult_HS_71
+Initial length: 30
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 30
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 77.39
+NEW dict
+ {'Pathway5': [[12.62, 77.39, 74.3, -62.46], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway13': [[12.62, 77.39, 64.76, -52.92], ['CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']]}
+2
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway5': [[74.3, -62.46], ['Dehydrogenation', 'Dehydrogenation']], 'Pathway13': [[64.76, -52.92], ['Dehydrogenation', 'Dehydrogenation']]}
+2
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 2
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 64.76
+NEW dict
+ {'Pathway13': [[64.76, -52.92], ['Dehydrogenation', 'Dehydrogenation']]}
+1
+completed: 'best' pathway found
+s/Pathways_AnaResult_HS_77
+Initial length: 771
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 771
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 75.61
+NEW dict
+ {'Pathway176': [[4.74, -57.62, 31.1, 75.61, 68.97, -54.67], ['CyclizationA', 'Hydrogenolysis', 'CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway177': [[13.24, -57.62, 31.1, 75.61, 68.97, -54.67], ['CyclizationA', 'Hydrogenolysis', 'CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']], 'Pathway178': [[12.62, -57.62, 31.1, 75.61, 68.97, -54.67], ['CyclizationA', 'Hydrogenolysis', 'CyclizationA', 'Dehydrogenation', 'Dehydrogenation', 'Dehydrogenation']]}
+3
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway176': [[68.97, -54.67], ['Dehydrogenation', 'Dehydrogenation']], 'Pathway177': [[68.97, -54.67], ['Dehydrogenation', 'Dehydrogenation']], 'Pathway178': [[68.97, -54.67], ['Dehydrogenation', 'Dehydrogenation']]}
+3
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 3
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list 68.97
+NEW dict
+ {'Pathway176': [[68.97, -54.67], ['Dehydrogenation', 'Dehydrogenation']], 'Pathway177': [[68.97, -54.67], ['Dehydrogenation', 'Dehydrogenation']], 'Pathway178': [[68.97, -54.67], ['Dehydrogenation', 'Dehydrogenation']]}
+3
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway176': [[-54.67], ['Dehydrogenation']], 'Pathway177': [[-54.67], ['Dehydrogenation']], 'Pathway178': [[-54.67], ['Dehydrogenation']]}
+3
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+Count of MaxG: 3
+Types of MaxG: dict_keys(['Dehydrogenation'])
+minG in maxG_list -54.67
+NEW dict
+ {'Pathway176': [[-54.67], ['Dehydrogenation']], 'Pathway177': [[-54.67], ['Dehydrogenation']], 'Pathway178': [[-54.67], ['Dehydrogenation']]}
+3
+---Locate maxG in each pathway->remove maxG and steps before it---
+REDEFINE dict
+ {'Pathway176': [[], []], 'Pathway177': [[], []], 'Pathway178': [[], []]}
+3
+---Find out maxG in each pathway->locate the min_maxG->extract pathways with min_maxG and discard others---
+completed: More than one 'best' pathway; Empty delta G list.
