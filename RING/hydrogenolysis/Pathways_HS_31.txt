@@ -1,0 +1,319 @@
+molecule c1(c(CCC)cccc1)C satisfies constraints
+shortest path to the molecule is 4
+Pathways for c1(c(CCC)cccc1)C 
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCC)CCC.[HH]
+C(=CC=CCCC)CCC>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C>>C1(=CC=CCC1CCC)C.[HH]
+C1(=CC=CCC1CCC)C>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C>>C1(=CC=CCC1CCC)C.[HH]
+C1(=CC=CCC1CCC)C>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C1(=CCCCC1CCC)C.[HH]
+C1(=CCCCC1CCC)C>>C1(=CC=CCC1CCC)C.[HH]
+C1(=CC=CCC1CCC)C>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(=CCCCC1CCC)C.[HH]
+C1(=CCCCC1CCC)C>>C1(=CC=CCC1CCC)C.[HH]
+C1(=CC=CCC1CCC)C>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C1(C(CC=CC1)CCC)C.[HH]
+C1(C(CC=CC1)CCC)C>>C1(=CC=CCC1CCC)C.[HH]
+C1(=CC=CCC1CCC)C>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(C(CC=CC1)CCC)C.[HH]
+C1(C(CC=CC1)CCC)C>>C1(=CC=CCC1CCC)C.[HH]
+C1(=CC=CCC1CCC)C>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCC=C1CCC)C.[HH]
+C1(=CCCC=C1CCC)C>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCC=C1CCC)C.[HH]
+C1(=CCCC=C1CCC)C>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C1(=CCCCC1CCC)C.[HH]
+C1(=CCCCC1CCC)C>>C1(=CCCC=C1CCC)C.[HH]
+C1(=CCCC=C1CCC)C>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(=CCCCC1CCC)C.[HH]
+C1(=CCCCC1CCC)C>>C1(=CCCC=C1CCC)C.[HH]
+C1(=CCCC=C1CCC)C>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C1(=CCCCC1C)CCC.[HH]
+C1(=CCCCC1C)CCC>>C1(=CCCC=C1CCC)C.[HH]
+C1(=CCCC=C1CCC)C>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(=CCCCC1C)CCC.[HH]
+C1(=CCCCC1C)CCC>>C1(=CCCC=C1CCC)C.[HH]
+C1(=CCCC=C1CCC)C>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C1(C(CCC)C=CC=C1)C.[HH]
+C1(C(CCC)C=CC=C1)C>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C1(C(CCC)C=CC=C1)C.[HH]
+C1(C(CCC)C=CC=C1)C>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C1(C(CCC=C1)CCC)C.[HH]
+C1(C(CCC=C1)CCC)C>>C1(C(CCC)C=CC=C1)C.[HH]
+C1(C(CCC)C=CC=C1)C>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(C(CCC=C1)CCC)C.[HH]
+C1(C(CCC=C1)CCC)C>>C1(C(CCC)C=CC=C1)C.[HH]
+C1(C(CCC)C=CC=C1)C>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C1(C(C=CCC1)CCC)C.[HH]
+C1(C(C=CCC1)CCC)C>>C1(C(CCC)C=CC=C1)C.[HH]
+C1(C(CCC)C=CC=C1)C>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(C(C=CCC1)CCC)C.[HH]
+C1(C(C=CCC1)CCC)C>>C1(C(CCC)C=CC=C1)C.[HH]
+C1(C(CCC)C=CC=C1)C>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C1(C(CCC=C1)CCC)C.[HH]
+C1(C(CCC=C1)CCC)C>>C1(=C(CCC=C1)CCC)C.[HH]
+C1(=C(CCC=C1)CCC)C>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(C(CCC=C1)CCC)C.[HH]
+C1(C(CCC=C1)CCC)C>>C1(=C(CCC=C1)CCC)C.[HH]
+C1(=C(CCC=C1)CCC)C>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(=C(CCCC1)CCC)C.[HH]
+C1(=C(CCCC1)CCC)C>>C1(=C(CCC=C1)CCC)C.[HH]
+C1(=C(CCC=C1)CCC)C>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCC)CCC.[HH]
+C(=CC=CCCC)CCC>>C1(=CC=CCC1C)CCC.[HH]
+C1(=CC=CCC1C)CCC>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C1(=CCCCC1C)CCC.[HH]
+C1(=CCCCC1C)CCC>>C1(=CC=CCC1C)CCC.[HH]
+C1(=CC=CCC1C)CCC>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(=CCCCC1C)CCC.[HH]
+C1(=CCCCC1C)CCC>>C1(=CC=CCC1C)CCC.[HH]
+C1(=CC=CCC1C)CCC>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C1(C(CC=CC1)CCC)C.[HH]
+C1(C(CC=CC1)CCC)C>>C1(=CC=CCC1C)CCC.[HH]
+C1(=CC=CCC1C)CCC>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(C(CC=CC1)CCC)C.[HH]
+C1(C(CC=CC1)CCC)C>>C1(=CC=CCC1C)CCC.[HH]
+C1(=CC=CCC1C)CCC>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C1(C(C=CCC1)CCC)C.[HH]
+C1(C(C=CCC1)CCC)C>>C1(=C(C=CCC1)CCC)C.[HH]
+C1(=C(C=CCC1)CCC)C>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(C(C=CCC1)CCC)C.[HH]
+C1(C(C=CCC1)CCC)C>>C1(=C(C=CCC1)CCC)C.[HH]
+C1(=C(C=CCC1)CCC)C>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(=C(CCCC1)CCC)C.[HH]
+C1(=C(CCCC1)CCC)C>>C1(=C(C=CCC1)CCC)C.[HH]
+C1(=C(C=CCC1)CCC)C>>c1(c(CCC)cccc1)C.[HH]
+
+the above pathway is of length 4 and contains
+rule Dehydrogenation occurs 3 times
+rule CyclizationA occurs 1 times
+
+total valid pathways is 34
+total distinct pathways is 34
+34 pathways from C(CCCCCCCC)C containing 
+3of rule Dehydrogenation
+1of rule CyclizationA
+
+
+Number of pathways of length 4 is: 34
+1 molecules satisfied the molecular constraints specified

@@ -1,0 +1,22 @@
+the following molecules satisfy all molecular constraints imposed
+10  C(=C)Cc1c(cccc1)C
+10  C(=C)c1c(C=C)cccc1
+9  C(=C)c1c(cccc1)C
+10  C(=Cc1c(cccc1)C)C
+8  c1(C=C)ccccc1
+8  c1(CC)ccccc1
+10  c1(c(C=C)cccc1)CC
+9  c1(c(CC)cccc1)C
+10  c1(c(CC)cccc1)CC
+10  c1(c(CCC)cccc1)C
+8  c1(c(cccc1)C)C
+7  c1(ccccc1)C
+9  c1(ccccc1)C=CC
+10  c1(ccccc1)C=CC=C
+10  c1(ccccc1)C=CCC
+9  c1(ccccc1)CC=C
+10  c1(ccccc1)CC=CC
+9  c1(ccccc1)CCC
+10  c1(ccccc1)CCC=C
+10  c1(ccccc1)CCCC
+6  c1ccccc1

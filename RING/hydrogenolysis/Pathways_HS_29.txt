@@ -1,0 +1,6253 @@
+molecule c1(c(CC)cccc1)C satisfies constraints
+shortest path to the molecule is 5
+Pathways for c1(c(CC)cccc1)C 
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C.[HH]>>C(=CC=CC=CCC)C.C
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C.[HH]>>C(=CC=CC=CCC)C.C
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C.[HH]>>C(=CC=CC=CCC)C.C
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C.[HH]>>C(=CC=CC=CCC)C.C
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCC)CCC.[HH]
+C(=CC=CCCC)CCC>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C.[HH]>>C(=CC=CC=CCC)C.C
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C.[HH]>>C(=CC=CCCCC)C.C
+C(=CC=CCCCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C.[HH]>>C(=CC=CCCCC)C.C
+C(=CC=CCCCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C.[HH]>>C(=CCCCCCC)C.C
+C(=CCCCCCC)C>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC.[HH]>>C(=CCCCCCC)C.C
+C(=CCCCCCC)C>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC.[HH]>>C(=CC=CCCCC)C.C
+C(=CC=CCCCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC.[HH]>>C(=CC=CCCCC)C.C
+C(=CC=CCCCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC.[HH]>>C(=CCCCC)CCC.C
+C(=CCCCC)CCC>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC.[HH]>>C(=CCCCC)CCC.C
+C(=CCCCC)CCC>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C.[HH]>>C(=CCCC=CCC)C.C
+C(=CCCC=CCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C.[HH]>>C(=CCCC=CCC)C.C
+C(=CCCC=CCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C.[HH]>>C(=CCCCCCC)C.C
+C(=CCCCCCC)C>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC.[HH]>>C(=CCCCCCC)C.C
+C(=CCCCCCC)C>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)CCC=CCC.[HH]
+C(=CCC)CCC=CCC.[HH]>>C(=CCCC=CCC)C.C
+C(=CCCC=CCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC.[HH]>>C(=CCC)CCCCC.C
+C(=CCC)CCCCC>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC.[HH]>>C(=CCC)CCCCC.C
+C(=CCC)CCCCC>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=CCC)C=CC=CCC.[HH]
+C(=CCC)C=CC=CCC.[HH]>>C(=CC=CC=CCC)C.C
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=CCC)C=CC=CCC.[HH]
+C(=CCC)C=CC=CCC.[HH]>>C(=CC=CC=CCC)C.C
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)CCC=CCC.[HH]
+C(=CCC)CCC=CCC>>C(=CCC)C=CC=CCC.[HH]
+C(=CCC)C=CC=CCC.[HH]>>C(=CC=CC=CCC)C.C
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC.[HH]>>C(=CCC)C=CCCC.C
+C(=CCC)C=CCCC>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC.[HH]>>C(=CCC)C=CCCC.C
+C(=CCC)C=CCCC>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC.[HH]>>C(=CCC)CCCCC.C
+C(=CCC)CCCCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC.[HH]>>C(=CCC)CCCCC.C
+C(=CCC)CCCCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCC)CCC.[HH]
+C(=CC=CCCC)CCC.[HH]>>C(=CCC)C=CCCC.C
+C(=CCC)C=CCCC>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC.[HH]>>C(=CCCCC)CCC.C
+C(=CCCCC)CCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC.[HH]>>C(=CCCCC)CCC.C
+C(=CCCCC)CCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C(=CC=CC=CCC)C.[HH]
+C(=CC=CC=CCC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCC)CCC.[HH]
+C(=CC=CCCC)CCC>>C(=CC=CC=CCCC)C.[HH]
+C(=CC=CC=CCCC)C>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C>>C1(=CC=CCC1CCC)C.[HH]
+C1(=CC=CCC1CCC)C>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C>>C1(=CC=CCC1CCC)C.[HH]
+C1(=CC=CCC1CCC)C>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C1(=CCCCC1CCC)C.[HH]
+C1(=CCCCC1CCC)C>>C1(=CC=CCC1CCC)C.[HH]
+C1(=CC=CCC1CCC)C>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(=CCCCC1CCC)C.[HH]
+C1(=CCCCC1CCC)C>>C1(=CC=CCC1CCC)C.[HH]
+C1(=CC=CCC1CCC)C>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C1(C(CC=CC1)CCC)C.[HH]
+C1(C(CC=CC1)CCC)C>>C1(=CC=CCC1CCC)C.[HH]
+C1(=CC=CCC1CCC)C>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(C(CC=CC1)CCC)C.[HH]
+C1(C(CC=CC1)CCC)C>>C1(=CC=CCC1CCC)C.[HH]
+C1(=CC=CCC1CCC)C>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCC=C1CCC)C.[HH]
+C1(=CCCC=C1CCC)C>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCC=C1CCC)C.[HH]
+C1(=CCCC=C1CCC)C>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C1(=CCCCC1CCC)C.[HH]
+C1(=CCCCC1CCC)C>>C1(=CCCC=C1CCC)C.[HH]
+C1(=CCCC=C1CCC)C>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(=CCCCC1CCC)C.[HH]
+C1(=CCCCC1CCC)C>>C1(=CCCC=C1CCC)C.[HH]
+C1(=CCCC=C1CCC)C>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C1(=CCCCC1C)CCC.[HH]
+C1(=CCCCC1C)CCC>>C1(=CCCC=C1CCC)C.[HH]
+C1(=CCCC=C1CCC)C>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(=CCCCC1C)CCC.[HH]
+C1(=CCCCC1C)CCC>>C1(=CCCC=C1CCC)C.[HH]
+C1(=CCCC=C1CCC)C>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C1(C(CCC)C=CC=C1)C.[HH]
+C1(C(CCC)C=CC=C1)C>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C1(C(CCC)C=CC=C1)C.[HH]
+C1(C(CCC)C=CC=C1)C>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C1(C(CCC=C1)CCC)C.[HH]
+C1(C(CCC=C1)CCC)C>>C1(C(CCC)C=CC=C1)C.[HH]
+C1(C(CCC)C=CC=C1)C>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(C(CCC=C1)CCC)C.[HH]
+C1(C(CCC=C1)CCC)C>>C1(C(CCC)C=CC=C1)C.[HH]
+C1(C(CCC)C=CC=C1)C>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C1(C(C=CCC1)CCC)C.[HH]
+C1(C(C=CCC1)CCC)C>>C1(C(CCC)C=CC=C1)C.[HH]
+C1(C(CCC)C=CC=C1)C>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(C(C=CCC1)CCC)C.[HH]
+C1(C(C=CCC1)CCC)C>>C1(C(CCC)C=CC=C1)C.[HH]
+C1(C(CCC)C=CC=C1)C>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C1(C(CCC=C1)CCC)C.[HH]
+C1(C(CCC=C1)CCC)C>>C1(=C(CCC=C1)CCC)C.[HH]
+C1(=C(CCC=C1)CCC)C>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(C(CCC=C1)CCC)C.[HH]
+C1(C(CCC=C1)CCC)C>>C1(=C(CCC=C1)CCC)C.[HH]
+C1(=C(CCC=C1)CCC)C>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(=C(CCCC1)CCC)C.[HH]
+C1(=C(CCCC1)CCC)C>>C1(=C(CCC=C1)CCC)C.[HH]
+C1(=C(CCC=C1)CCC)C>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCC)CCC.[HH]
+C(=CC=CCCC)CCC>>C1(=CC=CCC1C)CCC.[HH]
+C1(=CC=CCC1C)CCC>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C1(=CCCCC1C)CCC.[HH]
+C1(=CCCCC1C)CCC>>C1(=CC=CCC1C)CCC.[HH]
+C1(=CC=CCC1C)CCC>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(=CCCCC1C)CCC.[HH]
+C1(=CCCCC1C)CCC>>C1(=CC=CCC1C)CCC.[HH]
+C1(=CC=CCC1C)CCC>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C1(C(CC=CC1)CCC)C.[HH]
+C1(C(CC=CC1)CCC)C>>C1(=CC=CCC1C)CCC.[HH]
+C1(=CC=CCC1C)CCC>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(C(CC=CC1)CCC)C.[HH]
+C1(C(CC=CC1)CCC)C>>C1(=CC=CCC1C)CCC.[HH]
+C1(=CC=CCC1C)CCC>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C1(C(C=CCC1)CCC)C.[HH]
+C1(C(C=CCC1)CCC)C>>C1(=C(C=CCC1)CCC)C.[HH]
+C1(=C(C=CCC1)CCC)C>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(C(C=CCC1)CCC)C.[HH]
+C1(C(C=CCC1)CCC)C>>C1(=C(C=CCC1)CCC)C.[HH]
+C1(=C(C=CCC1)CCC)C>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(=C(CCCC1)CCC)C.[HH]
+C1(=C(CCCC1)CCC)C>>C1(=C(C=CCC1)CCC)C.[HH]
+C1(=C(C=CCC1)CCC)C>>c1(c(CCC)cccc1)C.[HH]
+c1(c(CCC)cccc1)C.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C.[HH]>>C(=CC=CCCCC)C.C
+C(=CC=CCCCC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C.[HH]>>C(=CC=CCCCC)C.C
+C(=CC=CCCCC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C.[HH]>>C(=CCCCCCC)C.C
+C(=CCCCCCC)C>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC.[HH]>>C(=CCCCCCC)C.C
+C(=CCCCCCC)C>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC.[HH]>>C(=CC=CCCCC)C.C
+C(=CC=CCCCC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC.[HH]>>C(=CC=CCCCC)C.C
+C(=CC=CCCCC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC.[HH]>>C(=CCCCC)CCC.C
+C(=CCCCC)CCC>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC.[HH]>>C(=CCCCC)CCC.C
+C(=CCCCC)CCC>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CC=CCCCC)C.[HH]
+C(=CC=CCCCC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C>>C1(=CC=CCC1CCC)C.[HH]
+C1(=CC=CCC1CCC)C.[HH]>>C1(=CC=CCC1CC)C.C
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCCCC)C.[HH]
+C(=CC=CCCCCC)C>>C1(=CC=CCC1CCC)C.[HH]
+C1(=CC=CCC1CCC)C.[HH]>>C1(=CC=CCC1CC)C.C
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C1(=CCCCC1CCC)C.[HH]
+C1(=CCCCC1CCC)C>>C1(=CC=CCC1CCC)C.[HH]
+C1(=CC=CCC1CCC)C.[HH]>>C1(=CC=CCC1CC)C.C
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(=CCCCC1CCC)C.[HH]
+C1(=CCCCC1CCC)C>>C1(=CC=CCC1CCC)C.[HH]
+C1(=CC=CCC1CCC)C.[HH]>>C1(=CC=CCC1CC)C.C
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C1(C(CC=CC1)CCC)C.[HH]
+C1(C(CC=CC1)CCC)C>>C1(=CC=CCC1CCC)C.[HH]
+C1(=CC=CCC1CCC)C.[HH]>>C1(=CC=CCC1CC)C.C
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(C(CC=CC1)CCC)C.[HH]
+C1(C(CC=CC1)CCC)C>>C1(=CC=CCC1CCC)C.[HH]
+C1(=CC=CCC1CCC)C.[HH]>>C1(=CC=CCC1CC)C.C
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C1(=CCCCC1CCC)C.[HH]
+C1(=CCCCC1CCC)C.[HH]>>C1(=CCCCC1CC)C.C
+C1(=CCCCC1CC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(=CCCCC1CCC)C.[HH]
+C1(=CCCCC1CCC)C.[HH]>>C1(=CCCCC1CC)C.C
+C1(=CCCCC1CC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C.[HH]>>C(=CCCCCCC)C.C
+C(=CCCCCCC)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC.[HH]>>C(=CCCCCCC)C.C
+C(=CCCCCCC)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C1(=CCCCC1CC)CC.[HH]
+C1(=CCCCC1CC)CC.[HH]>>C1(=CCCCC1CC)C.C
+C1(=CCCCC1CC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC>>C1(=CCCCC1CC)CC.[HH]
+C1(=CCCCC1CC)CC.[HH]>>C1(=CCCCC1CC)C.C
+C1(=CCCCC1CC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C.[HH]>>C1(C(CC)CCCC1)C.C
+C1(C(CC)CCCC1)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC.[HH]>>C1(C(CC)CCCC1)C.C
+C1(C(CC)CCCC1)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C1(=CC=CCC1CC)CC.[HH]
+C1(=CC=CCC1CC)CC.[HH]>>C1(=CC=CCC1CC)C.C
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C1(=CC=CCC1CC)CC.[HH]
+C1(=CC=CCC1CC)CC.[HH]>>C1(=CC=CCC1CC)C.C
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C1(=CCCCC1CC)CC.[HH]
+C1(=CCCCC1CC)CC>>C1(=CC=CCC1CC)CC.[HH]
+C1(=CC=CCC1CC)CC.[HH]>>C1(=CC=CCC1CC)C.C
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC>>C1(=CCCCC1CC)CC.[HH]
+C1(=CCCCC1CC)CC>>C1(=CC=CCC1CC)CC.[HH]
+C1(=CC=CCC1CC)CC.[HH]>>C1(=CC=CCC1CC)C.C
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C1(C(CC)CC=CC1)CC.[HH]
+C1(C(CC)CC=CC1)CC>>C1(=CC=CCC1CC)CC.[HH]
+C1(=CC=CCC1CC)CC.[HH]>>C1(=CC=CCC1CC)C.C
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC>>C1(C(CC)CC=CC1)CC.[HH]
+C1(C(CC)CC=CC1)CC>>C1(=CC=CCC1CC)CC.[HH]
+C1(=CC=CCC1CC)CC.[HH]>>C1(=CC=CCC1CC)C.C
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC.[HH]>>C(=CCCCC)CCC.C
+C(=CCCCC)CCC>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC.[HH]>>C(=CCCCC)CCC.C
+C(=CCCCC)CCC>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C1(C(CC=CC1)CCC)C.[HH]
+C1(C(CC=CC1)CCC)C.[HH]>>C1(C(CC)CC=CC1)C.C
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(C(CC=CC1)CCC)C.[HH]
+C1(C(CC=CC1)CCC)C.[HH]>>C1(C(CC)CC=CC1)C.C
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C1(C(CC)CC=CC1)CC.[HH]
+C1(C(CC)CC=CC1)CC.[HH]>>C1(C(CC)CC=CC1)C.C
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC>>C1(C(CC)CC=CC1)CC.[HH]
+C1(C(CC)CC=CC1)CC.[HH]>>C1(C(CC)CC=CC1)C.C
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C.[HH]>>C1(C(CC)CCCC1)C.C
+C1(C(CC)CCCC1)C>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC.[HH]>>C1(C(CC)CCCC1)C.C
+C1(C(CC)CCCC1)C>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1CC)C.[HH]
+C1(=CC=CCC1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C.[HH]>>C(=CCCC=CCC)C.C
+C(=CCCC=CCC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C.[HH]>>C(=CCCC=CCC)C.C
+C(=CCCC=CCC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C.[HH]>>C(=CCCCCCC)C.C
+C(=CCCCCCC)C>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC.[HH]>>C(=CCCCCCC)C.C
+C(=CCCCCCC)C>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)CCC=CCC.[HH]
+C(=CCC)CCC=CCC.[HH]>>C(=CCCC=CCC)C.C
+C(=CCCC=CCC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC.[HH]>>C(=CCC)CCCCC.C
+C(=CCC)CCCCC>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC.[HH]>>C(=CCC)CCCCC.C
+C(=CCC)CCCCC>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCCC=CCC)C.[HH]
+C(=CCCC=CCC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCC=C1CCC)C.[HH]
+C1(=CCCC=C1CCC)C.[HH]>>C1(=CCCC=C1CC)C.C
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CCCC=CCCC)C.[HH]
+C(=CCCC=CCCC)C>>C1(=CCCC=C1CCC)C.[HH]
+C1(=CCCC=C1CCC)C.[HH]>>C1(=CCCC=C1CC)C.C
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C1(=CCCCC1CCC)C.[HH]
+C1(=CCCCC1CCC)C>>C1(=CCCC=C1CCC)C.[HH]
+C1(=CCCC=C1CCC)C.[HH]>>C1(=CCCC=C1CC)C.C
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(=CCCCC1CCC)C.[HH]
+C1(=CCCCC1CCC)C>>C1(=CCCC=C1CCC)C.[HH]
+C1(=CCCC=C1CCC)C.[HH]>>C1(=CCCC=C1CC)C.C
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C1(=CCCCC1C)CCC.[HH]
+C1(=CCCCC1C)CCC>>C1(=CCCC=C1CCC)C.[HH]
+C1(=CCCC=C1CCC)C.[HH]>>C1(=CCCC=C1CC)C.C
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(=CCCCC1C)CCC.[HH]
+C1(=CCCCC1C)CCC>>C1(=CCCC=C1CCC)C.[HH]
+C1(=CCCC=C1CCC)C.[HH]>>C1(=CCCC=C1CC)C.C
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C>>C1(=CCCCC1CCC)C.[HH]
+C1(=CCCCC1CCC)C.[HH]>>C1(=CCCCC1CC)C.C
+C1(=CCCCC1CC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(=CCCCC1CCC)C.[HH]
+C1(=CCCCC1CCC)C.[HH]>>C1(=CCCCC1CC)C.C
+C1(=CCCCC1CC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(=CCCCCCCC)C.[HH]>>C(=CCCCCCC)C.C
+C(=CCCCCCC)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC.[HH]>>C(=CCCCCCC)C.C
+C(=CCCCCCC)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCCCC)C.[HH]
+C(=CCCCCCC)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C1(=CCCCC1CC)CC.[HH]
+C1(=CCCCC1CC)CC.[HH]>>C1(=CCCCC1CC)C.C
+C1(=CCCCC1CC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC>>C1(=CCCCC1CC)CC.[HH]
+C1(=CCCCC1CC)CC.[HH]>>C1(=CCCCC1CC)C.C
+C1(=CCCCC1CC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C.[HH]>>C1(C(CC)CCCC1)C.C
+C1(C(CC)CCCC1)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC.[HH]>>C1(C(CC)CCCC1)C.C
+C1(C(CC)CCCC1)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1CC)C.[HH]
+C1(=CCCCC1CC)C>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)CCC=CCC.[HH]
+C(=CCC)CCC=CCC>>C1(=CCCC=C1CC)CC.[HH]
+C1(=CCCC=C1CC)CC.[HH]>>C1(=CCCC=C1CC)C.C
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C1(=CCCCC1CC)CC.[HH]
+C1(=CCCCC1CC)CC>>C1(=CCCC=C1CC)CC.[HH]
+C1(=CCCC=C1CC)CC.[HH]>>C1(=CCCC=C1CC)C.C
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC>>C1(=CCCCC1CC)CC.[HH]
+C1(=CCCCC1CC)CC>>C1(=CCCC=C1CC)CC.[HH]
+C1(=CCCC=C1CC)CC.[HH]>>C1(=CCCC=C1CC)C.C
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC.[HH]>>C(=CCC)CCCCC.C
+C(=CCC)CCCCC>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC.[HH]>>C(=CCC)CCCCC.C
+C(=CCC)CCCCC>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C1(=CCCCC1CC)CC.[HH]
+C1(=CCCCC1CC)CC.[HH]>>C1(=CCCCC1C)CC.C
+C1(=CCCCC1C)CC>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC>>C1(=CCCCC1CC)CC.[HH]
+C1(=CCCCC1CC)CC.[HH]>>C1(=CCCCC1C)CC.C
+C1(=CCCCC1C)CC>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C1(=CCCCC1C)CCC.[HH]
+C1(=CCCCC1C)CCC.[HH]>>C1(=CCCCC1C)CC.C
+C1(=CCCCC1C)CC>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(=CCCCC1C)CCC.[HH]
+C1(=CCCCC1C)CCC.[HH]>>C1(=CCCCC1C)CC.C
+C1(=CCCCC1C)CC>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C.[HH]>>C1(C(CC)CCCC1)C.C
+C1(C(CC)CCCC1)C>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC.[HH]>>C1(C(CC)CCCC1)C.C
+C1(C(CC)CCCC1)C>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CCCC=C1CC)C.[HH]
+C1(=CCCC=C1CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=CCC)C=CC=CCC.[HH]
+C(=CCC)C=CC=CCC>>c1(c(CC)cccc1)CC.[HH]
+c1(c(CC)cccc1)CC.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C(=CCC)C=CC=CCC.[HH]
+C(=CCC)C=CC=CCC>>c1(c(CC)cccc1)CC.[HH]
+c1(c(CC)cccc1)CC.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)CCC=CCC.[HH]
+C(=CCC)CCC=CCC>>C(=CCC)C=CC=CCC.[HH]
+C(=CCC)C=CC=CCC>>c1(c(CC)cccc1)CC.[HH]
+c1(c(CC)cccc1)CC.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C1(=CC=CCC1CC)CC.[HH]
+C1(=CC=CCC1CC)CC>>c1(c(CC)cccc1)CC.[HH]
+c1(c(CC)cccc1)CC.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C1(=CC=CCC1CC)CC.[HH]
+C1(=CC=CCC1CC)CC>>c1(c(CC)cccc1)CC.[HH]
+c1(c(CC)cccc1)CC.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C1(=CCCCC1CC)CC.[HH]
+C1(=CCCCC1CC)CC>>C1(=CC=CCC1CC)CC.[HH]
+C1(=CC=CCC1CC)CC>>c1(c(CC)cccc1)CC.[HH]
+c1(c(CC)cccc1)CC.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC>>C1(=CCCCC1CC)CC.[HH]
+C1(=CCCCC1CC)CC>>C1(=CC=CCC1CC)CC.[HH]
+C1(=CC=CCC1CC)CC>>c1(c(CC)cccc1)CC.[HH]
+c1(c(CC)cccc1)CC.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C1(C(CC)CC=CC1)CC.[HH]
+C1(C(CC)CC=CC1)CC>>C1(=CC=CCC1CC)CC.[HH]
+C1(=CC=CCC1CC)CC>>c1(c(CC)cccc1)CC.[HH]
+c1(c(CC)cccc1)CC.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC>>C1(C(CC)CC=CC1)CC.[HH]
+C1(C(CC)CC=CC1)CC>>C1(=CC=CCC1CC)CC.[HH]
+C1(=CC=CCC1CC)CC>>c1(c(CC)cccc1)CC.[HH]
+c1(c(CC)cccc1)CC.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)CCC=CCC.[HH]
+C(=CCC)CCC=CCC>>C1(=CCCC=C1CC)CC.[HH]
+C1(=CCCC=C1CC)CC>>c1(c(CC)cccc1)CC.[HH]
+c1(c(CC)cccc1)CC.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C1(=CCCCC1CC)CC.[HH]
+C1(=CCCCC1CC)CC>>C1(=CCCC=C1CC)CC.[HH]
+C1(=CCCC=C1CC)CC>>c1(c(CC)cccc1)CC.[HH]
+c1(c(CC)cccc1)CC.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC>>C1(=CCCCC1CC)CC.[HH]
+C1(=CCCCC1CC)CC>>C1(=CCCC=C1CC)CC.[HH]
+C1(=CCCC=C1CC)CC>>c1(c(CC)cccc1)CC.[HH]
+c1(c(CC)cccc1)CC.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCC)CCC.[HH]
+C(=CC=CCCC)CCC>>C1(C(CC)C=CC=C1)CC.[HH]
+C1(C(CC)C=CC=C1)CC>>c1(c(CC)cccc1)CC.[HH]
+c1(c(CC)cccc1)CC.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C1=CC(C(CC)CC1)CC.[HH]
+C1=CC(C(CC)CC1)CC>>C1(C(CC)C=CC=C1)CC.[HH]
+C1(C(CC)C=CC=C1)CC>>c1(c(CC)cccc1)CC.[HH]
+c1(c(CC)cccc1)CC.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC>>C1=CC(C(CC)CC1)CC.[HH]
+C1=CC(C(CC)CC1)CC>>C1(C(CC)C=CC=C1)CC.[HH]
+C1(C(CC)C=CC=C1)CC>>c1(c(CC)cccc1)CC.[HH]
+c1(c(CC)cccc1)CC.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C1=CC(C(CC)CC1)CC.[HH]
+C1=CC(C(CC)CC1)CC>>C1(=C(CC)C=CCC1)CC.[HH]
+C1(=C(CC)C=CCC1)CC>>c1(c(CC)cccc1)CC.[HH]
+c1(c(CC)cccc1)CC.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC>>C1=CC(C(CC)CC1)CC.[HH]
+C1=CC(C(CC)CC1)CC>>C1(=C(CC)C=CCC1)CC.[HH]
+C1(=C(CC)C=CCC1)CC>>c1(c(CC)cccc1)CC.[HH]
+c1(c(CC)cccc1)CC.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC>>C1(=C(CC)CCCC1)CC.[HH]
+C1(=C(CC)CCCC1)CC>>C1(=C(CC)C=CCC1)CC.[HH]
+C1(=C(CC)C=CCC1)CC>>c1(c(CC)cccc1)CC.[HH]
+c1(c(CC)cccc1)CC.[HH]>>c1(c(CC)cccc1)C.C
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC.[HH]>>C(=CCC)C=CCCC.C
+C(=CCC)C=CCCC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC.[HH]>>C(=CCC)C=CCCC.C
+C(=CCC)C=CCCC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC.[HH]>>C(=CCC)CCCCC.C
+C(=CCC)CCCCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC.[HH]>>C(=CCC)CCCCC.C
+C(=CCC)CCCCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCC)CCC.[HH]
+C(=CC=CCCC)CCC.[HH]>>C(=CCC)C=CCCC.C
+C(=CCC)C=CCCC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC.[HH]>>C(=CCCCC)CCC.C
+C(=CCCCC)CCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC.[HH]>>C(=CCCCC)CCC.C
+C(=CCCCC)CCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C1(=CC=CCC1CC)CC.[HH]
+C1(=CC=CCC1CC)CC.[HH]>>C1(=CC=CCC1C)CC.C
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C1(=CC=CCC1CC)CC.[HH]
+C1(=CC=CCC1CC)CC.[HH]>>C1(=CC=CCC1C)CC.C
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C1(=CCCCC1CC)CC.[HH]
+C1(=CCCCC1CC)CC>>C1(=CC=CCC1CC)CC.[HH]
+C1(=CC=CCC1CC)CC.[HH]>>C1(=CC=CCC1C)CC.C
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC>>C1(=CCCCC1CC)CC.[HH]
+C1(=CCCCC1CC)CC>>C1(=CC=CCC1CC)CC.[HH]
+C1(=CC=CCC1CC)CC.[HH]>>C1(=CC=CCC1C)CC.C
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C1(C(CC)CC=CC1)CC.[HH]
+C1(C(CC)CC=CC1)CC>>C1(=CC=CCC1CC)CC.[HH]
+C1(=CC=CCC1CC)CC.[HH]>>C1(=CC=CCC1C)CC.C
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC>>C1(C(CC)CC=CC1)CC.[HH]
+C1(C(CC)CC=CC1)CC>>C1(=CC=CCC1CC)CC.[HH]
+C1(=CC=CCC1CC)CC.[HH]>>C1(=CC=CCC1C)CC.C
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC.[HH]>>C(=CCC)CCCCC.C
+C(=CCC)CCCCC>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC.[HH]>>C(=CCC)CCCCC.C
+C(=CCC)CCCCC>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C1(=CCCCC1CC)CC.[HH]
+C1(=CCCCC1CC)CC.[HH]>>C1(=CCCCC1C)CC.C
+C1(=CCCCC1C)CC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC>>C1(=CCCCC1CC)CC.[HH]
+C1(=CCCCC1CC)CC.[HH]>>C1(=CCCCC1C)CC.C
+C1(=CCCCC1C)CC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C1(=CCCCC1C)CCC.[HH]
+C1(=CCCCC1C)CCC.[HH]>>C1(=CCCCC1C)CC.C
+C1(=CCCCC1C)CC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(=CCCCC1C)CCC.[HH]
+C1(=CCCCC1C)CCC.[HH]>>C1(=CCCCC1C)CC.C
+C1(=CCCCC1C)CC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C.[HH]>>C1(C(CC)CCCC1)C.C
+C1(C(CC)CCCC1)C>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC.[HH]>>C1(C(CC)CCCC1)C.C
+C1(C(CC)CCCC1)C>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=CCCCC1C)CC.[HH]
+C1(=CCCCC1C)CC>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCC)CCC.[HH]
+C(=CC=CCCC)CCC>>C1(=CC=CCC1C)CCC.[HH]
+C1(=CC=CCC1C)CCC.[HH]>>C1(=CC=CCC1C)CC.C
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C1(=CCCCC1C)CCC.[HH]
+C1(=CCCCC1C)CCC>>C1(=CC=CCC1C)CCC.[HH]
+C1(=CC=CCC1C)CCC.[HH]>>C1(=CC=CCC1C)CC.C
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(=CCCCC1C)CCC.[HH]
+C1(=CCCCC1C)CCC>>C1(=CC=CCC1C)CCC.[HH]
+C1(=CC=CCC1C)CCC.[HH]>>C1(=CC=CCC1C)CC.C
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C1(C(CC=CC1)CCC)C.[HH]
+C1(C(CC=CC1)CCC)C>>C1(=CC=CCC1C)CCC.[HH]
+C1(=CC=CCC1C)CCC.[HH]>>C1(=CC=CCC1C)CC.C
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(C(CC=CC1)CCC)C.[HH]
+C1(C(CC=CC1)CCC)C>>C1(=CC=CCC1C)CCC.[HH]
+C1(=CC=CCC1C)CCC.[HH]>>C1(=CC=CCC1C)CC.C
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC.[HH]>>C(=CCCCC)CCC.C
+C(=CCCCC)CCC>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC.[HH]>>C(=CCCCC)CCC.C
+C(=CCCCC)CCC>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C1(C(CC=CC1)CCC)C.[HH]
+C1(C(CC=CC1)CCC)C.[HH]>>C1(C(CC)CC=CC1)C.C
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(C(CC=CC1)CCC)C.[HH]
+C1(C(CC=CC1)CCC)C.[HH]>>C1(C(CC)CC=CC1)C.C
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C1(C(CC)CC=CC1)CC.[HH]
+C1(C(CC)CC=CC1)CC.[HH]>>C1(C(CC)CC=CC1)C.C
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC>>C1(C(CC)CC=CC1)CC.[HH]
+C1(C(CC)CC=CC1)CC.[HH]>>C1(C(CC)CC=CC1)C.C
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C.[HH]>>C1(C(CC)CCCC1)C.C
+C1(C(CC)CCCC1)C>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC.[HH]>>C1(C(CC)CCCC1)C.C
+C1(C(CC)CCCC1)C>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CC=CC1)C.[HH]
+C1(C(CC)CC=CC1)C>>C1(=CC=CCC1C)CC.[HH]
+C1(=CC=CCC1C)CC>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC.[HH]>>C(=CCC)C=CCCC.C
+C(=CCC)C=CCCC>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC.[HH]>>C(=CCC)C=CCCC.C
+C(=CCC)C=CCCC>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC.[HH]>>C(=CCC)CCCCC.C
+C(=CCC)CCCCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC.[HH]>>C(=CCC)CCCCC.C
+C(=CCC)CCCCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCC)CCC.[HH]
+C(=CC=CCCC)CCC.[HH]>>C(=CCC)C=CCCC.C
+C(=CCC)C=CCCC>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC.[HH]>>C(=CCCCC)CCC.C
+C(=CCCCC)CCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC.[HH]>>C(=CCCCC)CCC.C
+C(=CCCCC)CCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C(=CCC)C=CCCC.[HH]
+C(=CCC)C=CCCC>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C1(C(CCC)C=CC=C1)C.[HH]
+C1(C(CCC)C=CC=C1)C.[HH]>>C1=CC(C(C=C1)CC)C.C
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C(=CCC)C=CCCCC.[HH]
+C(=CCC)C=CCCCC>>C1(C(CCC)C=CC=C1)C.[HH]
+C1(C(CCC)C=CC=C1)C.[HH]>>C1=CC(C(C=C1)CC)C.C
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C1(C(CCC=C1)CCC)C.[HH]
+C1(C(CCC=C1)CCC)C>>C1(C(CCC)C=CC=C1)C.[HH]
+C1(C(CCC)C=CC=C1)C.[HH]>>C1=CC(C(C=C1)CC)C.C
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(C(CCC=C1)CCC)C.[HH]
+C1(C(CCC=C1)CCC)C>>C1(C(CCC)C=CC=C1)C.[HH]
+C1(C(CCC)C=CC=C1)C.[HH]>>C1=CC(C(C=C1)CC)C.C
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C1(C(C=CCC1)CCC)C.[HH]
+C1(C(C=CCC1)CCC)C>>C1(C(CCC)C=CC=C1)C.[HH]
+C1(C(CCC)C=CC=C1)C.[HH]>>C1=CC(C(C=C1)CC)C.C
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(C(C=CCC1)CCC)C.[HH]
+C1(C(C=CCC1)CCC)C>>C1(C(CCC)C=CC=C1)C.[HH]
+C1(C(CCC)C=CC=C1)C.[HH]>>C1=CC(C(C=C1)CC)C.C
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC.[HH]>>C(=CCC)CCCCC.C
+C(=CCC)CCCCC>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC.[HH]>>C(=CCC)CCCCC.C
+C(=CCC)CCCCC>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C1(C(CCC=C1)CCC)C.[HH]
+C1(C(CCC=C1)CCC)C.[HH]>>C1(C(CC)CCC=C1)C.C
+C1(C(CC)CCC=C1)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(C(CCC=C1)CCC)C.[HH]
+C1(C(CCC=C1)CCC)C.[HH]>>C1(C(CC)CCC=C1)C.C
+C1(C(CC)CCC=C1)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C1=CC(C(CC)CC1)CC.[HH]
+C1=CC(C(CC)CC1)CC.[HH]>>C1(C(CC)CCC=C1)C.C
+C1(C(CC)CCC=C1)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC>>C1=CC(C(CC)CC1)CC.[HH]
+C1=CC(C(CC)CC1)CC.[HH]>>C1(C(CC)CCC=C1)C.C
+C1(C(CC)CCC=C1)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C.[HH]>>C1(C(CC)CCCC1)C.C
+C1(C(CC)CCCC1)C>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC.[HH]>>C1(C(CC)CCCC1)C.C
+C1(C(CC)CCCC1)C>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C(=CC=CCCC)CCC.[HH]
+C(=CC=CCCC)CCC>>C1(C(CC)C=CC=C1)CC.[HH]
+C1(C(CC)C=CC=C1)CC.[HH]>>C1=CC(C(C=C1)CC)C.C
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C1=CC(C(CC)CC1)CC.[HH]
+C1=CC(C(CC)CC1)CC>>C1(C(CC)C=CC=C1)CC.[HH]
+C1(C(CC)C=CC=C1)CC.[HH]>>C1=CC(C(C=C1)CC)C.C
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC>>C1=CC(C(CC)CC1)CC.[HH]
+C1=CC(C(CC)CC1)CC>>C1(C(CC)C=CC=C1)CC.[HH]
+C1(C(CC)C=CC=C1)CC.[HH]>>C1=CC(C(C=C1)CC)C.C
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC.[HH]>>C(=CCCCC)CCC.C
+C(=CCCCC)CCC>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC.[HH]>>C(=CCCCC)CCC.C
+C(=CCCCC)CCC>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C1=CC(C(CC)CC1)CC.[HH]
+C1=CC(C(CC)CC1)CC.[HH]>>C1(C(C=CCC1)CC)C.C
+C1(C(C=CCC1)CC)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC>>C1=CC(C(CC)CC1)CC.[HH]
+C1=CC(C(CC)CC1)CC.[HH]>>C1(C(C=CCC1)CC)C.C
+C1(C(C=CCC1)CC)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C1(C(C=CCC1)CCC)C.[HH]
+C1(C(C=CCC1)CCC)C.[HH]>>C1(C(C=CCC1)CC)C.C
+C1(C(C=CCC1)CC)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(C(C=CCC1)CCC)C.[HH]
+C1(C(C=CCC1)CCC)C.[HH]>>C1(C(C=CCC1)CC)C.C
+C1(C(C=CCC1)CC)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C.[HH]>>C1(C(CC)CCCC1)C.C
+C1(C(CC)CCCC1)C>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC.[HH]>>C1(C(CC)CCCC1)C.C
+C1(C(CC)CCCC1)C>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1=CC(C(C=C1)CC)C.[HH]
+C1=CC(C(C=C1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC.[HH]>>C(=CCC)CCCCC.C
+C(=CCC)CCCCC>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC.[HH]>>C(=CCC)CCCCC.C
+C(=CCC)CCCCC>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCC)CCCCC.[HH]
+C(=CCC)CCCCC>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C1(C(CCC=C1)CCC)C.[HH]
+C1(C(CCC=C1)CCC)C.[HH]>>C1(C(CC)CCC=C1)C.C
+C1(C(CC)CCC=C1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(C(CCC=C1)CCC)C.[HH]
+C1(C(CCC=C1)CCC)C.[HH]>>C1(C(CC)CCC=C1)C.C
+C1(C(CC)CCC=C1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C1=CC(C(CC)CC1)CC.[HH]
+C1=CC(C(CC)CC1)CC.[HH]>>C1(C(CC)CCC=C1)C.C
+C1(C(CC)CCC=C1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC>>C1=CC(C(CC)CC1)CC.[HH]
+C1=CC(C(CC)CC1)CC.[HH]>>C1(C(CC)CCC=C1)C.C
+C1(C(CC)CCC=C1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C.[HH]>>C1(C(CC)CCCC1)C.C
+C1(C(CC)CCCC1)C>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC.[HH]>>C1(C(CC)CCCC1)C.C
+C1(C(CC)CCCC1)C>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(CC)CCC=C1)C.[HH]
+C1(C(CC)CCC=C1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(=CCC)CCCCCC>>C1(C(CCC=C1)CCC)C.[HH]
+C1(C(CCC=C1)CCC)C>>C1(=C(CCC=C1)CCC)C.[HH]
+C1(=C(CCC=C1)CCC)C.[HH]>>C1(=C(CC)CCC=C1)C.C
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(C(CCC=C1)CCC)C.[HH]
+C1(C(CCC=C1)CCC)C>>C1(=C(CCC=C1)CCC)C.[HH]
+C1(=C(CCC=C1)CCC)C.[HH]>>C1(=C(CC)CCC=C1)C.C
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(=C(CCCC1)CCC)C.[HH]
+C1(=C(CCCC1)CCC)C>>C1(=C(CCC=C1)CCC)C.[HH]
+C1(=C(CCC=C1)CCC)C.[HH]>>C1(=C(CC)CCC=C1)C.C
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C1=CC(C(CC)CC1)CC.[HH]
+C1=CC(C(CC)CC1)CC>>C1(=C(CC)C=CCC1)CC.[HH]
+C1(=C(CC)C=CCC1)CC.[HH]>>C1(=C(CC)CCC=C1)C.C
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC>>C1=CC(C(CC)CC1)CC.[HH]
+C1=CC(C(CC)CC1)CC>>C1(=C(CC)C=CCC1)CC.[HH]
+C1(=C(CC)C=CCC1)CC.[HH]>>C1(=C(CC)CCC=C1)C.C
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC>>C1(=C(CC)CCCC1)CC.[HH]
+C1(=C(CC)CCCC1)CC>>C1(=C(CC)C=CCC1)CC.[HH]
+C1(=C(CC)C=CCC1)CC.[HH]>>C1(=C(CC)CCC=C1)C.C
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(=C(CCCC1)CCC)C.[HH]
+C1(=C(CCCC1)CCC)C.[HH]>>C1(=C(CC)CCCC1)C.C
+C1(=C(CC)CCCC1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C.[HH]>>C1(C(CC)CCCC1)C.C
+C1(C(CC)CCCC1)C>>C1(=C(CC)CCCC1)C.[HH]
+C1(=C(CC)CCCC1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC.[HH]>>C1(C(CC)CCCC1)C.C
+C1(C(CC)CCCC1)C>>C1(=C(CC)CCCC1)C.[HH]
+C1(=C(CC)CCCC1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=C(CC)CCCC1)C.[HH]
+C1(=C(CC)CCCC1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=C(CC)CCCC1)C.[HH]
+C1(=C(CC)CCCC1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=C(CC)CCCC1)C.[HH]
+C1(=C(CC)CCCC1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=C(CC)CCCC1)C.[HH]
+C1(=C(CC)CCCC1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=C(CC)CCCC1)C.[HH]
+C1(=C(CC)CCCC1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=C(CC)CCCC1)C.[HH]
+C1(=C(CC)CCCC1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=C(CC)CCCC1)C.[HH]
+C1(=C(CC)CCCC1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=C(CC)CCCC1)C.[HH]
+C1(=C(CC)CCCC1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC>>C1(=C(CC)CCCC1)CC.[HH]
+C1(=C(CC)CCCC1)CC.[HH]>>C1(=C(CC)CCCC1)C.C
+C1(=C(CC)CCCC1)C>>C1(=C(CC)CCC=C1)C.[HH]
+C1(=C(CC)CCC=C1)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC.[HH]>>C(=CCCCC)CCC.C
+C(=CCCCC)CCC>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC.[HH]>>C(=CCCCC)CCC.C
+C(=CCCCC)CCC>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C(=CCCCC)CCC.[HH]
+C(=CCCCC)CCC>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C1=CC(C(CC)CC1)CC.[HH]
+C1=CC(C(CC)CC1)CC.[HH]>>C1(C(C=CCC1)CC)C.C
+C1(C(C=CCC1)CC)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC>>C1=CC(C(CC)CC1)CC.[HH]
+C1=CC(C(CC)CC1)CC.[HH]>>C1(C(C=CCC1)CC)C.C
+C1(C(C=CCC1)CC)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C1(C(C=CCC1)CCC)C.[HH]
+C1(C(C=CCC1)CCC)C.[HH]>>C1(C(C=CCC1)CC)C.C
+C1(C(C=CCC1)CC)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(C(C=CCC1)CCC)C.[HH]
+C1(C(C=CCC1)CCC)C.[HH]>>C1(C(C=CCC1)CC)C.C
+C1(C(C=CCC1)CC)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C.[HH]>>C1(C(CC)CCCC1)C.C
+C1(C(CC)CCCC1)C>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC.[HH]>>C1(C(CC)CCCC1)C.C
+C1(C(CC)CCCC1)C>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(C(C=CCC1)CC)C.[HH]
+C1(C(C=CCC1)CC)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(=CCCCCC)CCC>>C1=CC(C(CC)CC1)CC.[HH]
+C1=CC(C(CC)CC1)CC>>C1(=C(CC)C=CCC1)CC.[HH]
+C1(=C(CC)C=CCC1)CC.[HH]>>C1(=C(C=CCC1)CC)C.C
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC>>C1=CC(C(CC)CC1)CC.[HH]
+C1=CC(C(CC)CC1)CC>>C1(=C(CC)C=CCC1)CC.[HH]
+C1(=C(CC)C=CCC1)CC.[HH]>>C1(=C(C=CCC1)CC)C.C
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC>>C1(=C(CC)CCCC1)CC.[HH]
+C1(=C(CC)CCCC1)CC>>C1(=C(CC)C=CCC1)CC.[HH]
+C1(=C(CC)C=CCC1)CC.[HH]>>C1(=C(C=CCC1)CC)C.C
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(=CCCCC)CCCC>>C1(C(C=CCC1)CCC)C.[HH]
+C1(C(C=CCC1)CCC)C>>C1(=C(C=CCC1)CCC)C.[HH]
+C1(=C(C=CCC1)CCC)C.[HH]>>C1(=C(C=CCC1)CC)C.C
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(C(C=CCC1)CCC)C.[HH]
+C1(C(C=CCC1)CCC)C>>C1(=C(C=CCC1)CCC)C.[HH]
+C1(=C(C=CCC1)CCC)C.[HH]>>C1(=C(C=CCC1)CC)C.C
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(=C(CCCC1)CCC)C.[HH]
+C1(=C(CCCC1)CCC)C>>C1(=C(C=CCC1)CCC)C.[HH]
+C1(=C(C=CCC1)CCC)C.[HH]>>C1(=C(C=CCC1)CC)C.C
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C>>C1(=C(CCCC1)CCC)C.[HH]
+C1(=C(CCCC1)CCC)C.[HH]>>C1(=C(CC)CCCC1)C.C
+C1(=C(CC)CCCC1)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C1(C(CCCC1)CCC)C.[HH]>>C1(C(CC)CCCC1)C.C
+C1(C(CC)CCCC1)C>>C1(=C(CC)CCCC1)C.[HH]
+C1(=C(CC)CCCC1)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC.[HH]>>C1(C(CC)CCCC1)C.C
+C1(C(CC)CCCC1)C>>C1(=C(CC)CCCC1)C.[HH]
+C1(=C(CC)CCCC1)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCCCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=C(CC)CCCC1)C.[HH]
+C1(=C(CC)CCCC1)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=C)CCCCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=C(CC)CCCC1)C.[HH]
+C1(=C(CC)CCCC1)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCC)CCCCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=C(CC)CCCC1)C.[HH]
+C1(=C(CC)CCCC1)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCCC)CCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=C(CC)CCCC1)C.[HH]
+C1(=C(CC)CCCC1)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C(=CCCCC)CCCC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=C(CC)CCCC1)C.[HH]
+C1(=C(CC)CCCC1)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 4 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+C(CCCCCCCC)C>>C1(C(CCCC1)CCC)C.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=C(CC)CCCC1)C.[HH]
+C1(=C(CC)CCCC1)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=C(CC)CCCC1)C.[HH]
+C1(=C(CC)CCCC1)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(CCCC)CCCCC1.[HH]
+C(CCCCCCCC)C.[HH]>>C(CCCCCCC)C.C
+C(CCCCCCC)C>>C1(C(CC)CCCC1)C.[HH]
+C1(C(CC)CCCC1)C>>C1(=C(CC)CCCC1)C.[HH]
+C1(=C(CC)CCCC1)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 6 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 2 times
+
+C(CCCCCCCC)C>>C1(C(CC)CCCC1)CC.[HH]
+C1(C(CC)CCCC1)CC>>C1(=C(CC)CCCC1)CC.[HH]
+C1(=C(CC)CCCC1)CC.[HH]>>C1(=C(CC)CCCC1)C.C
+C1(=C(CC)CCCC1)C>>C1(=C(C=CCC1)CC)C.[HH]
+C1(=C(C=CCC1)CC)C>>c1(c(CC)cccc1)C.[HH]
+
+the above pathway is of length 5 and contains
+rule Dehydrogenation occurs 3 times
+rule Hydrogenolysis occurs 1 times
+rule CyclizationA occurs 1 times
+
+total valid pathways is 540
+total distinct pathways is 540
+252 pathways from C(CCCCCCCC)C containing 
+3of rule Dehydrogenation
+1of rule Hydrogenolysis
+1of rule CyclizationA
+
+180 pathways from C(CCCCCCCC)C containing 
+4of rule Dehydrogenation
+1of rule Hydrogenolysis
+1of rule CyclizationA
+
+108 pathways from C(CCCCCCCC)C containing 
+3of rule Dehydrogenation
+1of rule Hydrogenolysis
+2of rule CyclizationA
+
+
+Number of pathways of length 5 is: 252
+Number of pathways of length 6 is: 288
+1 molecules satisfied the molecular constraints specified
