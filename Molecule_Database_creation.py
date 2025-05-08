@@ -21,7 +21,6 @@ from ase.optimize import BFGS
 from ase.vibrations import Vibrations
 from ase.units import kJ, Hartree, mol, kcal
 
-#看一下倒數第二層參數 model.print()
 
 def TorchANI_Energy(One_SMILES_String, h5py_filename, number_Conformer):
     # device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
